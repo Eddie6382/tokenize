@@ -1,0 +1,1191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="CoreNLP-to-HTML.xsl" type="text/xsl"?>
+<root>
+  <document>
+    <sentences>
+      <sentence id="1">
+        <tokens>
+          <token id="1">
+            <word>貝珊與班</word>
+            <lemma>貝珊與班</lemma>
+            <CharacterOffsetBegin>0</CharacterOffsetBegin>
+            <CharacterOffsetEnd>4</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="2">
+            <word>上</word>
+            <lemma>上</lemma>
+            <CharacterOffsetBegin>4</CharacterOffsetBegin>
+            <CharacterOffsetEnd>5</CharacterOffsetEnd>
+            <POS>LC</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="3">
+            <word>同學</word>
+            <lemma>同學</lemma>
+            <CharacterOffsetBegin>5</CharacterOffsetBegin>
+            <CharacterOffsetEnd>7</CharacterOffsetEnd>
+            <POS>VV</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="4">
+            <word>一共</word>
+            <lemma>一共</lemma>
+            <CharacterOffsetBegin>7</CharacterOffsetBegin>
+            <CharacterOffsetEnd>9</CharacterOffsetEnd>
+            <POS>AD</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="5">
+            <word>34</word>
+            <lemma>34</lemma>
+            <CharacterOffsetBegin>9</CharacterOffsetBegin>
+            <CharacterOffsetEnd>11</CharacterOffsetEnd>
+            <POS>CD</POS>
+            <NER>NUMBER</NER>
+            <NormalizedNER>34</NormalizedNER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="6">
+            <word>人</word>
+            <lemma>人</lemma>
+            <CharacterOffsetBegin>11</CharacterOffsetBegin>
+            <CharacterOffsetEnd>12</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="7">
+            <word>到</word>
+            <lemma>到</lemma>
+            <CharacterOffsetBegin>12</CharacterOffsetBegin>
+            <CharacterOffsetEnd>13</CharacterOffsetEnd>
+            <POS>VV</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="8">
+            <word>河濱</word>
+            <lemma>河濱</lemma>
+            <CharacterOffsetBegin>13</CharacterOffsetBegin>
+            <CharacterOffsetEnd>15</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="9">
+            <word>公園騎協力車</word>
+            <lemma>公園騎協力車</lemma>
+            <CharacterOffsetBegin>15</CharacterOffsetBegin>
+            <CharacterOffsetEnd>21</CharacterOffsetEnd>
+            <POS>VV</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="10">
+            <word>，</word>
+            <lemma>，</lemma>
+            <CharacterOffsetBegin>21</CharacterOffsetBegin>
+            <CharacterOffsetEnd>22</CharacterOffsetEnd>
+            <POS>PU</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="11">
+            <word>協力車</word>
+            <lemma>協力車</lemma>
+            <CharacterOffsetBegin>22</CharacterOffsetBegin>
+            <CharacterOffsetEnd>25</CharacterOffsetEnd>
+            <POS>NR</POS>
+            <NER>PERSON</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="12">
+            <word>有</word>
+            <lemma>有</lemma>
+            <CharacterOffsetBegin>25</CharacterOffsetBegin>
+            <CharacterOffsetEnd>26</CharacterOffsetEnd>
+            <POS>VE</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="13">
+            <word>2</word>
+            <lemma>2</lemma>
+            <CharacterOffsetBegin>26</CharacterOffsetBegin>
+            <CharacterOffsetEnd>27</CharacterOffsetEnd>
+            <POS>CD</POS>
+            <NER>NUMBER</NER>
+            <NormalizedNER>2</NormalizedNER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="14">
+            <word>人</word>
+            <lemma>人</lemma>
+            <CharacterOffsetBegin>27</CharacterOffsetBegin>
+            <CharacterOffsetEnd>28</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="15">
+            <word>共騎</word>
+            <lemma>共騎</lemma>
+            <CharacterOffsetBegin>28</CharacterOffsetBegin>
+            <CharacterOffsetEnd>30</CharacterOffsetEnd>
+            <POS>VV</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="16">
+            <word>的</word>
+            <lemma>的</lemma>
+            <CharacterOffsetBegin>30</CharacterOffsetBegin>
+            <CharacterOffsetEnd>31</CharacterOffsetEnd>
+            <POS>DEC</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="17">
+            <word>與3</word>
+            <lemma>與3</lemma>
+            <CharacterOffsetBegin>31</CharacterOffsetBegin>
+            <CharacterOffsetEnd>33</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="18">
+            <word>人</word>
+            <lemma>人</lemma>
+            <CharacterOffsetBegin>33</CharacterOffsetBegin>
+            <CharacterOffsetEnd>34</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="19">
+            <word>共騎</word>
+            <lemma>共騎</lemma>
+            <CharacterOffsetBegin>34</CharacterOffsetBegin>
+            <CharacterOffsetEnd>36</CharacterOffsetEnd>
+            <POS>VV</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="20">
+            <word>的</word>
+            <lemma>的</lemma>
+            <CharacterOffsetBegin>36</CharacterOffsetBegin>
+            <CharacterOffsetEnd>37</CharacterOffsetEnd>
+            <POS>DEC</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="21">
+            <word>兩種</word>
+            <lemma>兩種</lemma>
+            <CharacterOffsetBegin>37</CharacterOffsetBegin>
+            <CharacterOffsetEnd>39</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="22">
+            <word>，</word>
+            <lemma>，</lemma>
+            <CharacterOffsetBegin>39</CharacterOffsetBegin>
+            <CharacterOffsetEnd>40</CharacterOffsetEnd>
+            <POS>PU</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="23">
+            <word>他</word>
+            <lemma>他</lemma>
+            <CharacterOffsetBegin>40</CharacterOffsetBegin>
+            <CharacterOffsetEnd>41</CharacterOffsetEnd>
+            <POS>PN</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="24">
+            <word>們</word>
+            <lemma>們</lemma>
+            <CharacterOffsetBegin>41</CharacterOffsetBegin>
+            <CharacterOffsetEnd>42</CharacterOffsetEnd>
+            <POS>VV</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="25">
+            <word>一共</word>
+            <lemma>一共</lemma>
+            <CharacterOffsetBegin>42</CharacterOffsetBegin>
+            <CharacterOffsetEnd>44</CharacterOffsetEnd>
+            <POS>AD</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="26">
+            <word>租</word>
+            <lemma>租</lemma>
+            <CharacterOffsetBegin>44</CharacterOffsetBegin>
+            <CharacterOffsetEnd>45</CharacterOffsetEnd>
+            <POS>VV</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="27">
+            <word>了</word>
+            <lemma>了</lemma>
+            <CharacterOffsetBegin>45</CharacterOffsetBegin>
+            <CharacterOffsetEnd>46</CharacterOffsetEnd>
+            <POS>AS</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="28">
+            <word>13</word>
+            <lemma>13</lemma>
+            <CharacterOffsetBegin>46</CharacterOffsetBegin>
+            <CharacterOffsetEnd>48</CharacterOffsetEnd>
+            <POS>CD</POS>
+            <NER>NUMBER</NER>
+            <NormalizedNER>13</NormalizedNER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="29">
+            <word>輛協力車</word>
+            <lemma>輛協力車</lemma>
+            <CharacterOffsetBegin>48</CharacterOffsetBegin>
+            <CharacterOffsetEnd>52</CharacterOffsetEnd>
+            <POS>VV</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="30">
+            <word>。</word>
+            <lemma>。</lemma>
+            <CharacterOffsetBegin>52</CharacterOffsetBegin>
+            <CharacterOffsetEnd>53</CharacterOffsetEnd>
+            <POS>PU</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+        </tokens>
+        <parse>(ROOT (IP (IP (LCP (NP (NN 貝珊與班)) (LC 上)) (VP (VV 同學) (NP (QP (ADVP (AD 一共)) (QP (CD 34))) (NP (NN 人))) (IP (VP (VP (VV 到) (NP (NN 河濱))) (VP (VV 公園騎協力車)))))) (PU ，) (IP (NP (NR 協力車)) (VP (VE 有) (NP (CP (IP (NP (CP (IP (NP (QP (CD 2)) (NP (NN 人))) (VP (VV 共騎))) (DEC 的)) (NP (NN 與3) (NN 人))) (VP (VV 共騎))) (DEC 的)) (NP (NN 兩種))))) (PU ，) (IP (NP (PN 他)) (VP (VV 們) (IP (VP (ADVP (AD 一共)) (VP (VV 租) (AS 了) (IP (VP (QP (CD 13)) (VP (VV 輛協力車))))))))) (PU 。))) </parse>
+        <dependencies type="basic-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="3">同學</dependent>
+          </dep>
+          <dep type="advmod:loc">
+            <governor idx="3">同學</governor>
+            <dependent idx="1">貝珊與班</dependent>
+          </dep>
+          <dep type="case">
+            <governor idx="1">貝珊與班</governor>
+            <dependent idx="2">上</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="6">人</governor>
+            <dependent idx="4">一共</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="6">人</governor>
+            <dependent idx="5">34</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="7">到</governor>
+            <dependent idx="6">人</dependent>
+          </dep>
+          <dep type="ccomp">
+            <governor idx="3">同學</governor>
+            <dependent idx="7">到</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="7">到</governor>
+            <dependent idx="8">河濱</dependent>
+          </dep>
+          <dep type="conj">
+            <governor idx="7">到</governor>
+            <dependent idx="9">公園騎協力車</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="3">同學</governor>
+            <dependent idx="10">，</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="12">有</governor>
+            <dependent idx="11">協力車</dependent>
+          </dep>
+          <dep type="conj">
+            <governor idx="3">同學</governor>
+            <dependent idx="12">有</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="14">人</governor>
+            <dependent idx="13">2</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="15">共騎</governor>
+            <dependent idx="14">人</dependent>
+          </dep>
+          <dep type="acl">
+            <governor idx="18">人</governor>
+            <dependent idx="15">共騎</dependent>
+          </dep>
+          <dep type="mark">
+            <governor idx="15">共騎</governor>
+            <dependent idx="16">的</dependent>
+          </dep>
+          <dep type="compound:nn">
+            <governor idx="18">人</governor>
+            <dependent idx="17">與3</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="19">共騎</governor>
+            <dependent idx="18">人</dependent>
+          </dep>
+          <dep type="acl">
+            <governor idx="21">兩種</governor>
+            <dependent idx="19">共騎</dependent>
+          </dep>
+          <dep type="mark">
+            <governor idx="19">共騎</governor>
+            <dependent idx="20">的</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="12">有</governor>
+            <dependent idx="21">兩種</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="3">同學</governor>
+            <dependent idx="22">，</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="24">們</governor>
+            <dependent idx="23">他</dependent>
+          </dep>
+          <dep type="conj">
+            <governor idx="3">同學</governor>
+            <dependent idx="24">們</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="26">租</governor>
+            <dependent idx="25">一共</dependent>
+          </dep>
+          <dep type="ccomp">
+            <governor idx="24">們</governor>
+            <dependent idx="26">租</dependent>
+          </dep>
+          <dep type="aux:asp">
+            <governor idx="26">租</governor>
+            <dependent idx="27">了</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="29">輛協力車</governor>
+            <dependent idx="28">13</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="26">租</governor>
+            <dependent idx="29">輛協力車</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="3">同學</governor>
+            <dependent idx="30">。</dependent>
+          </dep>
+        </dependencies>
+        <dependencies type="collapsed-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="3">同學</dependent>
+          </dep>
+          <dep type="advmod:loc">
+            <governor idx="3">同學</governor>
+            <dependent idx="1">貝珊與班</dependent>
+          </dep>
+          <dep type="case">
+            <governor idx="1">貝珊與班</governor>
+            <dependent idx="2">上</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="6">人</governor>
+            <dependent idx="4">一共</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="6">人</governor>
+            <dependent idx="5">34</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="7">到</governor>
+            <dependent idx="6">人</dependent>
+          </dep>
+          <dep type="ccomp">
+            <governor idx="3">同學</governor>
+            <dependent idx="7">到</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="7">到</governor>
+            <dependent idx="8">河濱</dependent>
+          </dep>
+          <dep type="conj">
+            <governor idx="7">到</governor>
+            <dependent idx="9">公園騎協力車</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="3">同學</governor>
+            <dependent idx="10">，</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="12">有</governor>
+            <dependent idx="11">協力車</dependent>
+          </dep>
+          <dep type="conj">
+            <governor idx="3">同學</governor>
+            <dependent idx="12">有</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="14">人</governor>
+            <dependent idx="13">2</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="15">共騎</governor>
+            <dependent idx="14">人</dependent>
+          </dep>
+          <dep type="acl">
+            <governor idx="18">人</governor>
+            <dependent idx="15">共騎</dependent>
+          </dep>
+          <dep type="mark">
+            <governor idx="15">共騎</governor>
+            <dependent idx="16">的</dependent>
+          </dep>
+          <dep type="compound:nn">
+            <governor idx="18">人</governor>
+            <dependent idx="17">與3</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="19">共騎</governor>
+            <dependent idx="18">人</dependent>
+          </dep>
+          <dep type="acl">
+            <governor idx="21">兩種</governor>
+            <dependent idx="19">共騎</dependent>
+          </dep>
+          <dep type="mark">
+            <governor idx="19">共騎</governor>
+            <dependent idx="20">的</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="12">有</governor>
+            <dependent idx="21">兩種</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="3">同學</governor>
+            <dependent idx="22">，</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="24">們</governor>
+            <dependent idx="23">他</dependent>
+          </dep>
+          <dep type="conj">
+            <governor idx="3">同學</governor>
+            <dependent idx="24">們</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="26">租</governor>
+            <dependent idx="25">一共</dependent>
+          </dep>
+          <dep type="ccomp">
+            <governor idx="24">們</governor>
+            <dependent idx="26">租</dependent>
+          </dep>
+          <dep type="aux:asp">
+            <governor idx="26">租</governor>
+            <dependent idx="27">了</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="29">輛協力車</governor>
+            <dependent idx="28">13</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="26">租</governor>
+            <dependent idx="29">輛協力車</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="3">同學</governor>
+            <dependent idx="30">。</dependent>
+          </dep>
+        </dependencies>
+        <dependencies type="collapsed-ccprocessed-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="3">同學</dependent>
+          </dep>
+          <dep type="advmod:loc">
+            <governor idx="3">同學</governor>
+            <dependent idx="1">貝珊與班</dependent>
+          </dep>
+          <dep type="case">
+            <governor idx="1">貝珊與班</governor>
+            <dependent idx="2">上</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="6">人</governor>
+            <dependent idx="4">一共</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="6">人</governor>
+            <dependent idx="5">34</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="7">到</governor>
+            <dependent idx="6">人</dependent>
+          </dep>
+          <dep type="ccomp">
+            <governor idx="3">同學</governor>
+            <dependent idx="7">到</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="7">到</governor>
+            <dependent idx="8">河濱</dependent>
+          </dep>
+          <dep type="conj">
+            <governor idx="7">到</governor>
+            <dependent idx="9">公園騎協力車</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="3">同學</governor>
+            <dependent idx="10">，</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="12">有</governor>
+            <dependent idx="11">協力車</dependent>
+          </dep>
+          <dep type="conj">
+            <governor idx="3">同學</governor>
+            <dependent idx="12">有</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="14">人</governor>
+            <dependent idx="13">2</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="15">共騎</governor>
+            <dependent idx="14">人</dependent>
+          </dep>
+          <dep type="acl">
+            <governor idx="18">人</governor>
+            <dependent idx="15">共騎</dependent>
+          </dep>
+          <dep type="mark">
+            <governor idx="15">共騎</governor>
+            <dependent idx="16">的</dependent>
+          </dep>
+          <dep type="compound:nn">
+            <governor idx="18">人</governor>
+            <dependent idx="17">與3</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="19">共騎</governor>
+            <dependent idx="18">人</dependent>
+          </dep>
+          <dep type="acl">
+            <governor idx="21">兩種</governor>
+            <dependent idx="19">共騎</dependent>
+          </dep>
+          <dep type="mark">
+            <governor idx="19">共騎</governor>
+            <dependent idx="20">的</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="12">有</governor>
+            <dependent idx="21">兩種</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="3">同學</governor>
+            <dependent idx="22">，</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="24">們</governor>
+            <dependent idx="23">他</dependent>
+          </dep>
+          <dep type="conj">
+            <governor idx="3">同學</governor>
+            <dependent idx="24">們</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="26">租</governor>
+            <dependent idx="25">一共</dependent>
+          </dep>
+          <dep type="ccomp">
+            <governor idx="24">們</governor>
+            <dependent idx="26">租</dependent>
+          </dep>
+          <dep type="aux:asp">
+            <governor idx="26">租</governor>
+            <dependent idx="27">了</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="29">輛協力車</governor>
+            <dependent idx="28">13</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="26">租</governor>
+            <dependent idx="29">輛協力車</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="3">同學</governor>
+            <dependent idx="30">。</dependent>
+          </dep>
+        </dependencies>
+        <dependencies type="enhanced-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="3">同學</dependent>
+          </dep>
+          <dep type="advmod:loc">
+            <governor idx="3">同學</governor>
+            <dependent idx="1">貝珊與班</dependent>
+          </dep>
+          <dep type="case">
+            <governor idx="1">貝珊與班</governor>
+            <dependent idx="2">上</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="6">人</governor>
+            <dependent idx="4">一共</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="6">人</governor>
+            <dependent idx="5">34</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="7">到</governor>
+            <dependent idx="6">人</dependent>
+          </dep>
+          <dep type="ccomp">
+            <governor idx="3">同學</governor>
+            <dependent idx="7">到</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="7">到</governor>
+            <dependent idx="8">河濱</dependent>
+          </dep>
+          <dep type="conj">
+            <governor idx="7">到</governor>
+            <dependent idx="9">公園騎協力車</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="3">同學</governor>
+            <dependent idx="10">，</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="12">有</governor>
+            <dependent idx="11">協力車</dependent>
+          </dep>
+          <dep type="conj">
+            <governor idx="3">同學</governor>
+            <dependent idx="12">有</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="14">人</governor>
+            <dependent idx="13">2</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="15">共騎</governor>
+            <dependent idx="14">人</dependent>
+          </dep>
+          <dep type="acl">
+            <governor idx="18">人</governor>
+            <dependent idx="15">共騎</dependent>
+          </dep>
+          <dep type="mark">
+            <governor idx="15">共騎</governor>
+            <dependent idx="16">的</dependent>
+          </dep>
+          <dep type="compound:nn">
+            <governor idx="18">人</governor>
+            <dependent idx="17">與3</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="19">共騎</governor>
+            <dependent idx="18">人</dependent>
+          </dep>
+          <dep type="acl">
+            <governor idx="21">兩種</governor>
+            <dependent idx="19">共騎</dependent>
+          </dep>
+          <dep type="mark">
+            <governor idx="19">共騎</governor>
+            <dependent idx="20">的</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="12">有</governor>
+            <dependent idx="21">兩種</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="3">同學</governor>
+            <dependent idx="22">，</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="24">們</governor>
+            <dependent idx="23">他</dependent>
+          </dep>
+          <dep type="conj">
+            <governor idx="3">同學</governor>
+            <dependent idx="24">們</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="26">租</governor>
+            <dependent idx="25">一共</dependent>
+          </dep>
+          <dep type="ccomp">
+            <governor idx="24">們</governor>
+            <dependent idx="26">租</dependent>
+          </dep>
+          <dep type="aux:asp">
+            <governor idx="26">租</governor>
+            <dependent idx="27">了</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="29">輛協力車</governor>
+            <dependent idx="28">13</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="26">租</governor>
+            <dependent idx="29">輛協力車</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="3">同學</governor>
+            <dependent idx="30">。</dependent>
+          </dep>
+        </dependencies>
+        <dependencies type="enhanced-plus-plus-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="3">同學</dependent>
+          </dep>
+          <dep type="advmod:loc">
+            <governor idx="3">同學</governor>
+            <dependent idx="1">貝珊與班</dependent>
+          </dep>
+          <dep type="case">
+            <governor idx="1">貝珊與班</governor>
+            <dependent idx="2">上</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="6">人</governor>
+            <dependent idx="4">一共</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="6">人</governor>
+            <dependent idx="5">34</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="7">到</governor>
+            <dependent idx="6">人</dependent>
+          </dep>
+          <dep type="ccomp">
+            <governor idx="3">同學</governor>
+            <dependent idx="7">到</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="7">到</governor>
+            <dependent idx="8">河濱</dependent>
+          </dep>
+          <dep type="conj">
+            <governor idx="7">到</governor>
+            <dependent idx="9">公園騎協力車</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="3">同學</governor>
+            <dependent idx="10">，</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="12">有</governor>
+            <dependent idx="11">協力車</dependent>
+          </dep>
+          <dep type="conj">
+            <governor idx="3">同學</governor>
+            <dependent idx="12">有</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="14">人</governor>
+            <dependent idx="13">2</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="15">共騎</governor>
+            <dependent idx="14">人</dependent>
+          </dep>
+          <dep type="acl">
+            <governor idx="18">人</governor>
+            <dependent idx="15">共騎</dependent>
+          </dep>
+          <dep type="mark">
+            <governor idx="15">共騎</governor>
+            <dependent idx="16">的</dependent>
+          </dep>
+          <dep type="compound:nn">
+            <governor idx="18">人</governor>
+            <dependent idx="17">與3</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="19">共騎</governor>
+            <dependent idx="18">人</dependent>
+          </dep>
+          <dep type="acl">
+            <governor idx="21">兩種</governor>
+            <dependent idx="19">共騎</dependent>
+          </dep>
+          <dep type="mark">
+            <governor idx="19">共騎</governor>
+            <dependent idx="20">的</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="12">有</governor>
+            <dependent idx="21">兩種</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="3">同學</governor>
+            <dependent idx="22">，</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="24">們</governor>
+            <dependent idx="23">他</dependent>
+          </dep>
+          <dep type="conj">
+            <governor idx="3">同學</governor>
+            <dependent idx="24">們</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="26">租</governor>
+            <dependent idx="25">一共</dependent>
+          </dep>
+          <dep type="ccomp">
+            <governor idx="24">們</governor>
+            <dependent idx="26">租</dependent>
+          </dep>
+          <dep type="aux:asp">
+            <governor idx="26">租</governor>
+            <dependent idx="27">了</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="29">輛協力車</governor>
+            <dependent idx="28">13</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="26">租</governor>
+            <dependent idx="29">輛協力車</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="3">同學</governor>
+            <dependent idx="30">。</dependent>
+          </dep>
+        </dependencies>
+      </sentence>
+      <sentence id="2">
+        <tokens>
+          <token id="1">
+            <word>2</word>
+            <lemma>2</lemma>
+            <CharacterOffsetBegin>53</CharacterOffsetBegin>
+            <CharacterOffsetEnd>54</CharacterOffsetEnd>
+            <POS>CD</POS>
+            <NER>NUMBER</NER>
+            <NormalizedNER>2</NormalizedNER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="2">
+            <word>人</word>
+            <lemma>人</lemma>
+            <CharacterOffsetBegin>54</CharacterOffsetBegin>
+            <CharacterOffsetEnd>55</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="3">
+            <word>共騎</word>
+            <lemma>共騎</lemma>
+            <CharacterOffsetBegin>55</CharacterOffsetBegin>
+            <CharacterOffsetEnd>57</CharacterOffsetEnd>
+            <POS>VV</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="4">
+            <word>的</word>
+            <lemma>的</lemma>
+            <CharacterOffsetBegin>57</CharacterOffsetBegin>
+            <CharacterOffsetEnd>58</CharacterOffsetEnd>
+            <POS>DEC</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="5">
+            <word>協力車</word>
+            <lemma>協力車</lemma>
+            <CharacterOffsetBegin>58</CharacterOffsetBegin>
+            <CharacterOffsetEnd>61</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="6">
+            <word>有</word>
+            <lemma>有</lemma>
+            <CharacterOffsetBegin>61</CharacterOffsetBegin>
+            <CharacterOffsetEnd>62</CharacterOffsetEnd>
+            <POS>VE</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="7">
+            <word>多少</word>
+            <lemma>多少</lemma>
+            <CharacterOffsetBegin>62</CharacterOffsetBegin>
+            <CharacterOffsetEnd>64</CharacterOffsetEnd>
+            <POS>CD</POS>
+            <NER>NUMBER</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="8">
+            <word>輛</word>
+            <lemma>輛</lemma>
+            <CharacterOffsetBegin>64</CharacterOffsetBegin>
+            <CharacterOffsetEnd>65</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="9">
+            <word>？</word>
+            <lemma>？</lemma>
+            <CharacterOffsetBegin>65</CharacterOffsetBegin>
+            <CharacterOffsetEnd>66</CharacterOffsetEnd>
+            <POS>PU</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+        </tokens>
+        <parse>(ROOT (IP (NP (CP (IP (NP (QP (CD 2)) (NP (NN 人))) (VP (VV 共騎))) (DEC 的)) (NP (NN 協力車))) (VP (VE 有) (NP (QP (CD 多少)) (NP (NN 輛)))) (PU ？))) </parse>
+        <dependencies type="basic-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="6">有</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="2">人</governor>
+            <dependent idx="1">2</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="3">共騎</governor>
+            <dependent idx="2">人</dependent>
+          </dep>
+          <dep type="acl">
+            <governor idx="5">協力車</governor>
+            <dependent idx="3">共騎</dependent>
+          </dep>
+          <dep type="mark">
+            <governor idx="3">共騎</governor>
+            <dependent idx="4">的</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="6">有</governor>
+            <dependent idx="5">協力車</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="8">輛</governor>
+            <dependent idx="7">多少</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="6">有</governor>
+            <dependent idx="8">輛</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="6">有</governor>
+            <dependent idx="9">？</dependent>
+          </dep>
+        </dependencies>
+        <dependencies type="collapsed-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="6">有</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="2">人</governor>
+            <dependent idx="1">2</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="3">共騎</governor>
+            <dependent idx="2">人</dependent>
+          </dep>
+          <dep type="acl">
+            <governor idx="5">協力車</governor>
+            <dependent idx="3">共騎</dependent>
+          </dep>
+          <dep type="mark">
+            <governor idx="3">共騎</governor>
+            <dependent idx="4">的</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="6">有</governor>
+            <dependent idx="5">協力車</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="8">輛</governor>
+            <dependent idx="7">多少</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="6">有</governor>
+            <dependent idx="8">輛</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="6">有</governor>
+            <dependent idx="9">？</dependent>
+          </dep>
+        </dependencies>
+        <dependencies type="collapsed-ccprocessed-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="6">有</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="2">人</governor>
+            <dependent idx="1">2</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="3">共騎</governor>
+            <dependent idx="2">人</dependent>
+          </dep>
+          <dep type="acl">
+            <governor idx="5">協力車</governor>
+            <dependent idx="3">共騎</dependent>
+          </dep>
+          <dep type="mark">
+            <governor idx="3">共騎</governor>
+            <dependent idx="4">的</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="6">有</governor>
+            <dependent idx="5">協力車</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="8">輛</governor>
+            <dependent idx="7">多少</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="6">有</governor>
+            <dependent idx="8">輛</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="6">有</governor>
+            <dependent idx="9">？</dependent>
+          </dep>
+        </dependencies>
+        <dependencies type="enhanced-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="6">有</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="2">人</governor>
+            <dependent idx="1">2</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="3">共騎</governor>
+            <dependent idx="2">人</dependent>
+          </dep>
+          <dep type="acl">
+            <governor idx="5">協力車</governor>
+            <dependent idx="3">共騎</dependent>
+          </dep>
+          <dep type="mark">
+            <governor idx="3">共騎</governor>
+            <dependent idx="4">的</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="6">有</governor>
+            <dependent idx="5">協力車</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="8">輛</governor>
+            <dependent idx="7">多少</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="6">有</governor>
+            <dependent idx="8">輛</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="6">有</governor>
+            <dependent idx="9">？</dependent>
+          </dep>
+        </dependencies>
+        <dependencies type="enhanced-plus-plus-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="6">有</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="2">人</governor>
+            <dependent idx="1">2</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="3">共騎</governor>
+            <dependent idx="2">人</dependent>
+          </dep>
+          <dep type="acl">
+            <governor idx="5">協力車</governor>
+            <dependent idx="3">共騎</dependent>
+          </dep>
+          <dep type="mark">
+            <governor idx="3">共騎</governor>
+            <dependent idx="4">的</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="6">有</governor>
+            <dependent idx="5">協力車</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="8">輛</governor>
+            <dependent idx="7">多少</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="6">有</governor>
+            <dependent idx="8">輛</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="6">有</governor>
+            <dependent idx="9">？</dependent>
+          </dep>
+        </dependencies>
+      </sentence>
+    </sentences>
+    <coreference>
+      <coreference>
+        <mention representative="true">
+          <sentence>1</sentence>
+          <start>13</start>
+          <end>15</end>
+          <head>14</head>
+          <text>2 人</text>
+        </mention>
+        <mention>
+          <sentence>2</sentence>
+          <start>1</start>
+          <end>3</end>
+          <head>2</head>
+          <text>2 人</text>
+        </mention>
+      </coreference>
+    </coreference>
+  </document>
+</root>

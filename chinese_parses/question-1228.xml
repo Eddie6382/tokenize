@@ -1,0 +1,664 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="CoreNLP-to-HTML.xsl" type="text/xsl"?>
+<root>
+  <document>
+    <sentences>
+      <sentence id="1">
+        <tokens>
+          <token id="1">
+            <word>有</word>
+            <lemma>有</lemma>
+            <CharacterOffsetBegin>0</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1</CharacterOffsetEnd>
+            <POS>VE</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="2">
+            <word>一</word>
+            <lemma>一</lemma>
+            <CharacterOffsetBegin>1</CharacterOffsetBegin>
+            <CharacterOffsetEnd>2</CharacterOffsetEnd>
+            <POS>CD</POS>
+            <NER>NUMBER</NER>
+            <NormalizedNER>1</NormalizedNER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="3">
+            <word>塊</word>
+            <lemma>塊</lemma>
+            <CharacterOffsetBegin>2</CharacterOffsetBegin>
+            <CharacterOffsetEnd>3</CharacterOffsetEnd>
+            <POS>M</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="4">
+            <word>三角形</word>
+            <lemma>三角形</lemma>
+            <CharacterOffsetBegin>3</CharacterOffsetBegin>
+            <CharacterOffsetEnd>6</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="5">
+            <word>土地</word>
+            <lemma>土地</lemma>
+            <CharacterOffsetBegin>6</CharacterOffsetBegin>
+            <CharacterOffsetEnd>8</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="6">
+            <word>的</word>
+            <lemma>的</lemma>
+            <CharacterOffsetBegin>8</CharacterOffsetBegin>
+            <CharacterOffsetEnd>9</CharacterOffsetEnd>
+            <POS>DEG</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="7">
+            <word>面積</word>
+            <lemma>面積</lemma>
+            <CharacterOffsetBegin>9</CharacterOffsetBegin>
+            <CharacterOffsetEnd>11</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="8">
+            <word>是</word>
+            <lemma>是</lemma>
+            <CharacterOffsetBegin>11</CharacterOffsetBegin>
+            <CharacterOffsetEnd>12</CharacterOffsetEnd>
+            <POS>VC</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="9">
+            <word>74.75</word>
+            <lemma>74.75</lemma>
+            <CharacterOffsetBegin>12</CharacterOffsetBegin>
+            <CharacterOffsetEnd>17</CharacterOffsetEnd>
+            <POS>CD</POS>
+            <NER>NUMBER</NER>
+            <NormalizedNER>74.75</NormalizedNER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="10">
+            <word>公畝</word>
+            <lemma>公畝</lemma>
+            <CharacterOffsetBegin>17</CharacterOffsetBegin>
+            <CharacterOffsetEnd>19</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="11">
+            <word>，</word>
+            <lemma>，</lemma>
+            <CharacterOffsetBegin>19</CharacterOffsetBegin>
+            <CharacterOffsetEnd>20</CharacterOffsetEnd>
+            <POS>PU</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="12">
+            <word>已</word>
+            <lemma>已</lemma>
+            <CharacterOffsetBegin>20</CharacterOffsetBegin>
+            <CharacterOffsetEnd>21</CharacterOffsetEnd>
+            <POS>AD</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="13">
+            <word>知底</word>
+            <lemma>知底</lemma>
+            <CharacterOffsetBegin>21</CharacterOffsetBegin>
+            <CharacterOffsetEnd>23</CharacterOffsetEnd>
+            <POS>VV</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="14">
+            <word>是</word>
+            <lemma>是</lemma>
+            <CharacterOffsetBegin>23</CharacterOffsetBegin>
+            <CharacterOffsetEnd>24</CharacterOffsetEnd>
+            <POS>VC</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="15">
+            <word>230</word>
+            <lemma>230</lemma>
+            <CharacterOffsetBegin>24</CharacterOffsetBegin>
+            <CharacterOffsetEnd>27</CharacterOffsetEnd>
+            <POS>CD</POS>
+            <NER>NUMBER</NER>
+            <NormalizedNER>230</NormalizedNER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="16">
+            <word>公尺</word>
+            <lemma>公尺</lemma>
+            <CharacterOffsetBegin>27</CharacterOffsetBegin>
+            <CharacterOffsetEnd>29</CharacterOffsetEnd>
+            <POS>M</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="17">
+            <word>，</word>
+            <lemma>，</lemma>
+            <CharacterOffsetBegin>29</CharacterOffsetBegin>
+            <CharacterOffsetEnd>30</CharacterOffsetEnd>
+            <POS>PU</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="18">
+            <word>高</word>
+            <lemma>高</lemma>
+            <CharacterOffsetBegin>30</CharacterOffsetBegin>
+            <CharacterOffsetEnd>31</CharacterOffsetEnd>
+            <POS>AD</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="19">
+            <word>是</word>
+            <lemma>是</lemma>
+            <CharacterOffsetBegin>31</CharacterOffsetBegin>
+            <CharacterOffsetEnd>32</CharacterOffsetEnd>
+            <POS>VC</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="20">
+            <word>多少</word>
+            <lemma>多少</lemma>
+            <CharacterOffsetBegin>32</CharacterOffsetBegin>
+            <CharacterOffsetEnd>34</CharacterOffsetEnd>
+            <POS>CD</POS>
+            <NER>NUMBER</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="21">
+            <word>公尺</word>
+            <lemma>公尺</lemma>
+            <CharacterOffsetBegin>34</CharacterOffsetBegin>
+            <CharacterOffsetEnd>36</CharacterOffsetEnd>
+            <POS>M</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="22">
+            <word>？</word>
+            <lemma>？</lemma>
+            <CharacterOffsetBegin>36</CharacterOffsetBegin>
+            <CharacterOffsetEnd>37</CharacterOffsetEnd>
+            <POS>PU</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+        </tokens>
+        <parse>(ROOT (IP (IP (VP (VE 有) (IP (NP (DNP (NP (QP (CD 一) (CLP (M 塊))) (NP (NN 三角形) (NN 土地))) (DEG 的)) (NP (NN 面積))) (VP (VC 是) (NP (QP (CD 74.75)) (NP (NN 公畝))))))) (PU ，) (IP (VP (ADVP (AD 已)) (VP (VV 知底) (IP (VP (VC 是) (QP (CD 230) (CLP (M 公尺)))))))) (PU ，) (IP (VP (ADVP (AD 高)) (VP (VC 是) (QP (CD 多少) (CLP (M 公尺)))))) (PU ？))) </parse>
+        <dependencies type="basic-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="19">是</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="13">知底</governor>
+            <dependent idx="1">有</dependent>
+          </dep>
+          <dep type="nummod">
+            <governor idx="5">土地</governor>
+            <dependent idx="2">一</dependent>
+          </dep>
+          <dep type="mark:clf">
+            <governor idx="2">一</governor>
+            <dependent idx="3">塊</dependent>
+          </dep>
+          <dep type="compound:nn">
+            <governor idx="5">土地</governor>
+            <dependent idx="4">三角形</dependent>
+          </dep>
+          <dep type="nmod:assmod">
+            <governor idx="7">面積</governor>
+            <dependent idx="5">土地</dependent>
+          </dep>
+          <dep type="case">
+            <governor idx="5">土地</governor>
+            <dependent idx="6">的</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="10">公畝</governor>
+            <dependent idx="7">面積</dependent>
+          </dep>
+          <dep type="cop">
+            <governor idx="10">公畝</governor>
+            <dependent idx="8">是</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="10">公畝</governor>
+            <dependent idx="9">74.75</dependent>
+          </dep>
+          <dep type="ccomp">
+            <governor idx="1">有</governor>
+            <dependent idx="10">公畝</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="13">知底</governor>
+            <dependent idx="11">，</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="13">知底</governor>
+            <dependent idx="12">已</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="19">是</governor>
+            <dependent idx="13">知底</dependent>
+          </dep>
+          <dep type="cop">
+            <governor idx="19">是</governor>
+            <dependent idx="14">是</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="14">是</governor>
+            <dependent idx="15">230</dependent>
+          </dep>
+          <dep type="mark:clf">
+            <governor idx="15">230</governor>
+            <dependent idx="16">公尺</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="19">是</governor>
+            <dependent idx="17">，</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="19">是</governor>
+            <dependent idx="18">高</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="19">是</governor>
+            <dependent idx="20">多少</dependent>
+          </dep>
+          <dep type="mark:clf">
+            <governor idx="20">多少</governor>
+            <dependent idx="21">公尺</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="19">是</governor>
+            <dependent idx="22">？</dependent>
+          </dep>
+        </dependencies>
+        <dependencies type="collapsed-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="19">是</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="13">知底</governor>
+            <dependent idx="1">有</dependent>
+          </dep>
+          <dep type="nummod">
+            <governor idx="5">土地</governor>
+            <dependent idx="2">一</dependent>
+          </dep>
+          <dep type="mark:clf">
+            <governor idx="2">一</governor>
+            <dependent idx="3">塊</dependent>
+          </dep>
+          <dep type="compound:nn">
+            <governor idx="5">土地</governor>
+            <dependent idx="4">三角形</dependent>
+          </dep>
+          <dep type="nmod:assmod">
+            <governor idx="7">面積</governor>
+            <dependent idx="5">土地</dependent>
+          </dep>
+          <dep type="case">
+            <governor idx="5">土地</governor>
+            <dependent idx="6">的</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="10">公畝</governor>
+            <dependent idx="7">面積</dependent>
+          </dep>
+          <dep type="cop">
+            <governor idx="10">公畝</governor>
+            <dependent idx="8">是</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="10">公畝</governor>
+            <dependent idx="9">74.75</dependent>
+          </dep>
+          <dep type="ccomp">
+            <governor idx="1">有</governor>
+            <dependent idx="10">公畝</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="13">知底</governor>
+            <dependent idx="11">，</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="13">知底</governor>
+            <dependent idx="12">已</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="19">是</governor>
+            <dependent idx="13">知底</dependent>
+          </dep>
+          <dep type="cop">
+            <governor idx="19">是</governor>
+            <dependent idx="14">是</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="14">是</governor>
+            <dependent idx="15">230</dependent>
+          </dep>
+          <dep type="mark:clf">
+            <governor idx="15">230</governor>
+            <dependent idx="16">公尺</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="19">是</governor>
+            <dependent idx="17">，</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="19">是</governor>
+            <dependent idx="18">高</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="19">是</governor>
+            <dependent idx="20">多少</dependent>
+          </dep>
+          <dep type="mark:clf">
+            <governor idx="20">多少</governor>
+            <dependent idx="21">公尺</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="19">是</governor>
+            <dependent idx="22">？</dependent>
+          </dep>
+        </dependencies>
+        <dependencies type="collapsed-ccprocessed-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="19">是</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="13">知底</governor>
+            <dependent idx="1">有</dependent>
+          </dep>
+          <dep type="nummod">
+            <governor idx="5">土地</governor>
+            <dependent idx="2">一</dependent>
+          </dep>
+          <dep type="mark:clf">
+            <governor idx="2">一</governor>
+            <dependent idx="3">塊</dependent>
+          </dep>
+          <dep type="compound:nn">
+            <governor idx="5">土地</governor>
+            <dependent idx="4">三角形</dependent>
+          </dep>
+          <dep type="nmod:assmod">
+            <governor idx="7">面積</governor>
+            <dependent idx="5">土地</dependent>
+          </dep>
+          <dep type="case">
+            <governor idx="5">土地</governor>
+            <dependent idx="6">的</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="10">公畝</governor>
+            <dependent idx="7">面積</dependent>
+          </dep>
+          <dep type="cop">
+            <governor idx="10">公畝</governor>
+            <dependent idx="8">是</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="10">公畝</governor>
+            <dependent idx="9">74.75</dependent>
+          </dep>
+          <dep type="ccomp">
+            <governor idx="1">有</governor>
+            <dependent idx="10">公畝</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="13">知底</governor>
+            <dependent idx="11">，</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="13">知底</governor>
+            <dependent idx="12">已</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="19">是</governor>
+            <dependent idx="13">知底</dependent>
+          </dep>
+          <dep type="cop">
+            <governor idx="19">是</governor>
+            <dependent idx="14">是</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="14">是</governor>
+            <dependent idx="15">230</dependent>
+          </dep>
+          <dep type="mark:clf">
+            <governor idx="15">230</governor>
+            <dependent idx="16">公尺</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="19">是</governor>
+            <dependent idx="17">，</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="19">是</governor>
+            <dependent idx="18">高</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="19">是</governor>
+            <dependent idx="20">多少</dependent>
+          </dep>
+          <dep type="mark:clf">
+            <governor idx="20">多少</governor>
+            <dependent idx="21">公尺</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="19">是</governor>
+            <dependent idx="22">？</dependent>
+          </dep>
+        </dependencies>
+        <dependencies type="enhanced-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="19">是</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="13">知底</governor>
+            <dependent idx="1">有</dependent>
+          </dep>
+          <dep type="nummod">
+            <governor idx="5">土地</governor>
+            <dependent idx="2">一</dependent>
+          </dep>
+          <dep type="mark:clf">
+            <governor idx="2">一</governor>
+            <dependent idx="3">塊</dependent>
+          </dep>
+          <dep type="compound:nn">
+            <governor idx="5">土地</governor>
+            <dependent idx="4">三角形</dependent>
+          </dep>
+          <dep type="nmod:assmod">
+            <governor idx="7">面積</governor>
+            <dependent idx="5">土地</dependent>
+          </dep>
+          <dep type="case">
+            <governor idx="5">土地</governor>
+            <dependent idx="6">的</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="10">公畝</governor>
+            <dependent idx="7">面積</dependent>
+          </dep>
+          <dep type="cop">
+            <governor idx="10">公畝</governor>
+            <dependent idx="8">是</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="10">公畝</governor>
+            <dependent idx="9">74.75</dependent>
+          </dep>
+          <dep type="ccomp">
+            <governor idx="1">有</governor>
+            <dependent idx="10">公畝</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="13">知底</governor>
+            <dependent idx="11">，</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="13">知底</governor>
+            <dependent idx="12">已</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="19">是</governor>
+            <dependent idx="13">知底</dependent>
+          </dep>
+          <dep type="cop">
+            <governor idx="19">是</governor>
+            <dependent idx="14">是</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="14">是</governor>
+            <dependent idx="15">230</dependent>
+          </dep>
+          <dep type="mark:clf">
+            <governor idx="15">230</governor>
+            <dependent idx="16">公尺</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="19">是</governor>
+            <dependent idx="17">，</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="19">是</governor>
+            <dependent idx="18">高</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="19">是</governor>
+            <dependent idx="20">多少</dependent>
+          </dep>
+          <dep type="mark:clf">
+            <governor idx="20">多少</governor>
+            <dependent idx="21">公尺</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="19">是</governor>
+            <dependent idx="22">？</dependent>
+          </dep>
+        </dependencies>
+        <dependencies type="enhanced-plus-plus-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="19">是</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="13">知底</governor>
+            <dependent idx="1">有</dependent>
+          </dep>
+          <dep type="nummod">
+            <governor idx="5">土地</governor>
+            <dependent idx="2">一</dependent>
+          </dep>
+          <dep type="mark:clf">
+            <governor idx="2">一</governor>
+            <dependent idx="3">塊</dependent>
+          </dep>
+          <dep type="compound:nn">
+            <governor idx="5">土地</governor>
+            <dependent idx="4">三角形</dependent>
+          </dep>
+          <dep type="nmod:assmod">
+            <governor idx="7">面積</governor>
+            <dependent idx="5">土地</dependent>
+          </dep>
+          <dep type="case">
+            <governor idx="5">土地</governor>
+            <dependent idx="6">的</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="10">公畝</governor>
+            <dependent idx="7">面積</dependent>
+          </dep>
+          <dep type="cop">
+            <governor idx="10">公畝</governor>
+            <dependent idx="8">是</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="10">公畝</governor>
+            <dependent idx="9">74.75</dependent>
+          </dep>
+          <dep type="ccomp">
+            <governor idx="1">有</governor>
+            <dependent idx="10">公畝</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="13">知底</governor>
+            <dependent idx="11">，</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="13">知底</governor>
+            <dependent idx="12">已</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="19">是</governor>
+            <dependent idx="13">知底</dependent>
+          </dep>
+          <dep type="cop">
+            <governor idx="19">是</governor>
+            <dependent idx="14">是</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="14">是</governor>
+            <dependent idx="15">230</dependent>
+          </dep>
+          <dep type="mark:clf">
+            <governor idx="15">230</governor>
+            <dependent idx="16">公尺</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="19">是</governor>
+            <dependent idx="17">，</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="19">是</governor>
+            <dependent idx="18">高</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="19">是</governor>
+            <dependent idx="20">多少</dependent>
+          </dep>
+          <dep type="mark:clf">
+            <governor idx="20">多少</governor>
+            <dependent idx="21">公尺</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="19">是</governor>
+            <dependent idx="22">？</dependent>
+          </dep>
+        </dependencies>
+      </sentence>
+    </sentences>
+  </document>
+</root>

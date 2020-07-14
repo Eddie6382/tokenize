@@ -1,0 +1,750 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="CoreNLP-to-HTML.xsl" type="text/xsl"?>
+<root>
+  <document>
+    <sentences>
+      <sentence id="1">
+        <tokens>
+          <token id="1">
+            <word>雞兔</word>
+            <lemma>雞兔</lemma>
+            <CharacterOffsetBegin>0</CharacterOffsetBegin>
+            <CharacterOffsetEnd>2</CharacterOffsetEnd>
+            <POS>NR</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="2">
+            <word>同籠</word>
+            <lemma>同籠</lemma>
+            <CharacterOffsetBegin>2</CharacterOffsetBegin>
+            <CharacterOffsetEnd>4</CharacterOffsetEnd>
+            <POS>VV</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="3">
+            <word>，</word>
+            <lemma>，</lemma>
+            <CharacterOffsetBegin>4</CharacterOffsetBegin>
+            <CharacterOffsetEnd>5</CharacterOffsetEnd>
+            <POS>PU</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="4">
+            <word>雞</word>
+            <lemma>雞</lemma>
+            <CharacterOffsetBegin>5</CharacterOffsetBegin>
+            <CharacterOffsetEnd>6</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="5">
+            <word>和</word>
+            <lemma>和</lemma>
+            <CharacterOffsetBegin>6</CharacterOffsetBegin>
+            <CharacterOffsetEnd>7</CharacterOffsetEnd>
+            <POS>CC</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="6">
+            <word>兔子</word>
+            <lemma>兔子</lemma>
+            <CharacterOffsetBegin>7</CharacterOffsetBegin>
+            <CharacterOffsetEnd>9</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="7">
+            <word>共</word>
+            <lemma>共</lemma>
+            <CharacterOffsetBegin>9</CharacterOffsetBegin>
+            <CharacterOffsetEnd>10</CharacterOffsetEnd>
+            <POS>AD</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="8">
+            <word>18</word>
+            <lemma>18</lemma>
+            <CharacterOffsetBegin>10</CharacterOffsetBegin>
+            <CharacterOffsetEnd>12</CharacterOffsetEnd>
+            <POS>CD</POS>
+            <NER>NUMBER</NER>
+            <NormalizedNER>18</NormalizedNER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="9">
+            <word>隻</word>
+            <lemma>隻</lemma>
+            <CharacterOffsetBegin>12</CharacterOffsetBegin>
+            <CharacterOffsetEnd>13</CharacterOffsetEnd>
+            <POS>M</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="10">
+            <word>，</word>
+            <lemma>，</lemma>
+            <CharacterOffsetBegin>13</CharacterOffsetBegin>
+            <CharacterOffsetEnd>14</CharacterOffsetEnd>
+            <POS>PU</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="11">
+            <word>已</word>
+            <lemma>已</lemma>
+            <CharacterOffsetBegin>14</CharacterOffsetBegin>
+            <CharacterOffsetEnd>15</CharacterOffsetEnd>
+            <POS>AD</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="12">
+            <word>經</word>
+            <lemma>經</lemma>
+            <CharacterOffsetBegin>15</CharacterOffsetBegin>
+            <CharacterOffsetEnd>16</CharacterOffsetEnd>
+            <POS>VV</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="13">
+            <word>知道</word>
+            <lemma>知道</lemma>
+            <CharacterOffsetBegin>16</CharacterOffsetBegin>
+            <CharacterOffsetEnd>18</CharacterOffsetEnd>
+            <POS>VV</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="14">
+            <word>共</word>
+            <lemma>共</lemma>
+            <CharacterOffsetBegin>18</CharacterOffsetBegin>
+            <CharacterOffsetEnd>19</CharacterOffsetEnd>
+            <POS>AD</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="15">
+            <word>有</word>
+            <lemma>有</lemma>
+            <CharacterOffsetBegin>19</CharacterOffsetBegin>
+            <CharacterOffsetEnd>20</CharacterOffsetEnd>
+            <POS>VE</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="16">
+            <word>44</word>
+            <lemma>44</lemma>
+            <CharacterOffsetBegin>20</CharacterOffsetBegin>
+            <CharacterOffsetEnd>22</CharacterOffsetEnd>
+            <POS>CD</POS>
+            <NER>NUMBER</NER>
+            <NormalizedNER>44</NormalizedNER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="17">
+            <word>隻腳</word>
+            <lemma>隻腳</lemma>
+            <CharacterOffsetBegin>22</CharacterOffsetBegin>
+            <CharacterOffsetEnd>24</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="18">
+            <word>，</word>
+            <lemma>，</lemma>
+            <CharacterOffsetBegin>24</CharacterOffsetBegin>
+            <CharacterOffsetEnd>25</CharacterOffsetEnd>
+            <POS>PU</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="19">
+            <word>雞</word>
+            <lemma>雞</lemma>
+            <CharacterOffsetBegin>25</CharacterOffsetBegin>
+            <CharacterOffsetEnd>26</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="20">
+            <word>和</word>
+            <lemma>和</lemma>
+            <CharacterOffsetBegin>26</CharacterOffsetBegin>
+            <CharacterOffsetEnd>27</CharacterOffsetEnd>
+            <POS>CC</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="21">
+            <word>兔子</word>
+            <lemma>兔子</lemma>
+            <CharacterOffsetBegin>27</CharacterOffsetBegin>
+            <CharacterOffsetEnd>29</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="22">
+            <word>各</word>
+            <lemma>各</lemma>
+            <CharacterOffsetBegin>29</CharacterOffsetBegin>
+            <CharacterOffsetEnd>30</CharacterOffsetEnd>
+            <POS>AD</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="23">
+            <word>有</word>
+            <lemma>有</lemma>
+            <CharacterOffsetBegin>30</CharacterOffsetBegin>
+            <CharacterOffsetEnd>31</CharacterOffsetEnd>
+            <POS>VE</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="24">
+            <word>幾隻</word>
+            <lemma>幾隻</lemma>
+            <CharacterOffsetBegin>31</CharacterOffsetBegin>
+            <CharacterOffsetEnd>33</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="25">
+            <word>？</word>
+            <lemma>？</lemma>
+            <CharacterOffsetBegin>33</CharacterOffsetBegin>
+            <CharacterOffsetEnd>34</CharacterOffsetEnd>
+            <POS>PU</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+        </tokens>
+        <parse>(ROOT (IP (IP (NP (NR 雞兔)) (VP (VV 同籠))) (PU ，) (IP (NP (NN 雞) (CC 和) (NN 兔子)) (VP (QP (ADVP (AD 共)) (QP (CD 18) (CLP (M 隻)))))) (PU ，) (IP (VP (ADVP (AD 已)) (VP (VV 經) (VP (VV 知道) (IP (IP (VP (ADVP (AD 共)) (VP (VE 有) (NP (QP (CD 44)) (NP (NN 隻腳)))))) (PU ，) (IP (NP (NN 雞) (CC 和) (NN 兔子)) (VP (ADVP (AD 各)) (VP (VE 有) (NP (NN 幾隻)))))))))) (PU ？))) </parse>
+        <dependencies type="basic-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="2">同籠</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="2">同籠</governor>
+            <dependent idx="1">雞兔</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="2">同籠</governor>
+            <dependent idx="3">，</dependent>
+          </dep>
+          <dep type="conj">
+            <governor idx="6">兔子</governor>
+            <dependent idx="4">雞</dependent>
+          </dep>
+          <dep type="cc">
+            <governor idx="6">兔子</governor>
+            <dependent idx="5">和</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="8">18</governor>
+            <dependent idx="6">兔子</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="8">18</governor>
+            <dependent idx="7">共</dependent>
+          </dep>
+          <dep type="ccomp">
+            <governor idx="2">同籠</governor>
+            <dependent idx="8">18</dependent>
+          </dep>
+          <dep type="mark:clf">
+            <governor idx="8">18</governor>
+            <dependent idx="9">隻</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="8">18</governor>
+            <dependent idx="10">，</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="13">知道</governor>
+            <dependent idx="11">已</dependent>
+          </dep>
+          <dep type="compound:vc">
+            <governor idx="13">知道</governor>
+            <dependent idx="12">經</dependent>
+          </dep>
+          <dep type="conj">
+            <governor idx="8">18</governor>
+            <dependent idx="13">知道</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="15">有</governor>
+            <dependent idx="14">共</dependent>
+          </dep>
+          <dep type="ccomp">
+            <governor idx="13">知道</governor>
+            <dependent idx="15">有</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="17">隻腳</governor>
+            <dependent idx="16">44</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="15">有</governor>
+            <dependent idx="17">隻腳</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="8">18</governor>
+            <dependent idx="18">，</dependent>
+          </dep>
+          <dep type="conj">
+            <governor idx="21">兔子</governor>
+            <dependent idx="19">雞</dependent>
+          </dep>
+          <dep type="cc">
+            <governor idx="21">兔子</governor>
+            <dependent idx="20">和</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="23">有</governor>
+            <dependent idx="21">兔子</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="23">有</governor>
+            <dependent idx="22">各</dependent>
+          </dep>
+          <dep type="conj">
+            <governor idx="8">18</governor>
+            <dependent idx="23">有</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="23">有</governor>
+            <dependent idx="24">幾隻</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="2">同籠</governor>
+            <dependent idx="25">？</dependent>
+          </dep>
+        </dependencies>
+        <dependencies type="collapsed-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="2">同籠</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="2">同籠</governor>
+            <dependent idx="1">雞兔</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="2">同籠</governor>
+            <dependent idx="3">，</dependent>
+          </dep>
+          <dep type="conj">
+            <governor idx="6">兔子</governor>
+            <dependent idx="4">雞</dependent>
+          </dep>
+          <dep type="cc">
+            <governor idx="6">兔子</governor>
+            <dependent idx="5">和</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="8">18</governor>
+            <dependent idx="6">兔子</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="8">18</governor>
+            <dependent idx="7">共</dependent>
+          </dep>
+          <dep type="ccomp">
+            <governor idx="2">同籠</governor>
+            <dependent idx="8">18</dependent>
+          </dep>
+          <dep type="mark:clf">
+            <governor idx="8">18</governor>
+            <dependent idx="9">隻</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="8">18</governor>
+            <dependent idx="10">，</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="13">知道</governor>
+            <dependent idx="11">已</dependent>
+          </dep>
+          <dep type="compound:vc">
+            <governor idx="13">知道</governor>
+            <dependent idx="12">經</dependent>
+          </dep>
+          <dep type="conj">
+            <governor idx="8">18</governor>
+            <dependent idx="13">知道</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="15">有</governor>
+            <dependent idx="14">共</dependent>
+          </dep>
+          <dep type="ccomp">
+            <governor idx="13">知道</governor>
+            <dependent idx="15">有</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="17">隻腳</governor>
+            <dependent idx="16">44</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="15">有</governor>
+            <dependent idx="17">隻腳</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="8">18</governor>
+            <dependent idx="18">，</dependent>
+          </dep>
+          <dep type="conj">
+            <governor idx="21">兔子</governor>
+            <dependent idx="19">雞</dependent>
+          </dep>
+          <dep type="cc">
+            <governor idx="21">兔子</governor>
+            <dependent idx="20">和</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="23">有</governor>
+            <dependent idx="21">兔子</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="23">有</governor>
+            <dependent idx="22">各</dependent>
+          </dep>
+          <dep type="conj">
+            <governor idx="8">18</governor>
+            <dependent idx="23">有</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="23">有</governor>
+            <dependent idx="24">幾隻</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="2">同籠</governor>
+            <dependent idx="25">？</dependent>
+          </dep>
+        </dependencies>
+        <dependencies type="collapsed-ccprocessed-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="2">同籠</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="2">同籠</governor>
+            <dependent idx="1">雞兔</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="2">同籠</governor>
+            <dependent idx="3">，</dependent>
+          </dep>
+          <dep type="conj">
+            <governor idx="6">兔子</governor>
+            <dependent idx="4">雞</dependent>
+          </dep>
+          <dep type="cc">
+            <governor idx="6">兔子</governor>
+            <dependent idx="5">和</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="8">18</governor>
+            <dependent idx="6">兔子</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="8">18</governor>
+            <dependent idx="7">共</dependent>
+          </dep>
+          <dep type="ccomp">
+            <governor idx="2">同籠</governor>
+            <dependent idx="8">18</dependent>
+          </dep>
+          <dep type="mark:clf">
+            <governor idx="8">18</governor>
+            <dependent idx="9">隻</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="8">18</governor>
+            <dependent idx="10">，</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="13">知道</governor>
+            <dependent idx="11">已</dependent>
+          </dep>
+          <dep type="compound:vc">
+            <governor idx="13">知道</governor>
+            <dependent idx="12">經</dependent>
+          </dep>
+          <dep type="conj">
+            <governor idx="8">18</governor>
+            <dependent idx="13">知道</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="15">有</governor>
+            <dependent idx="14">共</dependent>
+          </dep>
+          <dep type="ccomp">
+            <governor idx="13">知道</governor>
+            <dependent idx="15">有</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="17">隻腳</governor>
+            <dependent idx="16">44</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="15">有</governor>
+            <dependent idx="17">隻腳</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="8">18</governor>
+            <dependent idx="18">，</dependent>
+          </dep>
+          <dep type="conj">
+            <governor idx="21">兔子</governor>
+            <dependent idx="19">雞</dependent>
+          </dep>
+          <dep type="cc">
+            <governor idx="21">兔子</governor>
+            <dependent idx="20">和</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="23">有</governor>
+            <dependent idx="21">兔子</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="23">有</governor>
+            <dependent idx="22">各</dependent>
+          </dep>
+          <dep type="conj">
+            <governor idx="8">18</governor>
+            <dependent idx="23">有</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="23">有</governor>
+            <dependent idx="24">幾隻</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="2">同籠</governor>
+            <dependent idx="25">？</dependent>
+          </dep>
+        </dependencies>
+        <dependencies type="enhanced-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="2">同籠</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="2">同籠</governor>
+            <dependent idx="1">雞兔</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="2">同籠</governor>
+            <dependent idx="3">，</dependent>
+          </dep>
+          <dep type="conj">
+            <governor idx="6">兔子</governor>
+            <dependent idx="4">雞</dependent>
+          </dep>
+          <dep type="cc">
+            <governor idx="6">兔子</governor>
+            <dependent idx="5">和</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="8">18</governor>
+            <dependent idx="6">兔子</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="8">18</governor>
+            <dependent idx="7">共</dependent>
+          </dep>
+          <dep type="ccomp">
+            <governor idx="2">同籠</governor>
+            <dependent idx="8">18</dependent>
+          </dep>
+          <dep type="mark:clf">
+            <governor idx="8">18</governor>
+            <dependent idx="9">隻</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="8">18</governor>
+            <dependent idx="10">，</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="13">知道</governor>
+            <dependent idx="11">已</dependent>
+          </dep>
+          <dep type="compound:vc">
+            <governor idx="13">知道</governor>
+            <dependent idx="12">經</dependent>
+          </dep>
+          <dep type="conj">
+            <governor idx="8">18</governor>
+            <dependent idx="13">知道</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="15">有</governor>
+            <dependent idx="14">共</dependent>
+          </dep>
+          <dep type="ccomp">
+            <governor idx="13">知道</governor>
+            <dependent idx="15">有</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="17">隻腳</governor>
+            <dependent idx="16">44</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="15">有</governor>
+            <dependent idx="17">隻腳</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="8">18</governor>
+            <dependent idx="18">，</dependent>
+          </dep>
+          <dep type="conj">
+            <governor idx="21">兔子</governor>
+            <dependent idx="19">雞</dependent>
+          </dep>
+          <dep type="cc">
+            <governor idx="21">兔子</governor>
+            <dependent idx="20">和</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="23">有</governor>
+            <dependent idx="21">兔子</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="23">有</governor>
+            <dependent idx="22">各</dependent>
+          </dep>
+          <dep type="conj">
+            <governor idx="8">18</governor>
+            <dependent idx="23">有</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="23">有</governor>
+            <dependent idx="24">幾隻</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="2">同籠</governor>
+            <dependent idx="25">？</dependent>
+          </dep>
+        </dependencies>
+        <dependencies type="enhanced-plus-plus-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="2">同籠</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="2">同籠</governor>
+            <dependent idx="1">雞兔</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="2">同籠</governor>
+            <dependent idx="3">，</dependent>
+          </dep>
+          <dep type="conj">
+            <governor idx="6">兔子</governor>
+            <dependent idx="4">雞</dependent>
+          </dep>
+          <dep type="cc">
+            <governor idx="6">兔子</governor>
+            <dependent idx="5">和</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="8">18</governor>
+            <dependent idx="6">兔子</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="8">18</governor>
+            <dependent idx="7">共</dependent>
+          </dep>
+          <dep type="ccomp">
+            <governor idx="2">同籠</governor>
+            <dependent idx="8">18</dependent>
+          </dep>
+          <dep type="mark:clf">
+            <governor idx="8">18</governor>
+            <dependent idx="9">隻</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="8">18</governor>
+            <dependent idx="10">，</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="13">知道</governor>
+            <dependent idx="11">已</dependent>
+          </dep>
+          <dep type="compound:vc">
+            <governor idx="13">知道</governor>
+            <dependent idx="12">經</dependent>
+          </dep>
+          <dep type="conj">
+            <governor idx="8">18</governor>
+            <dependent idx="13">知道</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="15">有</governor>
+            <dependent idx="14">共</dependent>
+          </dep>
+          <dep type="ccomp">
+            <governor idx="13">知道</governor>
+            <dependent idx="15">有</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="17">隻腳</governor>
+            <dependent idx="16">44</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="15">有</governor>
+            <dependent idx="17">隻腳</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="8">18</governor>
+            <dependent idx="18">，</dependent>
+          </dep>
+          <dep type="conj">
+            <governor idx="21">兔子</governor>
+            <dependent idx="19">雞</dependent>
+          </dep>
+          <dep type="cc">
+            <governor idx="21">兔子</governor>
+            <dependent idx="20">和</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="23">有</governor>
+            <dependent idx="21">兔子</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="23">有</governor>
+            <dependent idx="22">各</dependent>
+          </dep>
+          <dep type="conj">
+            <governor idx="8">18</governor>
+            <dependent idx="23">有</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="23">有</governor>
+            <dependent idx="24">幾隻</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="2">同籠</governor>
+            <dependent idx="25">？</dependent>
+          </dep>
+        </dependencies>
+      </sentence>
+    </sentences>
+  </document>
+</root>

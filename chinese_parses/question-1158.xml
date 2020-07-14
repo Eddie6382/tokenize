@@ -1,0 +1,1131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="CoreNLP-to-HTML.xsl" type="text/xsl"?>
+<root>
+  <document>
+    <sentences>
+      <sentence id="1">
+        <tokens>
+          <token id="1">
+            <word>每</word>
+            <lemma>每</lemma>
+            <CharacterOffsetBegin>0</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1</CharacterOffsetEnd>
+            <POS>DT</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="2">
+            <word>名</word>
+            <lemma>名</lemma>
+            <CharacterOffsetBegin>1</CharacterOffsetBegin>
+            <CharacterOffsetEnd>2</CharacterOffsetEnd>
+            <POS>M</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="3">
+            <word>工人</word>
+            <lemma>工人</lemma>
+            <CharacterOffsetBegin>2</CharacterOffsetBegin>
+            <CharacterOffsetEnd>4</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>TITLE</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="4">
+            <word>工資</word>
+            <lemma>工資</lemma>
+            <CharacterOffsetBegin>4</CharacterOffsetBegin>
+            <CharacterOffsetEnd>6</CharacterOffsetEnd>
+            <POS>VV</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="5">
+            <word>一</word>
+            <lemma>一</lemma>
+            <CharacterOffsetBegin>6</CharacterOffsetBegin>
+            <CharacterOffsetEnd>7</CharacterOffsetEnd>
+            <POS>CD</POS>
+            <NER>NUMBER</NER>
+            <NormalizedNER>1</NormalizedNER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="6">
+            <word>天</word>
+            <lemma>天</lemma>
+            <CharacterOffsetBegin>7</CharacterOffsetBegin>
+            <CharacterOffsetEnd>8</CharacterOffsetEnd>
+            <POS>M</POS>
+            <NER>MISC</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="7">
+            <word>300</word>
+            <lemma>300</lemma>
+            <CharacterOffsetBegin>8</CharacterOffsetBegin>
+            <CharacterOffsetEnd>11</CharacterOffsetEnd>
+            <POS>CD</POS>
+            <NER>MONEY</NER>
+            <NormalizedNER>元300</NormalizedNER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="8">
+            <word>元</word>
+            <lemma>元</lemma>
+            <CharacterOffsetBegin>11</CharacterOffsetBegin>
+            <CharacterOffsetEnd>12</CharacterOffsetEnd>
+            <POS>M</POS>
+            <NER>MONEY</NER>
+            <NormalizedNER>元300</NormalizedNER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="9">
+            <word>，</word>
+            <lemma>，</lemma>
+            <CharacterOffsetBegin>12</CharacterOffsetBegin>
+            <CharacterOffsetEnd>13</CharacterOffsetEnd>
+            <POS>PU</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="10">
+            <word>夜間</word>
+            <lemma>夜間</lemma>
+            <CharacterOffsetBegin>13</CharacterOffsetBegin>
+            <CharacterOffsetEnd>15</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="11">
+            <word>加班</word>
+            <lemma>加班</lemma>
+            <CharacterOffsetBegin>15</CharacterOffsetBegin>
+            <CharacterOffsetEnd>17</CharacterOffsetEnd>
+            <POS>VV</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="12">
+            <word>每</word>
+            <lemma>每</lemma>
+            <CharacterOffsetBegin>17</CharacterOffsetBegin>
+            <CharacterOffsetEnd>18</CharacterOffsetEnd>
+            <POS>DT</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="13">
+            <word>天</word>
+            <lemma>天</lemma>
+            <CharacterOffsetBegin>18</CharacterOffsetBegin>
+            <CharacterOffsetEnd>19</CharacterOffsetEnd>
+            <POS>M</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="14">
+            <word>則多</word>
+            <lemma>則多</lemma>
+            <CharacterOffsetBegin>19</CharacterOffsetBegin>
+            <CharacterOffsetEnd>21</CharacterOffsetEnd>
+            <POS>CD</POS>
+            <NER>MONEY</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="15">
+            <word>100</word>
+            <lemma>100</lemma>
+            <CharacterOffsetBegin>21</CharacterOffsetBegin>
+            <CharacterOffsetEnd>24</CharacterOffsetEnd>
+            <POS>CD</POS>
+            <NER>MONEY</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="16">
+            <word>元</word>
+            <lemma>元</lemma>
+            <CharacterOffsetBegin>24</CharacterOffsetBegin>
+            <CharacterOffsetEnd>25</CharacterOffsetEnd>
+            <POS>M</POS>
+            <NER>MONEY</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="17">
+            <word>，</word>
+            <lemma>，</lemma>
+            <CharacterOffsetBegin>25</CharacterOffsetBegin>
+            <CharacterOffsetEnd>26</CharacterOffsetEnd>
+            <POS>PU</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="18">
+            <word>小</word>
+            <lemma>小</lemma>
+            <CharacterOffsetBegin>26</CharacterOffsetBegin>
+            <CharacterOffsetEnd>27</CharacterOffsetEnd>
+            <POS>JJ</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="19">
+            <word>李</word>
+            <lemma>李</lemma>
+            <CharacterOffsetBegin>27</CharacterOffsetBegin>
+            <CharacterOffsetEnd>28</CharacterOffsetEnd>
+            <POS>NR</POS>
+            <NER>PERSON</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="20">
+            <word>本</word>
+            <lemma>本</lemma>
+            <CharacterOffsetBegin>28</CharacterOffsetBegin>
+            <CharacterOffsetEnd>29</CharacterOffsetEnd>
+            <POS>DT</POS>
+            <NER>MISC</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="21">
+            <word>月</word>
+            <lemma>月</lemma>
+            <CharacterOffsetBegin>29</CharacterOffsetBegin>
+            <CharacterOffsetEnd>30</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>MISC</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="22">
+            <word>分</word>
+            <lemma>分</lemma>
+            <CharacterOffsetBegin>30</CharacterOffsetBegin>
+            <CharacterOffsetEnd>31</CharacterOffsetEnd>
+            <POS>VV</POS>
+            <NER>MISC</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="23">
+            <word>工作</word>
+            <lemma>工作</lemma>
+            <CharacterOffsetBegin>31</CharacterOffsetBegin>
+            <CharacterOffsetEnd>33</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>MISC</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="24">
+            <word>30</word>
+            <lemma>30</lemma>
+            <CharacterOffsetBegin>33</CharacterOffsetBegin>
+            <CharacterOffsetEnd>35</CharacterOffsetEnd>
+            <POS>CD</POS>
+            <NER>NUMBER</NER>
+            <NormalizedNER>30</NormalizedNER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="25">
+            <word>天</word>
+            <lemma>天</lemma>
+            <CharacterOffsetBegin>35</CharacterOffsetBegin>
+            <CharacterOffsetEnd>36</CharacterOffsetEnd>
+            <POS>M</POS>
+            <NER>MISC</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="26">
+            <word>，</word>
+            <lemma>，</lemma>
+            <CharacterOffsetBegin>36</CharacterOffsetBegin>
+            <CharacterOffsetEnd>37</CharacterOffsetEnd>
+            <POS>PU</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="27">
+            <word>領到</word>
+            <lemma>領到</lemma>
+            <CharacterOffsetBegin>37</CharacterOffsetBegin>
+            <CharacterOffsetEnd>39</CharacterOffsetEnd>
+            <POS>VV</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="28">
+            <word>工資</word>
+            <lemma>工資</lemma>
+            <CharacterOffsetBegin>39</CharacterOffsetBegin>
+            <CharacterOffsetEnd>41</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="29">
+            <word>10500</word>
+            <lemma>10500</lemma>
+            <CharacterOffsetBegin>41</CharacterOffsetBegin>
+            <CharacterOffsetEnd>46</CharacterOffsetEnd>
+            <POS>CD</POS>
+            <NER>MONEY</NER>
+            <NormalizedNER>元10500</NormalizedNER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="30">
+            <word>元</word>
+            <lemma>元</lemma>
+            <CharacterOffsetBegin>46</CharacterOffsetBegin>
+            <CharacterOffsetEnd>47</CharacterOffsetEnd>
+            <POS>M</POS>
+            <NER>MONEY</NER>
+            <NormalizedNER>元10500</NormalizedNER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="31">
+            <word>，</word>
+            <lemma>，</lemma>
+            <CharacterOffsetBegin>47</CharacterOffsetBegin>
+            <CharacterOffsetEnd>48</CharacterOffsetEnd>
+            <POS>PU</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="32">
+            <word>請問</word>
+            <lemma>請問</lemma>
+            <CharacterOffsetBegin>48</CharacterOffsetBegin>
+            <CharacterOffsetEnd>50</CharacterOffsetEnd>
+            <POS>VV</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="33">
+            <word>他</word>
+            <lemma>他</lemma>
+            <CharacterOffsetBegin>50</CharacterOffsetBegin>
+            <CharacterOffsetEnd>51</CharacterOffsetEnd>
+            <POS>PN</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="34">
+            <word>夜間</word>
+            <lemma>夜間</lemma>
+            <CharacterOffsetBegin>51</CharacterOffsetBegin>
+            <CharacterOffsetEnd>53</CharacterOffsetEnd>
+            <POS>VV</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="35">
+            <word>加班</word>
+            <lemma>加班</lemma>
+            <CharacterOffsetBegin>53</CharacterOffsetBegin>
+            <CharacterOffsetEnd>55</CharacterOffsetEnd>
+            <POS>VV</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="36">
+            <word>幾</word>
+            <lemma>幾</lemma>
+            <CharacterOffsetBegin>55</CharacterOffsetBegin>
+            <CharacterOffsetEnd>56</CharacterOffsetEnd>
+            <POS>VV</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="37">
+            <word>天</word>
+            <lemma>天</lemma>
+            <CharacterOffsetBegin>56</CharacterOffsetBegin>
+            <CharacterOffsetEnd>57</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="38">
+            <word>？</word>
+            <lemma>？</lemma>
+            <CharacterOffsetBegin>57</CharacterOffsetBegin>
+            <CharacterOffsetEnd>58</CharacterOffsetEnd>
+            <POS>PU</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+        </tokens>
+        <parse>(ROOT (IP (IP (NP (DP (DT 每) (CLP (M 名))) (NP (NN 工人))) (VP (VV 工資) (IP (VP (QP (CD 一) (CLP (M 天))) (QP (CD 300) (CLP (M 元))))))) (PU ，) (IP (NP (NN 夜間)) (VP (VV 加班) (QP (DP (DT 每) (CLP (M 天))) (QP (CD 則多) (QP (CD 100) (CLP (M 元))))))) (PU ，) (IP (QP (NP (NP (ADJP (JJ 小)) (NP (NR 李))) (NP (DP (DT 本)) (NP (NN 月))) (NP (VV 分) (NN 工作))) (QP (CD 30) (CLP (M 天)))) (PU ，) (VP (VV 領到) (NP (NN 工資)) (QP (CD 10500) (CLP (M 元))))) (PU ，) (IP (VP (VV 請問) (IP (NP (PN 他)) (VP (VV 夜間) (IP (VP (VV 加班) (IP (VP (VV 幾) (NP (NN 天)))))))))) (PU ？))) </parse>
+        <dependencies type="basic-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="4">工資</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="3">工人</governor>
+            <dependent idx="1">每</dependent>
+          </dep>
+          <dep type="mark:clf">
+            <governor idx="1">每</governor>
+            <dependent idx="2">名</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="4">工資</governor>
+            <dependent idx="3">工人</dependent>
+          </dep>
+          <dep type="nummod">
+            <governor idx="7">300</governor>
+            <dependent idx="5">一</dependent>
+          </dep>
+          <dep type="mark:clf">
+            <governor idx="5">一</governor>
+            <dependent idx="6">天</dependent>
+          </dep>
+          <dep type="nmod:range">
+            <governor idx="4">工資</governor>
+            <dependent idx="7">300</dependent>
+          </dep>
+          <dep type="mark:clf">
+            <governor idx="7">300</governor>
+            <dependent idx="8">元</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="4">工資</governor>
+            <dependent idx="9">，</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="11">加班</governor>
+            <dependent idx="10">夜間</dependent>
+          </dep>
+          <dep type="conj">
+            <governor idx="4">工資</governor>
+            <dependent idx="11">加班</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="14">則多</governor>
+            <dependent idx="12">每</dependent>
+          </dep>
+          <dep type="mark:clf">
+            <governor idx="12">每</governor>
+            <dependent idx="13">天</dependent>
+          </dep>
+          <dep type="nmod:range">
+            <governor idx="11">加班</governor>
+            <dependent idx="14">則多</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="14">則多</governor>
+            <dependent idx="15">100</dependent>
+          </dep>
+          <dep type="mark:clf">
+            <governor idx="15">100</governor>
+            <dependent idx="16">元</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="4">工資</governor>
+            <dependent idx="17">，</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="19">李</governor>
+            <dependent idx="18">小</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="22">分</governor>
+            <dependent idx="19">李</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="21">月</governor>
+            <dependent idx="20">本</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="22">分</governor>
+            <dependent idx="21">月</dependent>
+          </dep>
+          <dep type="conj">
+            <governor idx="4">工資</governor>
+            <dependent idx="22">分</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="22">分</governor>
+            <dependent idx="23">工作</dependent>
+          </dep>
+          <dep type="nmod:range">
+            <governor idx="22">分</governor>
+            <dependent idx="24">30</dependent>
+          </dep>
+          <dep type="mark:clf">
+            <governor idx="24">30</governor>
+            <dependent idx="25">天</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="4">工資</governor>
+            <dependent idx="26">，</dependent>
+          </dep>
+          <dep type="conj">
+            <governor idx="4">工資</governor>
+            <dependent idx="27">領到</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="27">領到</governor>
+            <dependent idx="28">工資</dependent>
+          </dep>
+          <dep type="nmod:range">
+            <governor idx="27">領到</governor>
+            <dependent idx="29">10500</dependent>
+          </dep>
+          <dep type="mark:clf">
+            <governor idx="29">10500</governor>
+            <dependent idx="30">元</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="4">工資</governor>
+            <dependent idx="31">，</dependent>
+          </dep>
+          <dep type="conj">
+            <governor idx="4">工資</governor>
+            <dependent idx="32">請問</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="34">夜間</governor>
+            <dependent idx="33">他</dependent>
+          </dep>
+          <dep type="ccomp">
+            <governor idx="32">請問</governor>
+            <dependent idx="34">夜間</dependent>
+          </dep>
+          <dep type="ccomp">
+            <governor idx="34">夜間</governor>
+            <dependent idx="35">加班</dependent>
+          </dep>
+          <dep type="conj">
+            <governor idx="35">加班</governor>
+            <dependent idx="36">幾</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="36">幾</governor>
+            <dependent idx="37">天</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="4">工資</governor>
+            <dependent idx="38">？</dependent>
+          </dep>
+        </dependencies>
+        <dependencies type="collapsed-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="4">工資</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="3">工人</governor>
+            <dependent idx="1">每</dependent>
+          </dep>
+          <dep type="mark:clf">
+            <governor idx="1">每</governor>
+            <dependent idx="2">名</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="4">工資</governor>
+            <dependent idx="3">工人</dependent>
+          </dep>
+          <dep type="nummod">
+            <governor idx="7">300</governor>
+            <dependent idx="5">一</dependent>
+          </dep>
+          <dep type="mark:clf">
+            <governor idx="5">一</governor>
+            <dependent idx="6">天</dependent>
+          </dep>
+          <dep type="nmod:range">
+            <governor idx="4">工資</governor>
+            <dependent idx="7">300</dependent>
+          </dep>
+          <dep type="mark:clf">
+            <governor idx="7">300</governor>
+            <dependent idx="8">元</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="4">工資</governor>
+            <dependent idx="9">，</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="11">加班</governor>
+            <dependent idx="10">夜間</dependent>
+          </dep>
+          <dep type="conj">
+            <governor idx="4">工資</governor>
+            <dependent idx="11">加班</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="14">則多</governor>
+            <dependent idx="12">每</dependent>
+          </dep>
+          <dep type="mark:clf">
+            <governor idx="12">每</governor>
+            <dependent idx="13">天</dependent>
+          </dep>
+          <dep type="nmod:range">
+            <governor idx="11">加班</governor>
+            <dependent idx="14">則多</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="14">則多</governor>
+            <dependent idx="15">100</dependent>
+          </dep>
+          <dep type="mark:clf">
+            <governor idx="15">100</governor>
+            <dependent idx="16">元</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="4">工資</governor>
+            <dependent idx="17">，</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="19">李</governor>
+            <dependent idx="18">小</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="22">分</governor>
+            <dependent idx="19">李</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="21">月</governor>
+            <dependent idx="20">本</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="22">分</governor>
+            <dependent idx="21">月</dependent>
+          </dep>
+          <dep type="conj">
+            <governor idx="4">工資</governor>
+            <dependent idx="22">分</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="22">分</governor>
+            <dependent idx="23">工作</dependent>
+          </dep>
+          <dep type="nmod:range">
+            <governor idx="22">分</governor>
+            <dependent idx="24">30</dependent>
+          </dep>
+          <dep type="mark:clf">
+            <governor idx="24">30</governor>
+            <dependent idx="25">天</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="4">工資</governor>
+            <dependent idx="26">，</dependent>
+          </dep>
+          <dep type="conj">
+            <governor idx="4">工資</governor>
+            <dependent idx="27">領到</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="27">領到</governor>
+            <dependent idx="28">工資</dependent>
+          </dep>
+          <dep type="nmod:range">
+            <governor idx="27">領到</governor>
+            <dependent idx="29">10500</dependent>
+          </dep>
+          <dep type="mark:clf">
+            <governor idx="29">10500</governor>
+            <dependent idx="30">元</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="4">工資</governor>
+            <dependent idx="31">，</dependent>
+          </dep>
+          <dep type="conj">
+            <governor idx="4">工資</governor>
+            <dependent idx="32">請問</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="34">夜間</governor>
+            <dependent idx="33">他</dependent>
+          </dep>
+          <dep type="ccomp">
+            <governor idx="32">請問</governor>
+            <dependent idx="34">夜間</dependent>
+          </dep>
+          <dep type="ccomp">
+            <governor idx="34">夜間</governor>
+            <dependent idx="35">加班</dependent>
+          </dep>
+          <dep type="conj">
+            <governor idx="35">加班</governor>
+            <dependent idx="36">幾</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="36">幾</governor>
+            <dependent idx="37">天</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="4">工資</governor>
+            <dependent idx="38">？</dependent>
+          </dep>
+        </dependencies>
+        <dependencies type="collapsed-ccprocessed-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="4">工資</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="3">工人</governor>
+            <dependent idx="1">每</dependent>
+          </dep>
+          <dep type="mark:clf">
+            <governor idx="1">每</governor>
+            <dependent idx="2">名</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="4">工資</governor>
+            <dependent idx="3">工人</dependent>
+          </dep>
+          <dep type="nummod">
+            <governor idx="7">300</governor>
+            <dependent idx="5">一</dependent>
+          </dep>
+          <dep type="mark:clf">
+            <governor idx="5">一</governor>
+            <dependent idx="6">天</dependent>
+          </dep>
+          <dep type="nmod:range">
+            <governor idx="4">工資</governor>
+            <dependent idx="7">300</dependent>
+          </dep>
+          <dep type="mark:clf">
+            <governor idx="7">300</governor>
+            <dependent idx="8">元</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="4">工資</governor>
+            <dependent idx="9">，</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="11">加班</governor>
+            <dependent idx="10">夜間</dependent>
+          </dep>
+          <dep type="conj">
+            <governor idx="4">工資</governor>
+            <dependent idx="11">加班</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="14">則多</governor>
+            <dependent idx="12">每</dependent>
+          </dep>
+          <dep type="mark:clf">
+            <governor idx="12">每</governor>
+            <dependent idx="13">天</dependent>
+          </dep>
+          <dep type="nmod:range">
+            <governor idx="11">加班</governor>
+            <dependent idx="14">則多</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="14">則多</governor>
+            <dependent idx="15">100</dependent>
+          </dep>
+          <dep type="mark:clf">
+            <governor idx="15">100</governor>
+            <dependent idx="16">元</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="4">工資</governor>
+            <dependent idx="17">，</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="19">李</governor>
+            <dependent idx="18">小</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="22">分</governor>
+            <dependent idx="19">李</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="21">月</governor>
+            <dependent idx="20">本</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="22">分</governor>
+            <dependent idx="21">月</dependent>
+          </dep>
+          <dep type="conj">
+            <governor idx="4">工資</governor>
+            <dependent idx="22">分</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="22">分</governor>
+            <dependent idx="23">工作</dependent>
+          </dep>
+          <dep type="nmod:range">
+            <governor idx="22">分</governor>
+            <dependent idx="24">30</dependent>
+          </dep>
+          <dep type="mark:clf">
+            <governor idx="24">30</governor>
+            <dependent idx="25">天</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="4">工資</governor>
+            <dependent idx="26">，</dependent>
+          </dep>
+          <dep type="conj">
+            <governor idx="4">工資</governor>
+            <dependent idx="27">領到</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="27">領到</governor>
+            <dependent idx="28">工資</dependent>
+          </dep>
+          <dep type="nmod:range">
+            <governor idx="27">領到</governor>
+            <dependent idx="29">10500</dependent>
+          </dep>
+          <dep type="mark:clf">
+            <governor idx="29">10500</governor>
+            <dependent idx="30">元</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="4">工資</governor>
+            <dependent idx="31">，</dependent>
+          </dep>
+          <dep type="conj">
+            <governor idx="4">工資</governor>
+            <dependent idx="32">請問</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="34">夜間</governor>
+            <dependent idx="33">他</dependent>
+          </dep>
+          <dep type="ccomp">
+            <governor idx="32">請問</governor>
+            <dependent idx="34">夜間</dependent>
+          </dep>
+          <dep type="ccomp">
+            <governor idx="34">夜間</governor>
+            <dependent idx="35">加班</dependent>
+          </dep>
+          <dep type="conj">
+            <governor idx="35">加班</governor>
+            <dependent idx="36">幾</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="36">幾</governor>
+            <dependent idx="37">天</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="4">工資</governor>
+            <dependent idx="38">？</dependent>
+          </dep>
+        </dependencies>
+        <dependencies type="enhanced-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="4">工資</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="3">工人</governor>
+            <dependent idx="1">每</dependent>
+          </dep>
+          <dep type="mark:clf">
+            <governor idx="1">每</governor>
+            <dependent idx="2">名</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="4">工資</governor>
+            <dependent idx="3">工人</dependent>
+          </dep>
+          <dep type="nummod">
+            <governor idx="7">300</governor>
+            <dependent idx="5">一</dependent>
+          </dep>
+          <dep type="mark:clf">
+            <governor idx="5">一</governor>
+            <dependent idx="6">天</dependent>
+          </dep>
+          <dep type="nmod:range">
+            <governor idx="4">工資</governor>
+            <dependent idx="7">300</dependent>
+          </dep>
+          <dep type="mark:clf">
+            <governor idx="7">300</governor>
+            <dependent idx="8">元</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="4">工資</governor>
+            <dependent idx="9">，</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="11">加班</governor>
+            <dependent idx="10">夜間</dependent>
+          </dep>
+          <dep type="conj">
+            <governor idx="4">工資</governor>
+            <dependent idx="11">加班</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="14">則多</governor>
+            <dependent idx="12">每</dependent>
+          </dep>
+          <dep type="mark:clf">
+            <governor idx="12">每</governor>
+            <dependent idx="13">天</dependent>
+          </dep>
+          <dep type="nmod:range">
+            <governor idx="11">加班</governor>
+            <dependent idx="14">則多</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="14">則多</governor>
+            <dependent idx="15">100</dependent>
+          </dep>
+          <dep type="mark:clf">
+            <governor idx="15">100</governor>
+            <dependent idx="16">元</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="4">工資</governor>
+            <dependent idx="17">，</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="19">李</governor>
+            <dependent idx="18">小</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="22">分</governor>
+            <dependent idx="19">李</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="21">月</governor>
+            <dependent idx="20">本</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="22">分</governor>
+            <dependent idx="21">月</dependent>
+          </dep>
+          <dep type="conj">
+            <governor idx="4">工資</governor>
+            <dependent idx="22">分</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="22">分</governor>
+            <dependent idx="23">工作</dependent>
+          </dep>
+          <dep type="nmod:range">
+            <governor idx="22">分</governor>
+            <dependent idx="24">30</dependent>
+          </dep>
+          <dep type="mark:clf">
+            <governor idx="24">30</governor>
+            <dependent idx="25">天</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="4">工資</governor>
+            <dependent idx="26">，</dependent>
+          </dep>
+          <dep type="conj">
+            <governor idx="4">工資</governor>
+            <dependent idx="27">領到</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="27">領到</governor>
+            <dependent idx="28">工資</dependent>
+          </dep>
+          <dep type="nmod:range">
+            <governor idx="27">領到</governor>
+            <dependent idx="29">10500</dependent>
+          </dep>
+          <dep type="mark:clf">
+            <governor idx="29">10500</governor>
+            <dependent idx="30">元</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="4">工資</governor>
+            <dependent idx="31">，</dependent>
+          </dep>
+          <dep type="conj">
+            <governor idx="4">工資</governor>
+            <dependent idx="32">請問</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="34">夜間</governor>
+            <dependent idx="33">他</dependent>
+          </dep>
+          <dep type="ccomp">
+            <governor idx="32">請問</governor>
+            <dependent idx="34">夜間</dependent>
+          </dep>
+          <dep type="ccomp">
+            <governor idx="34">夜間</governor>
+            <dependent idx="35">加班</dependent>
+          </dep>
+          <dep type="conj">
+            <governor idx="35">加班</governor>
+            <dependent idx="36">幾</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="36">幾</governor>
+            <dependent idx="37">天</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="4">工資</governor>
+            <dependent idx="38">？</dependent>
+          </dep>
+        </dependencies>
+        <dependencies type="enhanced-plus-plus-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="4">工資</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="3">工人</governor>
+            <dependent idx="1">每</dependent>
+          </dep>
+          <dep type="mark:clf">
+            <governor idx="1">每</governor>
+            <dependent idx="2">名</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="4">工資</governor>
+            <dependent idx="3">工人</dependent>
+          </dep>
+          <dep type="nummod">
+            <governor idx="7">300</governor>
+            <dependent idx="5">一</dependent>
+          </dep>
+          <dep type="mark:clf">
+            <governor idx="5">一</governor>
+            <dependent idx="6">天</dependent>
+          </dep>
+          <dep type="nmod:range">
+            <governor idx="4">工資</governor>
+            <dependent idx="7">300</dependent>
+          </dep>
+          <dep type="mark:clf">
+            <governor idx="7">300</governor>
+            <dependent idx="8">元</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="4">工資</governor>
+            <dependent idx="9">，</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="11">加班</governor>
+            <dependent idx="10">夜間</dependent>
+          </dep>
+          <dep type="conj">
+            <governor idx="4">工資</governor>
+            <dependent idx="11">加班</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="14">則多</governor>
+            <dependent idx="12">每</dependent>
+          </dep>
+          <dep type="mark:clf">
+            <governor idx="12">每</governor>
+            <dependent idx="13">天</dependent>
+          </dep>
+          <dep type="nmod:range">
+            <governor idx="11">加班</governor>
+            <dependent idx="14">則多</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="14">則多</governor>
+            <dependent idx="15">100</dependent>
+          </dep>
+          <dep type="mark:clf">
+            <governor idx="15">100</governor>
+            <dependent idx="16">元</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="4">工資</governor>
+            <dependent idx="17">，</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="19">李</governor>
+            <dependent idx="18">小</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="22">分</governor>
+            <dependent idx="19">李</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="21">月</governor>
+            <dependent idx="20">本</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="22">分</governor>
+            <dependent idx="21">月</dependent>
+          </dep>
+          <dep type="conj">
+            <governor idx="4">工資</governor>
+            <dependent idx="22">分</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="22">分</governor>
+            <dependent idx="23">工作</dependent>
+          </dep>
+          <dep type="nmod:range">
+            <governor idx="22">分</governor>
+            <dependent idx="24">30</dependent>
+          </dep>
+          <dep type="mark:clf">
+            <governor idx="24">30</governor>
+            <dependent idx="25">天</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="4">工資</governor>
+            <dependent idx="26">，</dependent>
+          </dep>
+          <dep type="conj">
+            <governor idx="4">工資</governor>
+            <dependent idx="27">領到</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="27">領到</governor>
+            <dependent idx="28">工資</dependent>
+          </dep>
+          <dep type="nmod:range">
+            <governor idx="27">領到</governor>
+            <dependent idx="29">10500</dependent>
+          </dep>
+          <dep type="mark:clf">
+            <governor idx="29">10500</governor>
+            <dependent idx="30">元</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="4">工資</governor>
+            <dependent idx="31">，</dependent>
+          </dep>
+          <dep type="conj">
+            <governor idx="4">工資</governor>
+            <dependent idx="32">請問</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="34">夜間</governor>
+            <dependent idx="33">他</dependent>
+          </dep>
+          <dep type="ccomp">
+            <governor idx="32">請問</governor>
+            <dependent idx="34">夜間</dependent>
+          </dep>
+          <dep type="ccomp">
+            <governor idx="34">夜間</governor>
+            <dependent idx="35">加班</dependent>
+          </dep>
+          <dep type="conj">
+            <governor idx="35">加班</governor>
+            <dependent idx="36">幾</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="36">幾</governor>
+            <dependent idx="37">天</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="4">工資</governor>
+            <dependent idx="38">？</dependent>
+          </dep>
+        </dependencies>
+      </sentence>
+    </sentences>
+  </document>
+</root>

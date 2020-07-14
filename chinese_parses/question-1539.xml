@@ -1,0 +1,609 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="CoreNLP-to-HTML.xsl" type="text/xsl"?>
+<root>
+  <document>
+    <sentences>
+      <sentence id="1">
+        <tokens>
+          <token id="1">
+            <word>三腳椅</word>
+            <lemma>三腳椅</lemma>
+            <CharacterOffsetBegin>0</CharacterOffsetBegin>
+            <CharacterOffsetEnd>3</CharacterOffsetEnd>
+            <POS>NR</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="2">
+            <word>和</word>
+            <lemma>和</lemma>
+            <CharacterOffsetBegin>3</CharacterOffsetBegin>
+            <CharacterOffsetEnd>4</CharacterOffsetEnd>
+            <POS>CC</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="3">
+            <word>四腳椅</word>
+            <lemma>四腳椅</lemma>
+            <CharacterOffsetBegin>4</CharacterOffsetBegin>
+            <CharacterOffsetEnd>7</CharacterOffsetEnd>
+            <POS>NR</POS>
+            <NER>MISC</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="4">
+            <word>共</word>
+            <lemma>共</lemma>
+            <CharacterOffsetBegin>7</CharacterOffsetBegin>
+            <CharacterOffsetEnd>8</CharacterOffsetEnd>
+            <POS>AD</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="5">
+            <word>66</word>
+            <lemma>66</lemma>
+            <CharacterOffsetBegin>8</CharacterOffsetBegin>
+            <CharacterOffsetEnd>10</CharacterOffsetEnd>
+            <POS>CD</POS>
+            <NER>NUMBER</NER>
+            <NormalizedNER>66</NormalizedNER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="6">
+            <word>張</word>
+            <lemma>張</lemma>
+            <CharacterOffsetBegin>10</CharacterOffsetBegin>
+            <CharacterOffsetEnd>11</CharacterOffsetEnd>
+            <POS>M</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="7">
+            <word>，</word>
+            <lemma>，</lemma>
+            <CharacterOffsetBegin>11</CharacterOffsetBegin>
+            <CharacterOffsetEnd>12</CharacterOffsetEnd>
+            <POS>PU</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="8">
+            <word>椅子</word>
+            <lemma>椅子</lemma>
+            <CharacterOffsetBegin>12</CharacterOffsetBegin>
+            <CharacterOffsetEnd>14</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="9">
+            <word>腳共</word>
+            <lemma>腳共</lemma>
+            <CharacterOffsetBegin>14</CharacterOffsetBegin>
+            <CharacterOffsetEnd>16</CharacterOffsetEnd>
+            <POS>VV</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="10">
+            <word>240</word>
+            <lemma>240</lemma>
+            <CharacterOffsetBegin>16</CharacterOffsetBegin>
+            <CharacterOffsetEnd>19</CharacterOffsetEnd>
+            <POS>CD</POS>
+            <NER>NUMBER</NER>
+            <NormalizedNER>240</NormalizedNER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="11">
+            <word>隻</word>
+            <lemma>隻</lemma>
+            <CharacterOffsetBegin>19</CharacterOffsetBegin>
+            <CharacterOffsetEnd>20</CharacterOffsetEnd>
+            <POS>M</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="12">
+            <word>。</word>
+            <lemma>。</lemma>
+            <CharacterOffsetBegin>20</CharacterOffsetBegin>
+            <CharacterOffsetEnd>21</CharacterOffsetEnd>
+            <POS>PU</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+        </tokens>
+        <parse>(ROOT (IP (IP (NP (NR 三腳椅) (CC 和) (NR 四腳椅)) (VP (QP (ADVP (AD 共)) (QP (CD 66) (CLP (M 張)))))) (PU ，) (IP (NP (NN 椅子)) (VP (VV 腳共) (QP (CD 240) (CLP (M 隻))))) (PU 。))) </parse>
+        <dependencies type="basic-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="5">66</dependent>
+          </dep>
+          <dep type="conj">
+            <governor idx="3">四腳椅</governor>
+            <dependent idx="1">三腳椅</dependent>
+          </dep>
+          <dep type="cc">
+            <governor idx="3">四腳椅</governor>
+            <dependent idx="2">和</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="5">66</governor>
+            <dependent idx="3">四腳椅</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="5">66</governor>
+            <dependent idx="4">共</dependent>
+          </dep>
+          <dep type="mark:clf">
+            <governor idx="5">66</governor>
+            <dependent idx="6">張</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="5">66</governor>
+            <dependent idx="7">，</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="9">腳共</governor>
+            <dependent idx="8">椅子</dependent>
+          </dep>
+          <dep type="conj">
+            <governor idx="5">66</governor>
+            <dependent idx="9">腳共</dependent>
+          </dep>
+          <dep type="nmod:range">
+            <governor idx="9">腳共</governor>
+            <dependent idx="10">240</dependent>
+          </dep>
+          <dep type="mark:clf">
+            <governor idx="10">240</governor>
+            <dependent idx="11">隻</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="5">66</governor>
+            <dependent idx="12">。</dependent>
+          </dep>
+        </dependencies>
+        <dependencies type="collapsed-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="5">66</dependent>
+          </dep>
+          <dep type="conj">
+            <governor idx="3">四腳椅</governor>
+            <dependent idx="1">三腳椅</dependent>
+          </dep>
+          <dep type="cc">
+            <governor idx="3">四腳椅</governor>
+            <dependent idx="2">和</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="5">66</governor>
+            <dependent idx="3">四腳椅</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="5">66</governor>
+            <dependent idx="4">共</dependent>
+          </dep>
+          <dep type="mark:clf">
+            <governor idx="5">66</governor>
+            <dependent idx="6">張</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="5">66</governor>
+            <dependent idx="7">，</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="9">腳共</governor>
+            <dependent idx="8">椅子</dependent>
+          </dep>
+          <dep type="conj">
+            <governor idx="5">66</governor>
+            <dependent idx="9">腳共</dependent>
+          </dep>
+          <dep type="nmod:range">
+            <governor idx="9">腳共</governor>
+            <dependent idx="10">240</dependent>
+          </dep>
+          <dep type="mark:clf">
+            <governor idx="10">240</governor>
+            <dependent idx="11">隻</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="5">66</governor>
+            <dependent idx="12">。</dependent>
+          </dep>
+        </dependencies>
+        <dependencies type="collapsed-ccprocessed-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="5">66</dependent>
+          </dep>
+          <dep type="conj">
+            <governor idx="3">四腳椅</governor>
+            <dependent idx="1">三腳椅</dependent>
+          </dep>
+          <dep type="cc">
+            <governor idx="3">四腳椅</governor>
+            <dependent idx="2">和</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="5">66</governor>
+            <dependent idx="3">四腳椅</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="5">66</governor>
+            <dependent idx="4">共</dependent>
+          </dep>
+          <dep type="mark:clf">
+            <governor idx="5">66</governor>
+            <dependent idx="6">張</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="5">66</governor>
+            <dependent idx="7">，</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="9">腳共</governor>
+            <dependent idx="8">椅子</dependent>
+          </dep>
+          <dep type="conj">
+            <governor idx="5">66</governor>
+            <dependent idx="9">腳共</dependent>
+          </dep>
+          <dep type="nmod:range">
+            <governor idx="9">腳共</governor>
+            <dependent idx="10">240</dependent>
+          </dep>
+          <dep type="mark:clf">
+            <governor idx="10">240</governor>
+            <dependent idx="11">隻</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="5">66</governor>
+            <dependent idx="12">。</dependent>
+          </dep>
+        </dependencies>
+        <dependencies type="enhanced-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="5">66</dependent>
+          </dep>
+          <dep type="conj">
+            <governor idx="3">四腳椅</governor>
+            <dependent idx="1">三腳椅</dependent>
+          </dep>
+          <dep type="cc">
+            <governor idx="3">四腳椅</governor>
+            <dependent idx="2">和</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="5">66</governor>
+            <dependent idx="3">四腳椅</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="5">66</governor>
+            <dependent idx="4">共</dependent>
+          </dep>
+          <dep type="mark:clf">
+            <governor idx="5">66</governor>
+            <dependent idx="6">張</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="5">66</governor>
+            <dependent idx="7">，</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="9">腳共</governor>
+            <dependent idx="8">椅子</dependent>
+          </dep>
+          <dep type="conj">
+            <governor idx="5">66</governor>
+            <dependent idx="9">腳共</dependent>
+          </dep>
+          <dep type="nmod:range">
+            <governor idx="9">腳共</governor>
+            <dependent idx="10">240</dependent>
+          </dep>
+          <dep type="mark:clf">
+            <governor idx="10">240</governor>
+            <dependent idx="11">隻</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="5">66</governor>
+            <dependent idx="12">。</dependent>
+          </dep>
+        </dependencies>
+        <dependencies type="enhanced-plus-plus-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="5">66</dependent>
+          </dep>
+          <dep type="conj">
+            <governor idx="3">四腳椅</governor>
+            <dependent idx="1">三腳椅</dependent>
+          </dep>
+          <dep type="cc">
+            <governor idx="3">四腳椅</governor>
+            <dependent idx="2">和</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="5">66</governor>
+            <dependent idx="3">四腳椅</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="5">66</governor>
+            <dependent idx="4">共</dependent>
+          </dep>
+          <dep type="mark:clf">
+            <governor idx="5">66</governor>
+            <dependent idx="6">張</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="5">66</governor>
+            <dependent idx="7">，</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="9">腳共</governor>
+            <dependent idx="8">椅子</dependent>
+          </dep>
+          <dep type="conj">
+            <governor idx="5">66</governor>
+            <dependent idx="9">腳共</dependent>
+          </dep>
+          <dep type="nmod:range">
+            <governor idx="9">腳共</governor>
+            <dependent idx="10">240</dependent>
+          </dep>
+          <dep type="mark:clf">
+            <governor idx="10">240</governor>
+            <dependent idx="11">隻</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="5">66</governor>
+            <dependent idx="12">。</dependent>
+          </dep>
+        </dependencies>
+      </sentence>
+      <sentence id="2">
+        <tokens>
+          <token id="1">
+            <word>三腳椅</word>
+            <lemma>三腳椅</lemma>
+            <CharacterOffsetBegin>21</CharacterOffsetBegin>
+            <CharacterOffsetEnd>24</CharacterOffsetEnd>
+            <POS>NR</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="2">
+            <word>和</word>
+            <lemma>和</lemma>
+            <CharacterOffsetBegin>24</CharacterOffsetBegin>
+            <CharacterOffsetEnd>25</CharacterOffsetEnd>
+            <POS>CC</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="3">
+            <word>四腳椅</word>
+            <lemma>四腳椅</lemma>
+            <CharacterOffsetBegin>25</CharacterOffsetBegin>
+            <CharacterOffsetEnd>28</CharacterOffsetEnd>
+            <POS>NR</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="4">
+            <word>各</word>
+            <lemma>各</lemma>
+            <CharacterOffsetBegin>28</CharacterOffsetBegin>
+            <CharacterOffsetEnd>29</CharacterOffsetEnd>
+            <POS>AD</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="5">
+            <word>有</word>
+            <lemma>有</lemma>
+            <CharacterOffsetBegin>29</CharacterOffsetBegin>
+            <CharacterOffsetEnd>30</CharacterOffsetEnd>
+            <POS>VE</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="6">
+            <word>幾張</word>
+            <lemma>幾張</lemma>
+            <CharacterOffsetBegin>30</CharacterOffsetBegin>
+            <CharacterOffsetEnd>32</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="7">
+            <word>？</word>
+            <lemma>？</lemma>
+            <CharacterOffsetBegin>32</CharacterOffsetBegin>
+            <CharacterOffsetEnd>33</CharacterOffsetEnd>
+            <POS>PU</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+        </tokens>
+        <parse>(ROOT (IP (NP (NR 三腳椅) (CC 和) (NR 四腳椅)) (VP (ADVP (AD 各)) (VP (VE 有) (NP (NN 幾張)))) (PU ？))) </parse>
+        <dependencies type="basic-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="5">有</dependent>
+          </dep>
+          <dep type="conj">
+            <governor idx="3">四腳椅</governor>
+            <dependent idx="1">三腳椅</dependent>
+          </dep>
+          <dep type="cc">
+            <governor idx="3">四腳椅</governor>
+            <dependent idx="2">和</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="5">有</governor>
+            <dependent idx="3">四腳椅</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="5">有</governor>
+            <dependent idx="4">各</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="5">有</governor>
+            <dependent idx="6">幾張</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="5">有</governor>
+            <dependent idx="7">？</dependent>
+          </dep>
+        </dependencies>
+        <dependencies type="collapsed-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="5">有</dependent>
+          </dep>
+          <dep type="conj">
+            <governor idx="3">四腳椅</governor>
+            <dependent idx="1">三腳椅</dependent>
+          </dep>
+          <dep type="cc">
+            <governor idx="3">四腳椅</governor>
+            <dependent idx="2">和</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="5">有</governor>
+            <dependent idx="3">四腳椅</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="5">有</governor>
+            <dependent idx="4">各</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="5">有</governor>
+            <dependent idx="6">幾張</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="5">有</governor>
+            <dependent idx="7">？</dependent>
+          </dep>
+        </dependencies>
+        <dependencies type="collapsed-ccprocessed-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="5">有</dependent>
+          </dep>
+          <dep type="conj">
+            <governor idx="3">四腳椅</governor>
+            <dependent idx="1">三腳椅</dependent>
+          </dep>
+          <dep type="cc">
+            <governor idx="3">四腳椅</governor>
+            <dependent idx="2">和</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="5">有</governor>
+            <dependent idx="3">四腳椅</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="5">有</governor>
+            <dependent idx="4">各</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="5">有</governor>
+            <dependent idx="6">幾張</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="5">有</governor>
+            <dependent idx="7">？</dependent>
+          </dep>
+        </dependencies>
+        <dependencies type="enhanced-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="5">有</dependent>
+          </dep>
+          <dep type="conj">
+            <governor idx="3">四腳椅</governor>
+            <dependent idx="1">三腳椅</dependent>
+          </dep>
+          <dep type="cc">
+            <governor idx="3">四腳椅</governor>
+            <dependent idx="2">和</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="5">有</governor>
+            <dependent idx="3">四腳椅</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="5">有</governor>
+            <dependent idx="4">各</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="5">有</governor>
+            <dependent idx="6">幾張</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="5">有</governor>
+            <dependent idx="7">？</dependent>
+          </dep>
+        </dependencies>
+        <dependencies type="enhanced-plus-plus-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="5">有</dependent>
+          </dep>
+          <dep type="conj">
+            <governor idx="3">四腳椅</governor>
+            <dependent idx="1">三腳椅</dependent>
+          </dep>
+          <dep type="cc">
+            <governor idx="3">四腳椅</governor>
+            <dependent idx="2">和</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="5">有</governor>
+            <dependent idx="3">四腳椅</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="5">有</governor>
+            <dependent idx="4">各</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="5">有</governor>
+            <dependent idx="6">幾張</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="5">有</governor>
+            <dependent idx="7">？</dependent>
+          </dep>
+        </dependencies>
+      </sentence>
+    </sentences>
+    <coreference>
+      <coreference>
+        <mention representative="true">
+          <sentence>1</sentence>
+          <start>1</start>
+          <end>4</end>
+          <head>3</head>
+          <text>三腳椅 和 四腳椅</text>
+        </mention>
+        <mention>
+          <sentence>2</sentence>
+          <start>1</start>
+          <end>4</end>
+          <head>3</head>
+          <text>三腳椅 和 四腳椅</text>
+        </mention>
+      </coreference>
+    </coreference>
+  </document>
+</root>

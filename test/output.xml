@@ -1,0 +1,1878 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="CoreNLP-to-HTML.xsl" type="text/xsl"?>
+<root>
+  <document>
+    <sentences>
+      <sentence id="1">
+        <tokens>
+          <token id="1">
+            <word>姐姐</word>
+            <lemma>姐姐</lemma>
+            <CharacterOffsetBegin>0</CharacterOffsetBegin>
+            <CharacterOffsetEnd>2</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="2">
+            <word>和</word>
+            <lemma>和</lemma>
+            <CharacterOffsetBegin>2</CharacterOffsetBegin>
+            <CharacterOffsetEnd>3</CharacterOffsetEnd>
+            <POS>CC</POS>
+            <NER>O</NER>
+          </token>
+          <token id="3">
+            <word>淑慧</word>
+            <lemma>淑慧</lemma>
+            <CharacterOffsetBegin>3</CharacterOffsetBegin>
+            <CharacterOffsetEnd>5</CharacterOffsetEnd>
+            <POS>NR</POS>
+            <NER>PERSON</NER>
+          </token>
+          <token id="4">
+            <word>共</word>
+            <lemma>共</lemma>
+            <CharacterOffsetBegin>5</CharacterOffsetBegin>
+            <CharacterOffsetEnd>6</CharacterOffsetEnd>
+            <POS>AD</POS>
+            <NER>O</NER>
+          </token>
+          <token id="5">
+            <word>做</word>
+            <lemma>做</lemma>
+            <CharacterOffsetBegin>6</CharacterOffsetBegin>
+            <CharacterOffsetEnd>7</CharacterOffsetEnd>
+            <POS>VV</POS>
+            <NER>O</NER>
+          </token>
+          <token id="6">
+            <word>了</word>
+            <lemma>了</lemma>
+            <CharacterOffsetBegin>7</CharacterOffsetBegin>
+            <CharacterOffsetEnd>8</CharacterOffsetEnd>
+            <POS>AS</POS>
+            <NER>O</NER>
+          </token>
+          <token id="7">
+            <word>52</word>
+            <lemma>52</lemma>
+            <CharacterOffsetBegin>8</CharacterOffsetBegin>
+            <CharacterOffsetEnd>10</CharacterOffsetEnd>
+            <POS>CD</POS>
+            <NER>NUMBER</NER>
+            <NormalizedNER>52</NormalizedNER>
+          </token>
+          <token id="8">
+            <word>朵</word>
+            <lemma>朵</lemma>
+            <CharacterOffsetBegin>10</CharacterOffsetBegin>
+            <CharacterOffsetEnd>11</CharacterOffsetEnd>
+            <POS>M</POS>
+            <NER>MISC</NER>
+          </token>
+          <token id="9">
+            <word>緞帶</word>
+            <lemma>緞帶</lemma>
+            <CharacterOffsetBegin>11</CharacterOffsetBegin>
+            <CharacterOffsetEnd>13</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="10">
+            <word>花</word>
+            <lemma>花</lemma>
+            <CharacterOffsetBegin>13</CharacterOffsetBegin>
+            <CharacterOffsetEnd>14</CharacterOffsetEnd>
+            <POS>VV</POS>
+            <NER>O</NER>
+          </token>
+          <token id="11">
+            <word>，</word>
+            <lemma>，</lemma>
+            <CharacterOffsetBegin>14</CharacterOffsetBegin>
+            <CharacterOffsetEnd>15</CharacterOffsetEnd>
+            <POS>PU</POS>
+            <NER>O</NER>
+          </token>
+          <token id="12">
+            <word>姐姐</word>
+            <lemma>姐姐</lemma>
+            <CharacterOffsetBegin>15</CharacterOffsetBegin>
+            <CharacterOffsetEnd>17</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="13">
+            <word>做</word>
+            <lemma>做</lemma>
+            <CharacterOffsetBegin>17</CharacterOffsetBegin>
+            <CharacterOffsetEnd>18</CharacterOffsetEnd>
+            <POS>VV</POS>
+            <NER>O</NER>
+          </token>
+          <token id="14">
+            <word>的</word>
+            <lemma>的</lemma>
+            <CharacterOffsetBegin>18</CharacterOffsetBegin>
+            <CharacterOffsetEnd>19</CharacterOffsetEnd>
+            <POS>DEC</POS>
+            <NER>O</NER>
+          </token>
+          <token id="15">
+            <word>緞帶</word>
+            <lemma>緞帶</lemma>
+            <CharacterOffsetBegin>19</CharacterOffsetBegin>
+            <CharacterOffsetEnd>21</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="16">
+            <word>花</word>
+            <lemma>花</lemma>
+            <CharacterOffsetBegin>21</CharacterOffsetBegin>
+            <CharacterOffsetEnd>22</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="17">
+            <word>數量</word>
+            <lemma>數量</lemma>
+            <CharacterOffsetBegin>22</CharacterOffsetBegin>
+            <CharacterOffsetEnd>24</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="18">
+            <word>是</word>
+            <lemma>是</lemma>
+            <CharacterOffsetBegin>24</CharacterOffsetBegin>
+            <CharacterOffsetEnd>25</CharacterOffsetEnd>
+            <POS>VC</POS>
+            <NER>O</NER>
+          </token>
+          <token id="19">
+            <word>淑慧</word>
+            <lemma>淑慧</lemma>
+            <CharacterOffsetBegin>25</CharacterOffsetBegin>
+            <CharacterOffsetEnd>27</CharacterOffsetEnd>
+            <POS>NR</POS>
+            <NER>O</NER>
+          </token>
+          <token id="20">
+            <word>做</word>
+            <lemma>做</lemma>
+            <CharacterOffsetBegin>27</CharacterOffsetBegin>
+            <CharacterOffsetEnd>28</CharacterOffsetEnd>
+            <POS>VV</POS>
+            <NER>O</NER>
+          </token>
+          <token id="21">
+            <word>的</word>
+            <lemma>的</lemma>
+            <CharacterOffsetBegin>28</CharacterOffsetBegin>
+            <CharacterOffsetEnd>29</CharacterOffsetEnd>
+            <POS>DEC</POS>
+            <NER>O</NER>
+          </token>
+          <token id="22">
+            <word>3</word>
+            <lemma>3</lemma>
+            <CharacterOffsetBegin>29</CharacterOffsetBegin>
+            <CharacterOffsetEnd>30</CharacterOffsetEnd>
+            <POS>CD</POS>
+            <NER>NUMBER</NER>
+            <NormalizedNER>3</NormalizedNER>
+          </token>
+          <token id="23">
+            <word>倍</word>
+            <lemma>倍</lemma>
+            <CharacterOffsetBegin>30</CharacterOffsetBegin>
+            <CharacterOffsetEnd>31</CharacterOffsetEnd>
+            <POS>M</POS>
+            <NER>O</NER>
+          </token>
+          <token id="24">
+            <word>，</word>
+            <lemma>，</lemma>
+            <CharacterOffsetBegin>31</CharacterOffsetBegin>
+            <CharacterOffsetEnd>32</CharacterOffsetEnd>
+            <POS>PU</POS>
+            <NER>O</NER>
+          </token>
+          <token id="25">
+            <word>淑慧</word>
+            <lemma>淑慧</lemma>
+            <CharacterOffsetBegin>32</CharacterOffsetBegin>
+            <CharacterOffsetEnd>34</CharacterOffsetEnd>
+            <POS>NR</POS>
+            <NER>O</NER>
+          </token>
+          <token id="26">
+            <word>做</word>
+            <lemma>做</lemma>
+            <CharacterOffsetBegin>34</CharacterOffsetBegin>
+            <CharacterOffsetEnd>35</CharacterOffsetEnd>
+            <POS>VV</POS>
+            <NER>O</NER>
+          </token>
+          <token id="27">
+            <word>了</word>
+            <lemma>了</lemma>
+            <CharacterOffsetBegin>35</CharacterOffsetBegin>
+            <CharacterOffsetEnd>36</CharacterOffsetEnd>
+            <POS>AS</POS>
+            <NER>O</NER>
+          </token>
+          <token id="28">
+            <word>多少</word>
+            <lemma>多少</lemma>
+            <CharacterOffsetBegin>36</CharacterOffsetBegin>
+            <CharacterOffsetEnd>38</CharacterOffsetEnd>
+            <POS>CD</POS>
+            <NER>NUMBER</NER>
+          </token>
+          <token id="29">
+            <word>朵</word>
+            <lemma>朵</lemma>
+            <CharacterOffsetBegin>38</CharacterOffsetBegin>
+            <CharacterOffsetEnd>39</CharacterOffsetEnd>
+            <POS>M</POS>
+            <NER>O</NER>
+          </token>
+          <token id="30">
+            <word>緞帶</word>
+            <lemma>緞帶</lemma>
+            <CharacterOffsetBegin>39</CharacterOffsetBegin>
+            <CharacterOffsetEnd>41</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="31">
+            <word>花</word>
+            <lemma>花</lemma>
+            <CharacterOffsetBegin>41</CharacterOffsetBegin>
+            <CharacterOffsetEnd>42</CharacterOffsetEnd>
+            <POS>VV</POS>
+            <NER>O</NER>
+          </token>
+          <token id="32">
+            <word>？</word>
+            <lemma>？</lemma>
+            <CharacterOffsetBegin>42</CharacterOffsetBegin>
+            <CharacterOffsetEnd>43</CharacterOffsetEnd>
+            <POS>PU</POS>
+            <NER>O</NER>
+          </token>
+          <token id="33">
+            <word>好喝</word>
+            <lemma>好喝</lemma>
+            <CharacterOffsetBegin>43</CharacterOffsetBegin>
+            <CharacterOffsetEnd>45</CharacterOffsetEnd>
+            <POS>VV</POS>
+            <NER>O</NER>
+          </token>
+          <token id="34">
+            <word>果汁</word>
+            <lemma>果汁</lemma>
+            <CharacterOffsetBegin>45</CharacterOffsetBegin>
+            <CharacterOffsetEnd>47</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="35">
+            <word>店</word>
+            <lemma>店</lemma>
+            <CharacterOffsetBegin>47</CharacterOffsetBegin>
+            <CharacterOffsetEnd>48</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="36">
+            <word>今天</word>
+            <lemma>今天</lemma>
+            <CharacterOffsetBegin>48</CharacterOffsetBegin>
+            <CharacterOffsetEnd>50</CharacterOffsetEnd>
+            <POS>NT</POS>
+            <NER>DATE</NER>
+            <NormalizedNER>XXXX-XX-XX</NormalizedNER>
+          </token>
+          <token id="37">
+            <word>賣出</word>
+            <lemma>賣出</lemma>
+            <CharacterOffsetBegin>50</CharacterOffsetBegin>
+            <CharacterOffsetEnd>52</CharacterOffsetEnd>
+            <POS>VV</POS>
+            <NER>O</NER>
+          </token>
+          <token id="38">
+            <word>的</word>
+            <lemma>的</lemma>
+            <CharacterOffsetBegin>52</CharacterOffsetBegin>
+            <CharacterOffsetEnd>53</CharacterOffsetEnd>
+            <POS>DEC</POS>
+            <NER>O</NER>
+          </token>
+          <token id="39">
+            <word>蘋果汁</word>
+            <lemma>蘋果汁</lemma>
+            <CharacterOffsetBegin>53</CharacterOffsetBegin>
+            <CharacterOffsetEnd>56</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>PERSON</NER>
+          </token>
+          <token id="40">
+            <word>數量</word>
+            <lemma>數量</lemma>
+            <CharacterOffsetBegin>56</CharacterOffsetBegin>
+            <CharacterOffsetEnd>58</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="41">
+            <word>是</word>
+            <lemma>是</lemma>
+            <CharacterOffsetBegin>58</CharacterOffsetBegin>
+            <CharacterOffsetEnd>59</CharacterOffsetEnd>
+            <POS>VC</POS>
+            <NER>O</NER>
+          </token>
+          <token id="42">
+            <word>芭樂汁</word>
+            <lemma>芭樂汁</lemma>
+            <CharacterOffsetBegin>59</CharacterOffsetBegin>
+            <CharacterOffsetEnd>62</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>PERSON</NER>
+          </token>
+          <token id="43">
+            <word>的</word>
+            <lemma>的</lemma>
+            <CharacterOffsetBegin>62</CharacterOffsetBegin>
+            <CharacterOffsetEnd>63</CharacterOffsetEnd>
+            <POS>DEG</POS>
+            <NER>O</NER>
+          </token>
+          <token id="44">
+            <word>5</word>
+            <lemma>5</lemma>
+            <CharacterOffsetBegin>63</CharacterOffsetBegin>
+            <CharacterOffsetEnd>64</CharacterOffsetEnd>
+            <POS>CD</POS>
+            <NER>NUMBER</NER>
+            <NormalizedNER>5</NormalizedNER>
+          </token>
+          <token id="45">
+            <word>倍</word>
+            <lemma>倍</lemma>
+            <CharacterOffsetBegin>64</CharacterOffsetBegin>
+            <CharacterOffsetEnd>65</CharacterOffsetEnd>
+            <POS>M</POS>
+            <NER>O</NER>
+          </token>
+          <token id="46">
+            <word>，</word>
+            <lemma>，</lemma>
+            <CharacterOffsetBegin>65</CharacterOffsetBegin>
+            <CharacterOffsetEnd>66</CharacterOffsetEnd>
+            <POS>PU</POS>
+            <NER>O</NER>
+          </token>
+          <token id="47">
+            <word>今天</word>
+            <lemma>今天</lemma>
+            <CharacterOffsetBegin>66</CharacterOffsetBegin>
+            <CharacterOffsetEnd>68</CharacterOffsetEnd>
+            <POS>NT</POS>
+            <NER>DATE</NER>
+            <NormalizedNER>XXXX-XX-XX</NormalizedNER>
+          </token>
+          <token id="48">
+            <word>共</word>
+            <lemma>共</lemma>
+            <CharacterOffsetBegin>68</CharacterOffsetBegin>
+            <CharacterOffsetEnd>69</CharacterOffsetEnd>
+            <POS>AD</POS>
+            <NER>O</NER>
+          </token>
+          <token id="49">
+            <word>賣出</word>
+            <lemma>賣出</lemma>
+            <CharacterOffsetBegin>69</CharacterOffsetBegin>
+            <CharacterOffsetEnd>71</CharacterOffsetEnd>
+            <POS>VV</POS>
+            <NER>O</NER>
+          </token>
+          <token id="50">
+            <word>250</word>
+            <lemma>250</lemma>
+            <CharacterOffsetBegin>71</CharacterOffsetBegin>
+            <CharacterOffsetEnd>74</CharacterOffsetEnd>
+            <POS>CD</POS>
+            <NER>NUMBER</NER>
+            <NormalizedNER>250</NormalizedNER>
+          </token>
+          <token id="51">
+            <word>杯</word>
+            <lemma>杯</lemma>
+            <CharacterOffsetBegin>74</CharacterOffsetBegin>
+            <CharacterOffsetEnd>75</CharacterOffsetEnd>
+            <POS>M</POS>
+            <NER>O</NER>
+          </token>
+          <token id="52">
+            <word>芭樂汁</word>
+            <lemma>芭樂汁</lemma>
+            <CharacterOffsetBegin>75</CharacterOffsetBegin>
+            <CharacterOffsetEnd>78</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>PERSON</NER>
+          </token>
+          <token id="53">
+            <word>，</word>
+            <lemma>，</lemma>
+            <CharacterOffsetBegin>78</CharacterOffsetBegin>
+            <CharacterOffsetEnd>79</CharacterOffsetEnd>
+            <POS>PU</POS>
+            <NER>O</NER>
+          </token>
+          <token id="54">
+            <word>好喝</word>
+            <lemma>好喝</lemma>
+            <CharacterOffsetBegin>79</CharacterOffsetBegin>
+            <CharacterOffsetEnd>81</CharacterOffsetEnd>
+            <POS>VV</POS>
+            <NER>O</NER>
+          </token>
+          <token id="55">
+            <word>果汁</word>
+            <lemma>果汁</lemma>
+            <CharacterOffsetBegin>81</CharacterOffsetBegin>
+            <CharacterOffsetEnd>83</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="56">
+            <word>店</word>
+            <lemma>店</lemma>
+            <CharacterOffsetBegin>83</CharacterOffsetBegin>
+            <CharacterOffsetEnd>84</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="57">
+            <word>今天</word>
+            <lemma>今天</lemma>
+            <CharacterOffsetBegin>84</CharacterOffsetBegin>
+            <CharacterOffsetEnd>86</CharacterOffsetEnd>
+            <POS>NT</POS>
+            <NER>DATE</NER>
+            <NormalizedNER>XXXX-XX-XX</NormalizedNER>
+          </token>
+          <token id="58">
+            <word>賣出</word>
+            <lemma>賣出</lemma>
+            <CharacterOffsetBegin>86</CharacterOffsetBegin>
+            <CharacterOffsetEnd>88</CharacterOffsetEnd>
+            <POS>VV</POS>
+            <NER>O</NER>
+          </token>
+          <token id="59">
+            <word>的</word>
+            <lemma>的</lemma>
+            <CharacterOffsetBegin>88</CharacterOffsetBegin>
+            <CharacterOffsetEnd>89</CharacterOffsetEnd>
+            <POS>DEC</POS>
+            <NER>O</NER>
+          </token>
+          <token id="60">
+            <word>蘋果汁</word>
+            <lemma>蘋果汁</lemma>
+            <CharacterOffsetBegin>89</CharacterOffsetBegin>
+            <CharacterOffsetEnd>92</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>PERSON</NER>
+          </token>
+          <token id="61">
+            <word>和</word>
+            <lemma>和</lemma>
+            <CharacterOffsetBegin>92</CharacterOffsetBegin>
+            <CharacterOffsetEnd>93</CharacterOffsetEnd>
+            <POS>CC</POS>
+            <NER>O</NER>
+          </token>
+          <token id="62">
+            <word>芭樂汁數量</word>
+            <lemma>芭樂汁數量</lemma>
+            <CharacterOffsetBegin>93</CharacterOffsetBegin>
+            <CharacterOffsetEnd>98</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>GPE</NER>
+          </token>
+          <token id="63">
+            <word>相差</word>
+            <lemma>相差</lemma>
+            <CharacterOffsetBegin>98</CharacterOffsetBegin>
+            <CharacterOffsetEnd>100</CharacterOffsetEnd>
+            <POS>VV</POS>
+            <NER>O</NER>
+          </token>
+          <token id="64">
+            <word>多少</word>
+            <lemma>多少</lemma>
+            <CharacterOffsetBegin>100</CharacterOffsetBegin>
+            <CharacterOffsetEnd>102</CharacterOffsetEnd>
+            <POS>CD</POS>
+            <NER>NUMBER</NER>
+          </token>
+          <token id="65">
+            <word>杯</word>
+            <lemma>杯</lemma>
+            <CharacterOffsetBegin>102</CharacterOffsetBegin>
+            <CharacterOffsetEnd>103</CharacterOffsetEnd>
+            <POS>M</POS>
+            <NER>O</NER>
+          </token>
+          <token id="66">
+            <word>？</word>
+            <lemma>？</lemma>
+            <CharacterOffsetBegin>103</CharacterOffsetBegin>
+            <CharacterOffsetEnd>104</CharacterOffsetEnd>
+            <POS>PU</POS>
+            <NER>O</NER>
+          </token>
+        </tokens>
+        <parse>(ROOT (IP (IP (NP (NP (NN 姐姐)) (CC 和) (NP (NR 淑慧))) (VP (ADVP (AD 共)) (VP (VV 做) (AS 了) (IP (NP (QP (CD 52) (CLP (M 朵))) (NP (NN 緞帶))) (VP (VV 花)))))) (PU ，) (IP (NP (CP (IP (NP (NN 姐姐)) (VP (VV 做))) (DEC 的)) (NP (NN 緞帶) (NN 花) (NN 數量))) (VP (VC 是) (QP (CP (IP (NP (NR 淑慧)) (VP (VV 做))) (DEC 的)) (QP (CD 3) (CLP (M 倍)))))) (PU ，) (IP (IP (NP (NR 淑慧)) (VP (VV 做) (AS 了) (NP (QP (CD 多少) (CLP (M 朵))) (NP (NN 緞帶))))) (VP (VV 花))) (PU ？) (IP (IP (VP (VV 好喝) (NP (CP (IP (NP (NN 果汁) (NN 店)) (VP (NP (NT 今天)) (VP (VV 賣出)))) (DEC 的)) (NP (NN 蘋果汁) (NN 數量))))) (VP (VC 是) (QP (DNP (NP (NN 芭樂汁)) (DEG 的)) (QP (CD 5) (CLP (M 倍)))))) (PU ，) (IP (VP (NP (NT 今天)) (ADVP (AD 共)) (VP (VP (VV 賣出) (NP (QP (CD 250) (CLP (M 杯))) (NP (NN 芭樂汁)))) (PU ，) (VP (VP (VV 好喝) (NP (CP (IP (NP (NN 果汁) (NN 店)) (VP (NP (NT 今天)) (VP (VV 賣出)))) (DEC 的)) (NP (NN 蘋果汁) (CC 和) (NN 芭樂汁數量)))) (VP (VV 相差) (QP (CD 多少) (CLP (M 杯)))))))) (PU ？))) </parse>
+        <dependencies type="basic-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="5">做</dependent>
+          </dep>
+          <dep type="conj">
+            <governor idx="3">淑慧</governor>
+            <dependent idx="1">姐姐</dependent>
+          </dep>
+          <dep type="cc">
+            <governor idx="3">淑慧</governor>
+            <dependent idx="2">和</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="5">做</governor>
+            <dependent idx="3">淑慧</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="5">做</governor>
+            <dependent idx="4">共</dependent>
+          </dep>
+          <dep type="aux:asp">
+            <governor idx="5">做</governor>
+            <dependent idx="6">了</dependent>
+          </dep>
+          <dep type="nummod">
+            <governor idx="9">緞帶</governor>
+            <dependent idx="7">52</dependent>
+          </dep>
+          <dep type="mark:clf">
+            <governor idx="7">52</governor>
+            <dependent idx="8">朵</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="5">做</governor>
+            <dependent idx="9">緞帶</dependent>
+          </dep>
+          <dep type="conj">
+            <governor idx="5">做</governor>
+            <dependent idx="10">花</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="5">做</governor>
+            <dependent idx="11">，</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="13">做</governor>
+            <dependent idx="12">姐姐</dependent>
+          </dep>
+          <dep type="acl">
+            <governor idx="17">數量</governor>
+            <dependent idx="13">做</dependent>
+          </dep>
+          <dep type="mark">
+            <governor idx="13">做</governor>
+            <dependent idx="14">的</dependent>
+          </dep>
+          <dep type="compound:nn">
+            <governor idx="16">花</governor>
+            <dependent idx="15">緞帶</dependent>
+          </dep>
+          <dep type="compound:nn">
+            <governor idx="17">數量</governor>
+            <dependent idx="16">花</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="26">做</governor>
+            <dependent idx="17">數量</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="26">做</governor>
+            <dependent idx="18">是</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="20">做</governor>
+            <dependent idx="19">淑慧</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="22">3</governor>
+            <dependent idx="20">做</dependent>
+          </dep>
+          <dep type="mark">
+            <governor idx="20">做</governor>
+            <dependent idx="21">的</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="18">是</governor>
+            <dependent idx="22">3</dependent>
+          </dep>
+          <dep type="mark:clf">
+            <governor idx="22">3</governor>
+            <dependent idx="23">倍</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="26">做</governor>
+            <dependent idx="24">，</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="26">做</governor>
+            <dependent idx="25">淑慧</dependent>
+          </dep>
+          <dep type="conj">
+            <governor idx="5">做</governor>
+            <dependent idx="26">做</dependent>
+          </dep>
+          <dep type="aux:asp">
+            <governor idx="26">做</governor>
+            <dependent idx="27">了</dependent>
+          </dep>
+          <dep type="nummod">
+            <governor idx="30">緞帶</governor>
+            <dependent idx="28">多少</dependent>
+          </dep>
+          <dep type="mark:clf">
+            <governor idx="28">多少</governor>
+            <dependent idx="29">朵</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="26">做</governor>
+            <dependent idx="30">緞帶</dependent>
+          </dep>
+          <dep type="conj">
+            <governor idx="26">做</governor>
+            <dependent idx="31">花</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="5">做</governor>
+            <dependent idx="32">？</dependent>
+          </dep>
+          <dep type="conj">
+            <governor idx="5">做</governor>
+            <dependent idx="33">好喝</dependent>
+          </dep>
+          <dep type="compound:nn">
+            <governor idx="35">店</governor>
+            <dependent idx="34">果汁</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="37">賣出</governor>
+            <dependent idx="35">店</dependent>
+          </dep>
+          <dep type="nmod:tmod">
+            <governor idx="37">賣出</governor>
+            <dependent idx="36">今天</dependent>
+          </dep>
+          <dep type="acl">
+            <governor idx="40">數量</governor>
+            <dependent idx="37">賣出</dependent>
+          </dep>
+          <dep type="mark">
+            <governor idx="37">賣出</governor>
+            <dependent idx="38">的</dependent>
+          </dep>
+          <dep type="compound:nn">
+            <governor idx="40">數量</governor>
+            <dependent idx="39">蘋果汁</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="49">賣出</governor>
+            <dependent idx="40">數量</dependent>
+          </dep>
+          <dep type="cop">
+            <governor idx="49">賣出</governor>
+            <dependent idx="41">是</dependent>
+          </dep>
+          <dep type="nmod:assmod">
+            <governor idx="44">5</governor>
+            <dependent idx="42">芭樂汁</dependent>
+          </dep>
+          <dep type="case">
+            <governor idx="42">芭樂汁</governor>
+            <dependent idx="43">的</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="41">是</governor>
+            <dependent idx="44">5</dependent>
+          </dep>
+          <dep type="mark:clf">
+            <governor idx="44">5</governor>
+            <dependent idx="45">倍</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="49">賣出</governor>
+            <dependent idx="46">，</dependent>
+          </dep>
+          <dep type="nmod:tmod">
+            <governor idx="49">賣出</governor>
+            <dependent idx="47">今天</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="49">賣出</governor>
+            <dependent idx="48">共</dependent>
+          </dep>
+          <dep type="ccomp">
+            <governor idx="33">好喝</governor>
+            <dependent idx="49">賣出</dependent>
+          </dep>
+          <dep type="nummod">
+            <governor idx="52">芭樂汁</governor>
+            <dependent idx="50">250</dependent>
+          </dep>
+          <dep type="mark:clf">
+            <governor idx="50">250</governor>
+            <dependent idx="51">杯</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="49">賣出</governor>
+            <dependent idx="52">芭樂汁</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="49">賣出</governor>
+            <dependent idx="53">，</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="63">相差</governor>
+            <dependent idx="54">好喝</dependent>
+          </dep>
+          <dep type="compound:nn">
+            <governor idx="56">店</governor>
+            <dependent idx="55">果汁</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="54">好喝</governor>
+            <dependent idx="56">店</dependent>
+          </dep>
+          <dep type="nmod:tmod">
+            <governor idx="58">賣出</governor>
+            <dependent idx="57">今天</dependent>
+          </dep>
+          <dep type="acl">
+            <governor idx="62">芭樂汁數量</governor>
+            <dependent idx="58">賣出</dependent>
+          </dep>
+          <dep type="mark">
+            <governor idx="58">賣出</governor>
+            <dependent idx="59">的</dependent>
+          </dep>
+          <dep type="conj">
+            <governor idx="62">芭樂汁數量</governor>
+            <dependent idx="60">蘋果汁</dependent>
+          </dep>
+          <dep type="cc">
+            <governor idx="62">芭樂汁數量</governor>
+            <dependent idx="61">和</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="63">相差</governor>
+            <dependent idx="62">芭樂汁數量</dependent>
+          </dep>
+          <dep type="conj">
+            <governor idx="49">賣出</governor>
+            <dependent idx="63">相差</dependent>
+          </dep>
+          <dep type="nmod:range">
+            <governor idx="63">相差</governor>
+            <dependent idx="64">多少</dependent>
+          </dep>
+          <dep type="mark:clf">
+            <governor idx="64">多少</governor>
+            <dependent idx="65">杯</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="5">做</governor>
+            <dependent idx="66">？</dependent>
+          </dep>
+        </dependencies>
+        <dependencies type="collapsed-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="5">做</dependent>
+          </dep>
+          <dep type="conj">
+            <governor idx="3">淑慧</governor>
+            <dependent idx="1">姐姐</dependent>
+          </dep>
+          <dep type="cc">
+            <governor idx="3">淑慧</governor>
+            <dependent idx="2">和</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="5">做</governor>
+            <dependent idx="3">淑慧</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="5">做</governor>
+            <dependent idx="4">共</dependent>
+          </dep>
+          <dep type="aux:asp">
+            <governor idx="5">做</governor>
+            <dependent idx="6">了</dependent>
+          </dep>
+          <dep type="nummod">
+            <governor idx="9">緞帶</governor>
+            <dependent idx="7">52</dependent>
+          </dep>
+          <dep type="mark:clf">
+            <governor idx="7">52</governor>
+            <dependent idx="8">朵</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="5">做</governor>
+            <dependent idx="9">緞帶</dependent>
+          </dep>
+          <dep type="conj">
+            <governor idx="5">做</governor>
+            <dependent idx="10">花</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="5">做</governor>
+            <dependent idx="11">，</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="13">做</governor>
+            <dependent idx="12">姐姐</dependent>
+          </dep>
+          <dep type="acl">
+            <governor idx="17">數量</governor>
+            <dependent idx="13">做</dependent>
+          </dep>
+          <dep type="mark">
+            <governor idx="13">做</governor>
+            <dependent idx="14">的</dependent>
+          </dep>
+          <dep type="compound:nn">
+            <governor idx="16">花</governor>
+            <dependent idx="15">緞帶</dependent>
+          </dep>
+          <dep type="compound:nn">
+            <governor idx="17">數量</governor>
+            <dependent idx="16">花</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="26">做</governor>
+            <dependent idx="17">數量</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="26">做</governor>
+            <dependent idx="18">是</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="20">做</governor>
+            <dependent idx="19">淑慧</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="22">3</governor>
+            <dependent idx="20">做</dependent>
+          </dep>
+          <dep type="mark">
+            <governor idx="20">做</governor>
+            <dependent idx="21">的</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="18">是</governor>
+            <dependent idx="22">3</dependent>
+          </dep>
+          <dep type="mark:clf">
+            <governor idx="22">3</governor>
+            <dependent idx="23">倍</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="26">做</governor>
+            <dependent idx="24">，</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="26">做</governor>
+            <dependent idx="25">淑慧</dependent>
+          </dep>
+          <dep type="conj">
+            <governor idx="5">做</governor>
+            <dependent idx="26">做</dependent>
+          </dep>
+          <dep type="aux:asp">
+            <governor idx="26">做</governor>
+            <dependent idx="27">了</dependent>
+          </dep>
+          <dep type="nummod">
+            <governor idx="30">緞帶</governor>
+            <dependent idx="28">多少</dependent>
+          </dep>
+          <dep type="mark:clf">
+            <governor idx="28">多少</governor>
+            <dependent idx="29">朵</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="26">做</governor>
+            <dependent idx="30">緞帶</dependent>
+          </dep>
+          <dep type="conj">
+            <governor idx="26">做</governor>
+            <dependent idx="31">花</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="5">做</governor>
+            <dependent idx="32">？</dependent>
+          </dep>
+          <dep type="conj">
+            <governor idx="5">做</governor>
+            <dependent idx="33">好喝</dependent>
+          </dep>
+          <dep type="compound:nn">
+            <governor idx="35">店</governor>
+            <dependent idx="34">果汁</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="37">賣出</governor>
+            <dependent idx="35">店</dependent>
+          </dep>
+          <dep type="nmod:tmod">
+            <governor idx="37">賣出</governor>
+            <dependent idx="36">今天</dependent>
+          </dep>
+          <dep type="acl">
+            <governor idx="40">數量</governor>
+            <dependent idx="37">賣出</dependent>
+          </dep>
+          <dep type="mark">
+            <governor idx="37">賣出</governor>
+            <dependent idx="38">的</dependent>
+          </dep>
+          <dep type="compound:nn">
+            <governor idx="40">數量</governor>
+            <dependent idx="39">蘋果汁</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="49">賣出</governor>
+            <dependent idx="40">數量</dependent>
+          </dep>
+          <dep type="cop">
+            <governor idx="49">賣出</governor>
+            <dependent idx="41">是</dependent>
+          </dep>
+          <dep type="nmod:assmod">
+            <governor idx="44">5</governor>
+            <dependent idx="42">芭樂汁</dependent>
+          </dep>
+          <dep type="case">
+            <governor idx="42">芭樂汁</governor>
+            <dependent idx="43">的</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="41">是</governor>
+            <dependent idx="44">5</dependent>
+          </dep>
+          <dep type="mark:clf">
+            <governor idx="44">5</governor>
+            <dependent idx="45">倍</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="49">賣出</governor>
+            <dependent idx="46">，</dependent>
+          </dep>
+          <dep type="nmod:tmod">
+            <governor idx="49">賣出</governor>
+            <dependent idx="47">今天</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="49">賣出</governor>
+            <dependent idx="48">共</dependent>
+          </dep>
+          <dep type="ccomp">
+            <governor idx="33">好喝</governor>
+            <dependent idx="49">賣出</dependent>
+          </dep>
+          <dep type="nummod">
+            <governor idx="52">芭樂汁</governor>
+            <dependent idx="50">250</dependent>
+          </dep>
+          <dep type="mark:clf">
+            <governor idx="50">250</governor>
+            <dependent idx="51">杯</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="49">賣出</governor>
+            <dependent idx="52">芭樂汁</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="49">賣出</governor>
+            <dependent idx="53">，</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="63">相差</governor>
+            <dependent idx="54">好喝</dependent>
+          </dep>
+          <dep type="compound:nn">
+            <governor idx="56">店</governor>
+            <dependent idx="55">果汁</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="54">好喝</governor>
+            <dependent idx="56">店</dependent>
+          </dep>
+          <dep type="nmod:tmod">
+            <governor idx="58">賣出</governor>
+            <dependent idx="57">今天</dependent>
+          </dep>
+          <dep type="acl">
+            <governor idx="62">芭樂汁數量</governor>
+            <dependent idx="58">賣出</dependent>
+          </dep>
+          <dep type="mark">
+            <governor idx="58">賣出</governor>
+            <dependent idx="59">的</dependent>
+          </dep>
+          <dep type="conj">
+            <governor idx="62">芭樂汁數量</governor>
+            <dependent idx="60">蘋果汁</dependent>
+          </dep>
+          <dep type="cc">
+            <governor idx="62">芭樂汁數量</governor>
+            <dependent idx="61">和</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="63">相差</governor>
+            <dependent idx="62">芭樂汁數量</dependent>
+          </dep>
+          <dep type="conj">
+            <governor idx="49">賣出</governor>
+            <dependent idx="63">相差</dependent>
+          </dep>
+          <dep type="nmod:range">
+            <governor idx="63">相差</governor>
+            <dependent idx="64">多少</dependent>
+          </dep>
+          <dep type="mark:clf">
+            <governor idx="64">多少</governor>
+            <dependent idx="65">杯</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="5">做</governor>
+            <dependent idx="66">？</dependent>
+          </dep>
+        </dependencies>
+        <dependencies type="collapsed-ccprocessed-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="5">做</dependent>
+          </dep>
+          <dep type="conj">
+            <governor idx="3">淑慧</governor>
+            <dependent idx="1">姐姐</dependent>
+          </dep>
+          <dep type="cc">
+            <governor idx="3">淑慧</governor>
+            <dependent idx="2">和</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="5">做</governor>
+            <dependent idx="3">淑慧</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="5">做</governor>
+            <dependent idx="4">共</dependent>
+          </dep>
+          <dep type="aux:asp">
+            <governor idx="5">做</governor>
+            <dependent idx="6">了</dependent>
+          </dep>
+          <dep type="nummod">
+            <governor idx="9">緞帶</governor>
+            <dependent idx="7">52</dependent>
+          </dep>
+          <dep type="mark:clf">
+            <governor idx="7">52</governor>
+            <dependent idx="8">朵</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="5">做</governor>
+            <dependent idx="9">緞帶</dependent>
+          </dep>
+          <dep type="conj">
+            <governor idx="5">做</governor>
+            <dependent idx="10">花</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="5">做</governor>
+            <dependent idx="11">，</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="13">做</governor>
+            <dependent idx="12">姐姐</dependent>
+          </dep>
+          <dep type="acl">
+            <governor idx="17">數量</governor>
+            <dependent idx="13">做</dependent>
+          </dep>
+          <dep type="mark">
+            <governor idx="13">做</governor>
+            <dependent idx="14">的</dependent>
+          </dep>
+          <dep type="compound:nn">
+            <governor idx="16">花</governor>
+            <dependent idx="15">緞帶</dependent>
+          </dep>
+          <dep type="compound:nn">
+            <governor idx="17">數量</governor>
+            <dependent idx="16">花</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="26">做</governor>
+            <dependent idx="17">數量</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="26">做</governor>
+            <dependent idx="18">是</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="20">做</governor>
+            <dependent idx="19">淑慧</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="22">3</governor>
+            <dependent idx="20">做</dependent>
+          </dep>
+          <dep type="mark">
+            <governor idx="20">做</governor>
+            <dependent idx="21">的</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="18">是</governor>
+            <dependent idx="22">3</dependent>
+          </dep>
+          <dep type="mark:clf">
+            <governor idx="22">3</governor>
+            <dependent idx="23">倍</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="26">做</governor>
+            <dependent idx="24">，</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="26">做</governor>
+            <dependent idx="25">淑慧</dependent>
+          </dep>
+          <dep type="conj">
+            <governor idx="5">做</governor>
+            <dependent idx="26">做</dependent>
+          </dep>
+          <dep type="aux:asp">
+            <governor idx="26">做</governor>
+            <dependent idx="27">了</dependent>
+          </dep>
+          <dep type="nummod">
+            <governor idx="30">緞帶</governor>
+            <dependent idx="28">多少</dependent>
+          </dep>
+          <dep type="mark:clf">
+            <governor idx="28">多少</governor>
+            <dependent idx="29">朵</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="26">做</governor>
+            <dependent idx="30">緞帶</dependent>
+          </dep>
+          <dep type="conj">
+            <governor idx="26">做</governor>
+            <dependent idx="31">花</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="5">做</governor>
+            <dependent idx="32">？</dependent>
+          </dep>
+          <dep type="conj">
+            <governor idx="5">做</governor>
+            <dependent idx="33">好喝</dependent>
+          </dep>
+          <dep type="compound:nn">
+            <governor idx="35">店</governor>
+            <dependent idx="34">果汁</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="37">賣出</governor>
+            <dependent idx="35">店</dependent>
+          </dep>
+          <dep type="nmod:tmod">
+            <governor idx="37">賣出</governor>
+            <dependent idx="36">今天</dependent>
+          </dep>
+          <dep type="acl">
+            <governor idx="40">數量</governor>
+            <dependent idx="37">賣出</dependent>
+          </dep>
+          <dep type="mark">
+            <governor idx="37">賣出</governor>
+            <dependent idx="38">的</dependent>
+          </dep>
+          <dep type="compound:nn">
+            <governor idx="40">數量</governor>
+            <dependent idx="39">蘋果汁</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="49">賣出</governor>
+            <dependent idx="40">數量</dependent>
+          </dep>
+          <dep type="cop">
+            <governor idx="49">賣出</governor>
+            <dependent idx="41">是</dependent>
+          </dep>
+          <dep type="nmod:assmod">
+            <governor idx="44">5</governor>
+            <dependent idx="42">芭樂汁</dependent>
+          </dep>
+          <dep type="case">
+            <governor idx="42">芭樂汁</governor>
+            <dependent idx="43">的</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="41">是</governor>
+            <dependent idx="44">5</dependent>
+          </dep>
+          <dep type="mark:clf">
+            <governor idx="44">5</governor>
+            <dependent idx="45">倍</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="49">賣出</governor>
+            <dependent idx="46">，</dependent>
+          </dep>
+          <dep type="nmod:tmod">
+            <governor idx="49">賣出</governor>
+            <dependent idx="47">今天</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="49">賣出</governor>
+            <dependent idx="48">共</dependent>
+          </dep>
+          <dep type="ccomp">
+            <governor idx="33">好喝</governor>
+            <dependent idx="49">賣出</dependent>
+          </dep>
+          <dep type="nummod">
+            <governor idx="52">芭樂汁</governor>
+            <dependent idx="50">250</dependent>
+          </dep>
+          <dep type="mark:clf">
+            <governor idx="50">250</governor>
+            <dependent idx="51">杯</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="49">賣出</governor>
+            <dependent idx="52">芭樂汁</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="49">賣出</governor>
+            <dependent idx="53">，</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="63">相差</governor>
+            <dependent idx="54">好喝</dependent>
+          </dep>
+          <dep type="compound:nn">
+            <governor idx="56">店</governor>
+            <dependent idx="55">果汁</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="54">好喝</governor>
+            <dependent idx="56">店</dependent>
+          </dep>
+          <dep type="nmod:tmod">
+            <governor idx="58">賣出</governor>
+            <dependent idx="57">今天</dependent>
+          </dep>
+          <dep type="acl">
+            <governor idx="62">芭樂汁數量</governor>
+            <dependent idx="58">賣出</dependent>
+          </dep>
+          <dep type="mark">
+            <governor idx="58">賣出</governor>
+            <dependent idx="59">的</dependent>
+          </dep>
+          <dep type="conj">
+            <governor idx="62">芭樂汁數量</governor>
+            <dependent idx="60">蘋果汁</dependent>
+          </dep>
+          <dep type="cc">
+            <governor idx="62">芭樂汁數量</governor>
+            <dependent idx="61">和</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="63">相差</governor>
+            <dependent idx="62">芭樂汁數量</dependent>
+          </dep>
+          <dep type="conj">
+            <governor idx="49">賣出</governor>
+            <dependent idx="63">相差</dependent>
+          </dep>
+          <dep type="nmod:range">
+            <governor idx="63">相差</governor>
+            <dependent idx="64">多少</dependent>
+          </dep>
+          <dep type="mark:clf">
+            <governor idx="64">多少</governor>
+            <dependent idx="65">杯</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="5">做</governor>
+            <dependent idx="66">？</dependent>
+          </dep>
+        </dependencies>
+        <dependencies type="enhanced-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="5">做</dependent>
+          </dep>
+          <dep type="conj">
+            <governor idx="3">淑慧</governor>
+            <dependent idx="1">姐姐</dependent>
+          </dep>
+          <dep type="cc">
+            <governor idx="3">淑慧</governor>
+            <dependent idx="2">和</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="5">做</governor>
+            <dependent idx="3">淑慧</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="5">做</governor>
+            <dependent idx="4">共</dependent>
+          </dep>
+          <dep type="aux:asp">
+            <governor idx="5">做</governor>
+            <dependent idx="6">了</dependent>
+          </dep>
+          <dep type="nummod">
+            <governor idx="9">緞帶</governor>
+            <dependent idx="7">52</dependent>
+          </dep>
+          <dep type="mark:clf">
+            <governor idx="7">52</governor>
+            <dependent idx="8">朵</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="5">做</governor>
+            <dependent idx="9">緞帶</dependent>
+          </dep>
+          <dep type="conj">
+            <governor idx="5">做</governor>
+            <dependent idx="10">花</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="5">做</governor>
+            <dependent idx="11">，</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="13">做</governor>
+            <dependent idx="12">姐姐</dependent>
+          </dep>
+          <dep type="acl">
+            <governor idx="17">數量</governor>
+            <dependent idx="13">做</dependent>
+          </dep>
+          <dep type="mark">
+            <governor idx="13">做</governor>
+            <dependent idx="14">的</dependent>
+          </dep>
+          <dep type="compound:nn">
+            <governor idx="16">花</governor>
+            <dependent idx="15">緞帶</dependent>
+          </dep>
+          <dep type="compound:nn">
+            <governor idx="17">數量</governor>
+            <dependent idx="16">花</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="26">做</governor>
+            <dependent idx="17">數量</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="26">做</governor>
+            <dependent idx="18">是</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="20">做</governor>
+            <dependent idx="19">淑慧</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="22">3</governor>
+            <dependent idx="20">做</dependent>
+          </dep>
+          <dep type="mark">
+            <governor idx="20">做</governor>
+            <dependent idx="21">的</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="18">是</governor>
+            <dependent idx="22">3</dependent>
+          </dep>
+          <dep type="mark:clf">
+            <governor idx="22">3</governor>
+            <dependent idx="23">倍</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="26">做</governor>
+            <dependent idx="24">，</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="26">做</governor>
+            <dependent idx="25">淑慧</dependent>
+          </dep>
+          <dep type="conj">
+            <governor idx="5">做</governor>
+            <dependent idx="26">做</dependent>
+          </dep>
+          <dep type="aux:asp">
+            <governor idx="26">做</governor>
+            <dependent idx="27">了</dependent>
+          </dep>
+          <dep type="nummod">
+            <governor idx="30">緞帶</governor>
+            <dependent idx="28">多少</dependent>
+          </dep>
+          <dep type="mark:clf">
+            <governor idx="28">多少</governor>
+            <dependent idx="29">朵</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="26">做</governor>
+            <dependent idx="30">緞帶</dependent>
+          </dep>
+          <dep type="conj">
+            <governor idx="26">做</governor>
+            <dependent idx="31">花</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="5">做</governor>
+            <dependent idx="32">？</dependent>
+          </dep>
+          <dep type="conj">
+            <governor idx="5">做</governor>
+            <dependent idx="33">好喝</dependent>
+          </dep>
+          <dep type="compound:nn">
+            <governor idx="35">店</governor>
+            <dependent idx="34">果汁</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="37">賣出</governor>
+            <dependent idx="35">店</dependent>
+          </dep>
+          <dep type="nmod:tmod">
+            <governor idx="37">賣出</governor>
+            <dependent idx="36">今天</dependent>
+          </dep>
+          <dep type="acl">
+            <governor idx="40">數量</governor>
+            <dependent idx="37">賣出</dependent>
+          </dep>
+          <dep type="mark">
+            <governor idx="37">賣出</governor>
+            <dependent idx="38">的</dependent>
+          </dep>
+          <dep type="compound:nn">
+            <governor idx="40">數量</governor>
+            <dependent idx="39">蘋果汁</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="49">賣出</governor>
+            <dependent idx="40">數量</dependent>
+          </dep>
+          <dep type="cop">
+            <governor idx="49">賣出</governor>
+            <dependent idx="41">是</dependent>
+          </dep>
+          <dep type="nmod:assmod">
+            <governor idx="44">5</governor>
+            <dependent idx="42">芭樂汁</dependent>
+          </dep>
+          <dep type="case">
+            <governor idx="42">芭樂汁</governor>
+            <dependent idx="43">的</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="41">是</governor>
+            <dependent idx="44">5</dependent>
+          </dep>
+          <dep type="mark:clf">
+            <governor idx="44">5</governor>
+            <dependent idx="45">倍</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="49">賣出</governor>
+            <dependent idx="46">，</dependent>
+          </dep>
+          <dep type="nmod:tmod">
+            <governor idx="49">賣出</governor>
+            <dependent idx="47">今天</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="49">賣出</governor>
+            <dependent idx="48">共</dependent>
+          </dep>
+          <dep type="ccomp">
+            <governor idx="33">好喝</governor>
+            <dependent idx="49">賣出</dependent>
+          </dep>
+          <dep type="nummod">
+            <governor idx="52">芭樂汁</governor>
+            <dependent idx="50">250</dependent>
+          </dep>
+          <dep type="mark:clf">
+            <governor idx="50">250</governor>
+            <dependent idx="51">杯</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="49">賣出</governor>
+            <dependent idx="52">芭樂汁</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="49">賣出</governor>
+            <dependent idx="53">，</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="63">相差</governor>
+            <dependent idx="54">好喝</dependent>
+          </dep>
+          <dep type="compound:nn">
+            <governor idx="56">店</governor>
+            <dependent idx="55">果汁</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="54">好喝</governor>
+            <dependent idx="56">店</dependent>
+          </dep>
+          <dep type="nmod:tmod">
+            <governor idx="58">賣出</governor>
+            <dependent idx="57">今天</dependent>
+          </dep>
+          <dep type="acl">
+            <governor idx="62">芭樂汁數量</governor>
+            <dependent idx="58">賣出</dependent>
+          </dep>
+          <dep type="mark">
+            <governor idx="58">賣出</governor>
+            <dependent idx="59">的</dependent>
+          </dep>
+          <dep type="conj">
+            <governor idx="62">芭樂汁數量</governor>
+            <dependent idx="60">蘋果汁</dependent>
+          </dep>
+          <dep type="cc">
+            <governor idx="62">芭樂汁數量</governor>
+            <dependent idx="61">和</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="63">相差</governor>
+            <dependent idx="62">芭樂汁數量</dependent>
+          </dep>
+          <dep type="conj">
+            <governor idx="49">賣出</governor>
+            <dependent idx="63">相差</dependent>
+          </dep>
+          <dep type="nmod:range">
+            <governor idx="63">相差</governor>
+            <dependent idx="64">多少</dependent>
+          </dep>
+          <dep type="mark:clf">
+            <governor idx="64">多少</governor>
+            <dependent idx="65">杯</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="5">做</governor>
+            <dependent idx="66">？</dependent>
+          </dep>
+        </dependencies>
+        <dependencies type="enhanced-plus-plus-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="5">做</dependent>
+          </dep>
+          <dep type="conj">
+            <governor idx="3">淑慧</governor>
+            <dependent idx="1">姐姐</dependent>
+          </dep>
+          <dep type="cc">
+            <governor idx="3">淑慧</governor>
+            <dependent idx="2">和</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="5">做</governor>
+            <dependent idx="3">淑慧</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="5">做</governor>
+            <dependent idx="4">共</dependent>
+          </dep>
+          <dep type="aux:asp">
+            <governor idx="5">做</governor>
+            <dependent idx="6">了</dependent>
+          </dep>
+          <dep type="nummod">
+            <governor idx="9">緞帶</governor>
+            <dependent idx="7">52</dependent>
+          </dep>
+          <dep type="mark:clf">
+            <governor idx="7">52</governor>
+            <dependent idx="8">朵</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="5">做</governor>
+            <dependent idx="9">緞帶</dependent>
+          </dep>
+          <dep type="conj">
+            <governor idx="5">做</governor>
+            <dependent idx="10">花</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="5">做</governor>
+            <dependent idx="11">，</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="13">做</governor>
+            <dependent idx="12">姐姐</dependent>
+          </dep>
+          <dep type="acl">
+            <governor idx="17">數量</governor>
+            <dependent idx="13">做</dependent>
+          </dep>
+          <dep type="mark">
+            <governor idx="13">做</governor>
+            <dependent idx="14">的</dependent>
+          </dep>
+          <dep type="compound:nn">
+            <governor idx="16">花</governor>
+            <dependent idx="15">緞帶</dependent>
+          </dep>
+          <dep type="compound:nn">
+            <governor idx="17">數量</governor>
+            <dependent idx="16">花</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="26">做</governor>
+            <dependent idx="17">數量</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="26">做</governor>
+            <dependent idx="18">是</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="20">做</governor>
+            <dependent idx="19">淑慧</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="22">3</governor>
+            <dependent idx="20">做</dependent>
+          </dep>
+          <dep type="mark">
+            <governor idx="20">做</governor>
+            <dependent idx="21">的</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="18">是</governor>
+            <dependent idx="22">3</dependent>
+          </dep>
+          <dep type="mark:clf">
+            <governor idx="22">3</governor>
+            <dependent idx="23">倍</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="26">做</governor>
+            <dependent idx="24">，</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="26">做</governor>
+            <dependent idx="25">淑慧</dependent>
+          </dep>
+          <dep type="conj">
+            <governor idx="5">做</governor>
+            <dependent idx="26">做</dependent>
+          </dep>
+          <dep type="aux:asp">
+            <governor idx="26">做</governor>
+            <dependent idx="27">了</dependent>
+          </dep>
+          <dep type="nummod">
+            <governor idx="30">緞帶</governor>
+            <dependent idx="28">多少</dependent>
+          </dep>
+          <dep type="mark:clf">
+            <governor idx="28">多少</governor>
+            <dependent idx="29">朵</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="26">做</governor>
+            <dependent idx="30">緞帶</dependent>
+          </dep>
+          <dep type="conj">
+            <governor idx="26">做</governor>
+            <dependent idx="31">花</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="5">做</governor>
+            <dependent idx="32">？</dependent>
+          </dep>
+          <dep type="conj">
+            <governor idx="5">做</governor>
+            <dependent idx="33">好喝</dependent>
+          </dep>
+          <dep type="compound:nn">
+            <governor idx="35">店</governor>
+            <dependent idx="34">果汁</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="37">賣出</governor>
+            <dependent idx="35">店</dependent>
+          </dep>
+          <dep type="nmod:tmod">
+            <governor idx="37">賣出</governor>
+            <dependent idx="36">今天</dependent>
+          </dep>
+          <dep type="acl">
+            <governor idx="40">數量</governor>
+            <dependent idx="37">賣出</dependent>
+          </dep>
+          <dep type="mark">
+            <governor idx="37">賣出</governor>
+            <dependent idx="38">的</dependent>
+          </dep>
+          <dep type="compound:nn">
+            <governor idx="40">數量</governor>
+            <dependent idx="39">蘋果汁</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="49">賣出</governor>
+            <dependent idx="40">數量</dependent>
+          </dep>
+          <dep type="cop">
+            <governor idx="49">賣出</governor>
+            <dependent idx="41">是</dependent>
+          </dep>
+          <dep type="nmod:assmod">
+            <governor idx="44">5</governor>
+            <dependent idx="42">芭樂汁</dependent>
+          </dep>
+          <dep type="case">
+            <governor idx="42">芭樂汁</governor>
+            <dependent idx="43">的</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="41">是</governor>
+            <dependent idx="44">5</dependent>
+          </dep>
+          <dep type="mark:clf">
+            <governor idx="44">5</governor>
+            <dependent idx="45">倍</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="49">賣出</governor>
+            <dependent idx="46">，</dependent>
+          </dep>
+          <dep type="nmod:tmod">
+            <governor idx="49">賣出</governor>
+            <dependent idx="47">今天</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="49">賣出</governor>
+            <dependent idx="48">共</dependent>
+          </dep>
+          <dep type="ccomp">
+            <governor idx="33">好喝</governor>
+            <dependent idx="49">賣出</dependent>
+          </dep>
+          <dep type="nummod">
+            <governor idx="52">芭樂汁</governor>
+            <dependent idx="50">250</dependent>
+          </dep>
+          <dep type="mark:clf">
+            <governor idx="50">250</governor>
+            <dependent idx="51">杯</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="49">賣出</governor>
+            <dependent idx="52">芭樂汁</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="49">賣出</governor>
+            <dependent idx="53">，</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="63">相差</governor>
+            <dependent idx="54">好喝</dependent>
+          </dep>
+          <dep type="compound:nn">
+            <governor idx="56">店</governor>
+            <dependent idx="55">果汁</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="54">好喝</governor>
+            <dependent idx="56">店</dependent>
+          </dep>
+          <dep type="nmod:tmod">
+            <governor idx="58">賣出</governor>
+            <dependent idx="57">今天</dependent>
+          </dep>
+          <dep type="acl">
+            <governor idx="62">芭樂汁數量</governor>
+            <dependent idx="58">賣出</dependent>
+          </dep>
+          <dep type="mark">
+            <governor idx="58">賣出</governor>
+            <dependent idx="59">的</dependent>
+          </dep>
+          <dep type="conj">
+            <governor idx="62">芭樂汁數量</governor>
+            <dependent idx="60">蘋果汁</dependent>
+          </dep>
+          <dep type="cc">
+            <governor idx="62">芭樂汁數量</governor>
+            <dependent idx="61">和</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="63">相差</governor>
+            <dependent idx="62">芭樂汁數量</dependent>
+          </dep>
+          <dep type="conj">
+            <governor idx="49">賣出</governor>
+            <dependent idx="63">相差</dependent>
+          </dep>
+          <dep type="nmod:range">
+            <governor idx="63">相差</governor>
+            <dependent idx="64">多少</dependent>
+          </dep>
+          <dep type="mark:clf">
+            <governor idx="64">多少</governor>
+            <dependent idx="65">杯</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="5">做</governor>
+            <dependent idx="66">？</dependent>
+          </dep>
+        </dependencies>
+      </sentence>
+    </sentences>
+  </document>
+</root>

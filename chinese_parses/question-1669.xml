@@ -1,0 +1,1159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="CoreNLP-to-HTML.xsl" type="text/xsl"?>
+<root>
+  <document>
+    <sentences>
+      <sentence id="1">
+        <tokens>
+          <token id="1">
+            <word>有</word>
+            <lemma>有</lemma>
+            <CharacterOffsetBegin>0</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1</CharacterOffsetEnd>
+            <POS>VE</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="2">
+            <word>甲</word>
+            <lemma>甲</lemma>
+            <CharacterOffsetBegin>1</CharacterOffsetBegin>
+            <CharacterOffsetEnd>2</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="3">
+            <word>、</word>
+            <lemma>、</lemma>
+            <CharacterOffsetBegin>2</CharacterOffsetBegin>
+            <CharacterOffsetEnd>3</CharacterOffsetEnd>
+            <POS>PU</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="4">
+            <word>乙</word>
+            <lemma>乙</lemma>
+            <CharacterOffsetBegin>3</CharacterOffsetBegin>
+            <CharacterOffsetEnd>4</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="5">
+            <word>、</word>
+            <lemma>、</lemma>
+            <CharacterOffsetBegin>4</CharacterOffsetBegin>
+            <CharacterOffsetEnd>5</CharacterOffsetEnd>
+            <POS>PU</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="6">
+            <word>丙</word>
+            <lemma>丙</lemma>
+            <CharacterOffsetBegin>5</CharacterOffsetBegin>
+            <CharacterOffsetEnd>6</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>MISC</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="7">
+            <word>三</word>
+            <lemma>三</lemma>
+            <CharacterOffsetBegin>6</CharacterOffsetBegin>
+            <CharacterOffsetEnd>7</CharacterOffsetEnd>
+            <POS>CD</POS>
+            <NER>NUMBER</NER>
+            <NormalizedNER>3</NormalizedNER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="8">
+            <word>人</word>
+            <lemma>人</lemma>
+            <CharacterOffsetBegin>7</CharacterOffsetBegin>
+            <CharacterOffsetEnd>8</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="9">
+            <word>，</word>
+            <lemma>，</lemma>
+            <CharacterOffsetBegin>8</CharacterOffsetBegin>
+            <CharacterOffsetEnd>9</CharacterOffsetEnd>
+            <POS>PU</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="10">
+            <word>甲</word>
+            <lemma>甲</lemma>
+            <CharacterOffsetBegin>9</CharacterOffsetBegin>
+            <CharacterOffsetEnd>10</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="11">
+            <word>比</word>
+            <lemma>比</lemma>
+            <CharacterOffsetBegin>10</CharacterOffsetBegin>
+            <CharacterOffsetEnd>11</CharacterOffsetEnd>
+            <POS>P</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="12">
+            <word>乙</word>
+            <lemma>乙</lemma>
+            <CharacterOffsetBegin>11</CharacterOffsetBegin>
+            <CharacterOffsetEnd>12</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="13">
+            <word>矮</word>
+            <lemma>矮</lemma>
+            <CharacterOffsetBegin>12</CharacterOffsetBegin>
+            <CharacterOffsetEnd>13</CharacterOffsetEnd>
+            <POS>VA</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="14">
+            <word>3</word>
+            <lemma>3</lemma>
+            <CharacterOffsetBegin>13</CharacterOffsetBegin>
+            <CharacterOffsetEnd>14</CharacterOffsetEnd>
+            <POS>CD</POS>
+            <NER>NUMBER</NER>
+            <NormalizedNER>3</NormalizedNER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="15">
+            <word>公分</word>
+            <lemma>公分</lemma>
+            <CharacterOffsetBegin>14</CharacterOffsetBegin>
+            <CharacterOffsetEnd>16</CharacterOffsetEnd>
+            <POS>M</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="16">
+            <word>，</word>
+            <lemma>，</lemma>
+            <CharacterOffsetBegin>16</CharacterOffsetBegin>
+            <CharacterOffsetEnd>17</CharacterOffsetEnd>
+            <POS>PU</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="17">
+            <word>丙</word>
+            <lemma>丙</lemma>
+            <CharacterOffsetBegin>17</CharacterOffsetBegin>
+            <CharacterOffsetEnd>18</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="18">
+            <word>比</word>
+            <lemma>比</lemma>
+            <CharacterOffsetBegin>18</CharacterOffsetBegin>
+            <CharacterOffsetEnd>19</CharacterOffsetEnd>
+            <POS>P</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="19">
+            <word>乙</word>
+            <lemma>乙</lemma>
+            <CharacterOffsetBegin>19</CharacterOffsetBegin>
+            <CharacterOffsetEnd>20</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="20">
+            <word>高</word>
+            <lemma>高</lemma>
+            <CharacterOffsetBegin>20</CharacterOffsetBegin>
+            <CharacterOffsetEnd>21</CharacterOffsetEnd>
+            <POS>VA</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="21">
+            <word>6</word>
+            <lemma>6</lemma>
+            <CharacterOffsetBegin>21</CharacterOffsetBegin>
+            <CharacterOffsetEnd>22</CharacterOffsetEnd>
+            <POS>CD</POS>
+            <NER>NUMBER</NER>
+            <NormalizedNER>6</NormalizedNER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="22">
+            <word>公分</word>
+            <lemma>公分</lemma>
+            <CharacterOffsetBegin>22</CharacterOffsetBegin>
+            <CharacterOffsetEnd>24</CharacterOffsetEnd>
+            <POS>M</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="23">
+            <word>，</word>
+            <lemma>，</lemma>
+            <CharacterOffsetBegin>24</CharacterOffsetBegin>
+            <CharacterOffsetEnd>25</CharacterOffsetEnd>
+            <POS>PU</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="24">
+            <word>他</word>
+            <lemma>他</lemma>
+            <CharacterOffsetBegin>25</CharacterOffsetBegin>
+            <CharacterOffsetEnd>26</CharacterOffsetEnd>
+            <POS>PN</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="25">
+            <word>們</word>
+            <lemma>們</lemma>
+            <CharacterOffsetBegin>26</CharacterOffsetBegin>
+            <CharacterOffsetEnd>27</CharacterOffsetEnd>
+            <POS>VV</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="26">
+            <word>三</word>
+            <lemma>三</lemma>
+            <CharacterOffsetBegin>27</CharacterOffsetBegin>
+            <CharacterOffsetEnd>28</CharacterOffsetEnd>
+            <POS>CD</POS>
+            <NER>NUMBER</NER>
+            <NormalizedNER>3</NormalizedNER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="27">
+            <word>人</word>
+            <lemma>人</lemma>
+            <CharacterOffsetBegin>28</CharacterOffsetBegin>
+            <CharacterOffsetEnd>29</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="28">
+            <word>的</word>
+            <lemma>的</lemma>
+            <CharacterOffsetBegin>29</CharacterOffsetBegin>
+            <CharacterOffsetEnd>30</CharacterOffsetEnd>
+            <POS>DEG</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="29">
+            <word>身高</word>
+            <lemma>身高</lemma>
+            <CharacterOffsetBegin>30</CharacterOffsetBegin>
+            <CharacterOffsetEnd>32</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="30">
+            <word>合</word>
+            <lemma>合</lemma>
+            <CharacterOffsetBegin>32</CharacterOffsetBegin>
+            <CharacterOffsetEnd>33</CharacterOffsetEnd>
+            <POS>VV</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="31">
+            <word>起來</word>
+            <lemma>起來</lemma>
+            <CharacterOffsetBegin>33</CharacterOffsetBegin>
+            <CharacterOffsetEnd>35</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="32">
+            <word>是</word>
+            <lemma>是</lemma>
+            <CharacterOffsetBegin>35</CharacterOffsetBegin>
+            <CharacterOffsetEnd>36</CharacterOffsetEnd>
+            <POS>VC</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="33">
+            <word>483</word>
+            <lemma>483</lemma>
+            <CharacterOffsetBegin>36</CharacterOffsetBegin>
+            <CharacterOffsetEnd>39</CharacterOffsetEnd>
+            <POS>CD</POS>
+            <NER>NUMBER</NER>
+            <NormalizedNER>483</NormalizedNER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="34">
+            <word>公分</word>
+            <lemma>公分</lemma>
+            <CharacterOffsetBegin>39</CharacterOffsetBegin>
+            <CharacterOffsetEnd>41</CharacterOffsetEnd>
+            <POS>M</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="35">
+            <word>，</word>
+            <lemma>，</lemma>
+            <CharacterOffsetBegin>41</CharacterOffsetBegin>
+            <CharacterOffsetEnd>42</CharacterOffsetEnd>
+            <POS>PU</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="36">
+            <word>則甲</word>
+            <lemma>則甲</lemma>
+            <CharacterOffsetBegin>42</CharacterOffsetBegin>
+            <CharacterOffsetEnd>44</CharacterOffsetEnd>
+            <POS>VV</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="37">
+            <word>多少</word>
+            <lemma>多少</lemma>
+            <CharacterOffsetBegin>44</CharacterOffsetBegin>
+            <CharacterOffsetEnd>46</CharacterOffsetEnd>
+            <POS>CD</POS>
+            <NER>NUMBER</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="38">
+            <word>公分</word>
+            <lemma>公分</lemma>
+            <CharacterOffsetBegin>46</CharacterOffsetBegin>
+            <CharacterOffsetEnd>48</CharacterOffsetEnd>
+            <POS>M</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="39">
+            <word>？</word>
+            <lemma>？</lemma>
+            <CharacterOffsetBegin>48</CharacterOffsetBegin>
+            <CharacterOffsetEnd>49</CharacterOffsetEnd>
+            <POS>PU</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+        </tokens>
+        <parse>(ROOT (IP (IP (VP (VE 有) (IP (NP (NP (NN 甲) (PU 、) (NN 乙) (PU 、) (NN 丙)) (QP (CD 三)) (NP (NN 人))) (PU ，) (NP (NN 甲)) (VP (PP (P 比) (NP (NN 乙))) (VP (VA 矮) (QP (CD 3) (CLP (M 公分)))))))) (PU ，) (IP (NP (NN 丙)) (VP (PP (P 比) (NP (NN 乙))) (VP (VA 高) (QP (CD 6) (CLP (M 公分)))))) (PU ，) (IP (NP (PN 他)) (VP (VV 們) (IP (IP (NP (DNP (NP (QP (CD 三)) (NP (NN 人))) (DEG 的)) (NP (NN 身高))) (VP (VV 合) (NP (NN 起來)))) (VP (VC 是) (QP (CD 483) (CLP (M 公分))))))) (PU ，) (IP (VP (VV 則甲) (QP (CD 多少) (CLP (M 公分))))) (PU ？))) </parse>
+        <dependencies type="basic-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="1">有</dependent>
+          </dep>
+          <dep type="conj">
+            <governor idx="6">丙</governor>
+            <dependent idx="2">甲</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="6">丙</governor>
+            <dependent idx="3">、</dependent>
+          </dep>
+          <dep type="conj">
+            <governor idx="6">丙</governor>
+            <dependent idx="4">乙</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="6">丙</governor>
+            <dependent idx="5">、</dependent>
+          </dep>
+          <dep type="compound:nn">
+            <governor idx="8">人</governor>
+            <dependent idx="6">丙</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="8">人</governor>
+            <dependent idx="7">三</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="1">有</governor>
+            <dependent idx="8">人</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="1">有</governor>
+            <dependent idx="9">，</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="13">矮</governor>
+            <dependent idx="10">甲</dependent>
+          </dep>
+          <dep type="case">
+            <governor idx="12">乙</governor>
+            <dependent idx="11">比</dependent>
+          </dep>
+          <dep type="nmod:prep">
+            <governor idx="13">矮</governor>
+            <dependent idx="12">乙</dependent>
+          </dep>
+          <dep type="conj">
+            <governor idx="1">有</governor>
+            <dependent idx="13">矮</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="13">矮</governor>
+            <dependent idx="14">3</dependent>
+          </dep>
+          <dep type="mark:clf">
+            <governor idx="14">3</governor>
+            <dependent idx="15">公分</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="1">有</governor>
+            <dependent idx="16">，</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="20">高</governor>
+            <dependent idx="17">丙</dependent>
+          </dep>
+          <dep type="case">
+            <governor idx="19">乙</governor>
+            <dependent idx="18">比</dependent>
+          </dep>
+          <dep type="nmod:prep">
+            <governor idx="20">高</governor>
+            <dependent idx="19">乙</dependent>
+          </dep>
+          <dep type="conj">
+            <governor idx="1">有</governor>
+            <dependent idx="20">高</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="20">高</governor>
+            <dependent idx="21">6</dependent>
+          </dep>
+          <dep type="mark:clf">
+            <governor idx="21">6</governor>
+            <dependent idx="22">公分</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="1">有</governor>
+            <dependent idx="23">，</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="25">們</governor>
+            <dependent idx="24">他</dependent>
+          </dep>
+          <dep type="conj">
+            <governor idx="1">有</governor>
+            <dependent idx="25">們</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="27">人</governor>
+            <dependent idx="26">三</dependent>
+          </dep>
+          <dep type="nmod:assmod">
+            <governor idx="29">身高</governor>
+            <dependent idx="27">人</dependent>
+          </dep>
+          <dep type="case">
+            <governor idx="27">人</governor>
+            <dependent idx="28">的</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="30">合</governor>
+            <dependent idx="29">身高</dependent>
+          </dep>
+          <dep type="ccomp">
+            <governor idx="25">們</governor>
+            <dependent idx="30">合</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="30">合</governor>
+            <dependent idx="31">起來</dependent>
+          </dep>
+          <dep type="conj">
+            <governor idx="30">合</governor>
+            <dependent idx="32">是</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="32">是</governor>
+            <dependent idx="33">483</dependent>
+          </dep>
+          <dep type="mark:clf">
+            <governor idx="33">483</governor>
+            <dependent idx="34">公分</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="30">合</governor>
+            <dependent idx="35">，</dependent>
+          </dep>
+          <dep type="conj">
+            <governor idx="30">合</governor>
+            <dependent idx="36">則甲</dependent>
+          </dep>
+          <dep type="nmod:range">
+            <governor idx="36">則甲</governor>
+            <dependent idx="37">多少</dependent>
+          </dep>
+          <dep type="mark:clf">
+            <governor idx="37">多少</governor>
+            <dependent idx="38">公分</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="1">有</governor>
+            <dependent idx="39">？</dependent>
+          </dep>
+        </dependencies>
+        <dependencies type="collapsed-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="1">有</dependent>
+          </dep>
+          <dep type="conj">
+            <governor idx="6">丙</governor>
+            <dependent idx="2">甲</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="6">丙</governor>
+            <dependent idx="3">、</dependent>
+          </dep>
+          <dep type="conj">
+            <governor idx="6">丙</governor>
+            <dependent idx="4">乙</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="6">丙</governor>
+            <dependent idx="5">、</dependent>
+          </dep>
+          <dep type="compound:nn">
+            <governor idx="8">人</governor>
+            <dependent idx="6">丙</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="8">人</governor>
+            <dependent idx="7">三</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="1">有</governor>
+            <dependent idx="8">人</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="1">有</governor>
+            <dependent idx="9">，</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="13">矮</governor>
+            <dependent idx="10">甲</dependent>
+          </dep>
+          <dep type="case">
+            <governor idx="12">乙</governor>
+            <dependent idx="11">比</dependent>
+          </dep>
+          <dep type="nmod:prep">
+            <governor idx="13">矮</governor>
+            <dependent idx="12">乙</dependent>
+          </dep>
+          <dep type="conj">
+            <governor idx="1">有</governor>
+            <dependent idx="13">矮</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="13">矮</governor>
+            <dependent idx="14">3</dependent>
+          </dep>
+          <dep type="mark:clf">
+            <governor idx="14">3</governor>
+            <dependent idx="15">公分</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="1">有</governor>
+            <dependent idx="16">，</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="20">高</governor>
+            <dependent idx="17">丙</dependent>
+          </dep>
+          <dep type="case">
+            <governor idx="19">乙</governor>
+            <dependent idx="18">比</dependent>
+          </dep>
+          <dep type="nmod:prep">
+            <governor idx="20">高</governor>
+            <dependent idx="19">乙</dependent>
+          </dep>
+          <dep type="conj">
+            <governor idx="1">有</governor>
+            <dependent idx="20">高</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="20">高</governor>
+            <dependent idx="21">6</dependent>
+          </dep>
+          <dep type="mark:clf">
+            <governor idx="21">6</governor>
+            <dependent idx="22">公分</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="1">有</governor>
+            <dependent idx="23">，</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="25">們</governor>
+            <dependent idx="24">他</dependent>
+          </dep>
+          <dep type="conj">
+            <governor idx="1">有</governor>
+            <dependent idx="25">們</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="27">人</governor>
+            <dependent idx="26">三</dependent>
+          </dep>
+          <dep type="nmod:assmod">
+            <governor idx="29">身高</governor>
+            <dependent idx="27">人</dependent>
+          </dep>
+          <dep type="case">
+            <governor idx="27">人</governor>
+            <dependent idx="28">的</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="30">合</governor>
+            <dependent idx="29">身高</dependent>
+          </dep>
+          <dep type="ccomp">
+            <governor idx="25">們</governor>
+            <dependent idx="30">合</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="30">合</governor>
+            <dependent idx="31">起來</dependent>
+          </dep>
+          <dep type="conj">
+            <governor idx="30">合</governor>
+            <dependent idx="32">是</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="32">是</governor>
+            <dependent idx="33">483</dependent>
+          </dep>
+          <dep type="mark:clf">
+            <governor idx="33">483</governor>
+            <dependent idx="34">公分</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="30">合</governor>
+            <dependent idx="35">，</dependent>
+          </dep>
+          <dep type="conj">
+            <governor idx="30">合</governor>
+            <dependent idx="36">則甲</dependent>
+          </dep>
+          <dep type="nmod:range">
+            <governor idx="36">則甲</governor>
+            <dependent idx="37">多少</dependent>
+          </dep>
+          <dep type="mark:clf">
+            <governor idx="37">多少</governor>
+            <dependent idx="38">公分</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="1">有</governor>
+            <dependent idx="39">？</dependent>
+          </dep>
+        </dependencies>
+        <dependencies type="collapsed-ccprocessed-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="1">有</dependent>
+          </dep>
+          <dep type="conj">
+            <governor idx="6">丙</governor>
+            <dependent idx="2">甲</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="6">丙</governor>
+            <dependent idx="3">、</dependent>
+          </dep>
+          <dep type="conj">
+            <governor idx="6">丙</governor>
+            <dependent idx="4">乙</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="6">丙</governor>
+            <dependent idx="5">、</dependent>
+          </dep>
+          <dep type="compound:nn">
+            <governor idx="8">人</governor>
+            <dependent idx="6">丙</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="8">人</governor>
+            <dependent idx="7">三</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="1">有</governor>
+            <dependent idx="8">人</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="1">有</governor>
+            <dependent idx="9">，</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="13">矮</governor>
+            <dependent idx="10">甲</dependent>
+          </dep>
+          <dep type="case">
+            <governor idx="12">乙</governor>
+            <dependent idx="11">比</dependent>
+          </dep>
+          <dep type="nmod:prep">
+            <governor idx="13">矮</governor>
+            <dependent idx="12">乙</dependent>
+          </dep>
+          <dep type="conj">
+            <governor idx="1">有</governor>
+            <dependent idx="13">矮</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="13">矮</governor>
+            <dependent idx="14">3</dependent>
+          </dep>
+          <dep type="mark:clf">
+            <governor idx="14">3</governor>
+            <dependent idx="15">公分</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="1">有</governor>
+            <dependent idx="16">，</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="20">高</governor>
+            <dependent idx="17">丙</dependent>
+          </dep>
+          <dep type="case">
+            <governor idx="19">乙</governor>
+            <dependent idx="18">比</dependent>
+          </dep>
+          <dep type="nmod:prep">
+            <governor idx="20">高</governor>
+            <dependent idx="19">乙</dependent>
+          </dep>
+          <dep type="conj">
+            <governor idx="1">有</governor>
+            <dependent idx="20">高</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="20">高</governor>
+            <dependent idx="21">6</dependent>
+          </dep>
+          <dep type="mark:clf">
+            <governor idx="21">6</governor>
+            <dependent idx="22">公分</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="1">有</governor>
+            <dependent idx="23">，</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="25">們</governor>
+            <dependent idx="24">他</dependent>
+          </dep>
+          <dep type="conj">
+            <governor idx="1">有</governor>
+            <dependent idx="25">們</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="27">人</governor>
+            <dependent idx="26">三</dependent>
+          </dep>
+          <dep type="nmod:assmod">
+            <governor idx="29">身高</governor>
+            <dependent idx="27">人</dependent>
+          </dep>
+          <dep type="case">
+            <governor idx="27">人</governor>
+            <dependent idx="28">的</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="30">合</governor>
+            <dependent idx="29">身高</dependent>
+          </dep>
+          <dep type="ccomp">
+            <governor idx="25">們</governor>
+            <dependent idx="30">合</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="30">合</governor>
+            <dependent idx="31">起來</dependent>
+          </dep>
+          <dep type="conj">
+            <governor idx="30">合</governor>
+            <dependent idx="32">是</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="32">是</governor>
+            <dependent idx="33">483</dependent>
+          </dep>
+          <dep type="mark:clf">
+            <governor idx="33">483</governor>
+            <dependent idx="34">公分</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="30">合</governor>
+            <dependent idx="35">，</dependent>
+          </dep>
+          <dep type="conj">
+            <governor idx="30">合</governor>
+            <dependent idx="36">則甲</dependent>
+          </dep>
+          <dep type="nmod:range">
+            <governor idx="36">則甲</governor>
+            <dependent idx="37">多少</dependent>
+          </dep>
+          <dep type="mark:clf">
+            <governor idx="37">多少</governor>
+            <dependent idx="38">公分</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="1">有</governor>
+            <dependent idx="39">？</dependent>
+          </dep>
+        </dependencies>
+        <dependencies type="enhanced-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="1">有</dependent>
+          </dep>
+          <dep type="conj">
+            <governor idx="6">丙</governor>
+            <dependent idx="2">甲</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="6">丙</governor>
+            <dependent idx="3">、</dependent>
+          </dep>
+          <dep type="conj">
+            <governor idx="6">丙</governor>
+            <dependent idx="4">乙</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="6">丙</governor>
+            <dependent idx="5">、</dependent>
+          </dep>
+          <dep type="compound:nn">
+            <governor idx="8">人</governor>
+            <dependent idx="6">丙</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="8">人</governor>
+            <dependent idx="7">三</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="1">有</governor>
+            <dependent idx="8">人</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="1">有</governor>
+            <dependent idx="9">，</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="13">矮</governor>
+            <dependent idx="10">甲</dependent>
+          </dep>
+          <dep type="case">
+            <governor idx="12">乙</governor>
+            <dependent idx="11">比</dependent>
+          </dep>
+          <dep type="nmod:prep">
+            <governor idx="13">矮</governor>
+            <dependent idx="12">乙</dependent>
+          </dep>
+          <dep type="conj">
+            <governor idx="1">有</governor>
+            <dependent idx="13">矮</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="13">矮</governor>
+            <dependent idx="14">3</dependent>
+          </dep>
+          <dep type="mark:clf">
+            <governor idx="14">3</governor>
+            <dependent idx="15">公分</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="1">有</governor>
+            <dependent idx="16">，</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="20">高</governor>
+            <dependent idx="17">丙</dependent>
+          </dep>
+          <dep type="case">
+            <governor idx="19">乙</governor>
+            <dependent idx="18">比</dependent>
+          </dep>
+          <dep type="nmod:prep">
+            <governor idx="20">高</governor>
+            <dependent idx="19">乙</dependent>
+          </dep>
+          <dep type="conj">
+            <governor idx="1">有</governor>
+            <dependent idx="20">高</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="20">高</governor>
+            <dependent idx="21">6</dependent>
+          </dep>
+          <dep type="mark:clf">
+            <governor idx="21">6</governor>
+            <dependent idx="22">公分</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="1">有</governor>
+            <dependent idx="23">，</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="25">們</governor>
+            <dependent idx="24">他</dependent>
+          </dep>
+          <dep type="conj">
+            <governor idx="1">有</governor>
+            <dependent idx="25">們</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="27">人</governor>
+            <dependent idx="26">三</dependent>
+          </dep>
+          <dep type="nmod:assmod">
+            <governor idx="29">身高</governor>
+            <dependent idx="27">人</dependent>
+          </dep>
+          <dep type="case">
+            <governor idx="27">人</governor>
+            <dependent idx="28">的</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="30">合</governor>
+            <dependent idx="29">身高</dependent>
+          </dep>
+          <dep type="ccomp">
+            <governor idx="25">們</governor>
+            <dependent idx="30">合</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="30">合</governor>
+            <dependent idx="31">起來</dependent>
+          </dep>
+          <dep type="conj">
+            <governor idx="30">合</governor>
+            <dependent idx="32">是</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="32">是</governor>
+            <dependent idx="33">483</dependent>
+          </dep>
+          <dep type="mark:clf">
+            <governor idx="33">483</governor>
+            <dependent idx="34">公分</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="30">合</governor>
+            <dependent idx="35">，</dependent>
+          </dep>
+          <dep type="conj">
+            <governor idx="30">合</governor>
+            <dependent idx="36">則甲</dependent>
+          </dep>
+          <dep type="nmod:range">
+            <governor idx="36">則甲</governor>
+            <dependent idx="37">多少</dependent>
+          </dep>
+          <dep type="mark:clf">
+            <governor idx="37">多少</governor>
+            <dependent idx="38">公分</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="1">有</governor>
+            <dependent idx="39">？</dependent>
+          </dep>
+        </dependencies>
+        <dependencies type="enhanced-plus-plus-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="1">有</dependent>
+          </dep>
+          <dep type="conj">
+            <governor idx="6">丙</governor>
+            <dependent idx="2">甲</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="6">丙</governor>
+            <dependent idx="3">、</dependent>
+          </dep>
+          <dep type="conj">
+            <governor idx="6">丙</governor>
+            <dependent idx="4">乙</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="6">丙</governor>
+            <dependent idx="5">、</dependent>
+          </dep>
+          <dep type="compound:nn">
+            <governor idx="8">人</governor>
+            <dependent idx="6">丙</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="8">人</governor>
+            <dependent idx="7">三</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="1">有</governor>
+            <dependent idx="8">人</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="1">有</governor>
+            <dependent idx="9">，</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="13">矮</governor>
+            <dependent idx="10">甲</dependent>
+          </dep>
+          <dep type="case">
+            <governor idx="12">乙</governor>
+            <dependent idx="11">比</dependent>
+          </dep>
+          <dep type="nmod:prep">
+            <governor idx="13">矮</governor>
+            <dependent idx="12">乙</dependent>
+          </dep>
+          <dep type="conj">
+            <governor idx="1">有</governor>
+            <dependent idx="13">矮</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="13">矮</governor>
+            <dependent idx="14">3</dependent>
+          </dep>
+          <dep type="mark:clf">
+            <governor idx="14">3</governor>
+            <dependent idx="15">公分</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="1">有</governor>
+            <dependent idx="16">，</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="20">高</governor>
+            <dependent idx="17">丙</dependent>
+          </dep>
+          <dep type="case">
+            <governor idx="19">乙</governor>
+            <dependent idx="18">比</dependent>
+          </dep>
+          <dep type="nmod:prep">
+            <governor idx="20">高</governor>
+            <dependent idx="19">乙</dependent>
+          </dep>
+          <dep type="conj">
+            <governor idx="1">有</governor>
+            <dependent idx="20">高</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="20">高</governor>
+            <dependent idx="21">6</dependent>
+          </dep>
+          <dep type="mark:clf">
+            <governor idx="21">6</governor>
+            <dependent idx="22">公分</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="1">有</governor>
+            <dependent idx="23">，</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="25">們</governor>
+            <dependent idx="24">他</dependent>
+          </dep>
+          <dep type="conj">
+            <governor idx="1">有</governor>
+            <dependent idx="25">們</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="27">人</governor>
+            <dependent idx="26">三</dependent>
+          </dep>
+          <dep type="nmod:assmod">
+            <governor idx="29">身高</governor>
+            <dependent idx="27">人</dependent>
+          </dep>
+          <dep type="case">
+            <governor idx="27">人</governor>
+            <dependent idx="28">的</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="30">合</governor>
+            <dependent idx="29">身高</dependent>
+          </dep>
+          <dep type="ccomp">
+            <governor idx="25">們</governor>
+            <dependent idx="30">合</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="30">合</governor>
+            <dependent idx="31">起來</dependent>
+          </dep>
+          <dep type="conj">
+            <governor idx="30">合</governor>
+            <dependent idx="32">是</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="32">是</governor>
+            <dependent idx="33">483</dependent>
+          </dep>
+          <dep type="mark:clf">
+            <governor idx="33">483</governor>
+            <dependent idx="34">公分</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="30">合</governor>
+            <dependent idx="35">，</dependent>
+          </dep>
+          <dep type="conj">
+            <governor idx="30">合</governor>
+            <dependent idx="36">則甲</dependent>
+          </dep>
+          <dep type="nmod:range">
+            <governor idx="36">則甲</governor>
+            <dependent idx="37">多少</dependent>
+          </dep>
+          <dep type="mark:clf">
+            <governor idx="37">多少</governor>
+            <dependent idx="38">公分</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="1">有</governor>
+            <dependent idx="39">？</dependent>
+          </dep>
+        </dependencies>
+      </sentence>
+    </sentences>
+  </document>
+</root>

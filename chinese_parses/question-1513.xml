@@ -1,0 +1,752 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="CoreNLP-to-HTML.xsl" type="text/xsl"?>
+<root>
+  <document>
+    <sentences>
+      <sentence id="1">
+        <tokens>
+          <token id="1">
+            <word>今年</word>
+            <lemma>今年</lemma>
+            <CharacterOffsetBegin>0</CharacterOffsetBegin>
+            <CharacterOffsetEnd>2</CharacterOffsetEnd>
+            <POS>NT</POS>
+            <NER>DATE</NER>
+            <NormalizedNER>XXXX-XX-XX</NormalizedNER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="2">
+            <word>建</word>
+            <lemma>建</lemma>
+            <CharacterOffsetBegin>2</CharacterOffsetBegin>
+            <CharacterOffsetEnd>3</CharacterOffsetEnd>
+            <POS>VV</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="3">
+            <word>華與</word>
+            <lemma>華與</lemma>
+            <CharacterOffsetBegin>3</CharacterOffsetBegin>
+            <CharacterOffsetEnd>5</CharacterOffsetEnd>
+            <POS>VV</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="4">
+            <word>爸爸</word>
+            <lemma>爸爸</lemma>
+            <CharacterOffsetBegin>5</CharacterOffsetBegin>
+            <CharacterOffsetEnd>7</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="5">
+            <word>的</word>
+            <lemma>的</lemma>
+            <CharacterOffsetBegin>7</CharacterOffsetBegin>
+            <CharacterOffsetEnd>8</CharacterOffsetEnd>
+            <POS>DEC</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="6">
+            <word>年紀相加</word>
+            <lemma>年紀相加</lemma>
+            <CharacterOffsetBegin>8</CharacterOffsetBegin>
+            <CharacterOffsetEnd>12</CharacterOffsetEnd>
+            <POS>VV</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="7">
+            <word>共</word>
+            <lemma>共</lemma>
+            <CharacterOffsetBegin>12</CharacterOffsetBegin>
+            <CharacterOffsetEnd>13</CharacterOffsetEnd>
+            <POS>AD</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="8">
+            <word>49</word>
+            <lemma>49</lemma>
+            <CharacterOffsetBegin>13</CharacterOffsetBegin>
+            <CharacterOffsetEnd>15</CharacterOffsetEnd>
+            <POS>CD</POS>
+            <NER>NUMBER</NER>
+            <NormalizedNER>49</NormalizedNER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="9">
+            <word>歲</word>
+            <lemma>歲</lemma>
+            <CharacterOffsetBegin>15</CharacterOffsetBegin>
+            <CharacterOffsetEnd>16</CharacterOffsetEnd>
+            <POS>M</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="10">
+            <word>，</word>
+            <lemma>，</lemma>
+            <CharacterOffsetBegin>16</CharacterOffsetBegin>
+            <CharacterOffsetEnd>17</CharacterOffsetEnd>
+            <POS>PU</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="11">
+            <word>已</word>
+            <lemma>已</lemma>
+            <CharacterOffsetBegin>17</CharacterOffsetBegin>
+            <CharacterOffsetEnd>18</CharacterOffsetEnd>
+            <POS>AD</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="12">
+            <word>知</word>
+            <lemma>知</lemma>
+            <CharacterOffsetBegin>18</CharacterOffsetBegin>
+            <CharacterOffsetEnd>19</CharacterOffsetEnd>
+            <POS>VV</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="13">
+            <word>爸爸</word>
+            <lemma>爸爸</lemma>
+            <CharacterOffsetBegin>19</CharacterOffsetBegin>
+            <CharacterOffsetEnd>21</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="14">
+            <word>的</word>
+            <lemma>的</lemma>
+            <CharacterOffsetBegin>21</CharacterOffsetBegin>
+            <CharacterOffsetEnd>22</CharacterOffsetEnd>
+            <POS>DEC</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="15">
+            <word>年紀</word>
+            <lemma>年紀</lemma>
+            <CharacterOffsetBegin>22</CharacterOffsetBegin>
+            <CharacterOffsetEnd>24</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="16">
+            <word>是</word>
+            <lemma>是</lemma>
+            <CharacterOffsetBegin>24</CharacterOffsetBegin>
+            <CharacterOffsetEnd>25</CharacterOffsetEnd>
+            <POS>VC</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="17">
+            <word>建華</word>
+            <lemma>建華</lemma>
+            <CharacterOffsetBegin>25</CharacterOffsetBegin>
+            <CharacterOffsetEnd>27</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="18">
+            <word>的</word>
+            <lemma>的</lemma>
+            <CharacterOffsetBegin>27</CharacterOffsetBegin>
+            <CharacterOffsetEnd>28</CharacterOffsetEnd>
+            <POS>DEG</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="19">
+            <word>6</word>
+            <lemma>6</lemma>
+            <CharacterOffsetBegin>28</CharacterOffsetBegin>
+            <CharacterOffsetEnd>29</CharacterOffsetEnd>
+            <POS>CD</POS>
+            <NER>NUMBER</NER>
+            <NormalizedNER>6</NormalizedNER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="20">
+            <word>倍</word>
+            <lemma>倍</lemma>
+            <CharacterOffsetBegin>29</CharacterOffsetBegin>
+            <CharacterOffsetEnd>30</CharacterOffsetEnd>
+            <POS>M</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="21">
+            <word>，</word>
+            <lemma>，</lemma>
+            <CharacterOffsetBegin>30</CharacterOffsetBegin>
+            <CharacterOffsetEnd>31</CharacterOffsetEnd>
+            <POS>PU</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="22">
+            <word>爸爸</word>
+            <lemma>爸爸</lemma>
+            <CharacterOffsetBegin>31</CharacterOffsetBegin>
+            <CharacterOffsetEnd>33</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="23">
+            <word>今年</word>
+            <lemma>今年</lemma>
+            <CharacterOffsetBegin>33</CharacterOffsetBegin>
+            <CharacterOffsetEnd>35</CharacterOffsetEnd>
+            <POS>NT</POS>
+            <NER>DATE</NER>
+            <NormalizedNER>XXXX-XX-XX</NormalizedNER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="24">
+            <word>幾歲</word>
+            <lemma>幾歲</lemma>
+            <CharacterOffsetBegin>35</CharacterOffsetBegin>
+            <CharacterOffsetEnd>37</CharacterOffsetEnd>
+            <POS>VV</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="25">
+            <word>？</word>
+            <lemma>？</lemma>
+            <CharacterOffsetBegin>37</CharacterOffsetBegin>
+            <CharacterOffsetEnd>38</CharacterOffsetEnd>
+            <POS>PU</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+        </tokens>
+        <parse>(ROOT (IP (IP (VP (NP (NT 今年)) (VP (VV 建) (IP (CP (IP (VP (VV 華與) (NP (NN 爸爸))) (DEC 的))) (IP (VP (VV 年紀相加) (QP (ADVP (AD 共)) (QP (CD 49) (CLP (M 歲)))))) (PU ，) (VP (ADVP (AD 已)) (VP (VV 知) (IP (NP (DNP (NP (NN 爸爸)) (DEC 的)) (NP (NN 年紀))) (VP (VC 是) (QP (DNP (NP (NN 建華)) (DEG 的)) (QP (CD 6) (CLP (M 倍)))))))))))) (PU ，) (IP (NP (NN 爸爸)) (VP (NP (NT 今年)) (VP (VV 幾歲)))) (PU ？))) </parse>
+        <dependencies type="basic-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="24">幾歲</dependent>
+          </dep>
+          <dep type="nmod:tmod">
+            <governor idx="2">建</governor>
+            <dependent idx="1">今年</dependent>
+          </dep>
+          <dep type="acl">
+            <governor idx="15">年紀</governor>
+            <dependent idx="2">建</dependent>
+          </dep>
+          <dep type="conj">
+            <governor idx="2">建</governor>
+            <dependent idx="3">華與</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="3">華與</governor>
+            <dependent idx="4">爸爸</dependent>
+          </dep>
+          <dep type="mark">
+            <governor idx="2">建</governor>
+            <dependent idx="5">的</dependent>
+          </dep>
+          <dep type="acl">
+            <governor idx="15">年紀</governor>
+            <dependent idx="6">年紀相加</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="8">49</governor>
+            <dependent idx="7">共</dependent>
+          </dep>
+          <dep type="nmod:range">
+            <governor idx="6">年紀相加</governor>
+            <dependent idx="8">49</dependent>
+          </dep>
+          <dep type="mark:clf">
+            <governor idx="8">49</governor>
+            <dependent idx="9">歲</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="6">年紀相加</governor>
+            <dependent idx="10">，</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="12">知</governor>
+            <dependent idx="11">已</dependent>
+          </dep>
+          <dep type="conj">
+            <governor idx="6">年紀相加</governor>
+            <dependent idx="12">知</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="12">知</governor>
+            <dependent idx="13">爸爸</dependent>
+          </dep>
+          <dep type="mark">
+            <governor idx="6">年紀相加</governor>
+            <dependent idx="14">的</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="24">幾歲</governor>
+            <dependent idx="15">年紀</dependent>
+          </dep>
+          <dep type="cop">
+            <governor idx="24">幾歲</governor>
+            <dependent idx="16">是</dependent>
+          </dep>
+          <dep type="nmod:assmod">
+            <governor idx="19">6</governor>
+            <dependent idx="17">建華</dependent>
+          </dep>
+          <dep type="case">
+            <governor idx="17">建華</governor>
+            <dependent idx="18">的</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="16">是</governor>
+            <dependent idx="19">6</dependent>
+          </dep>
+          <dep type="mark:clf">
+            <governor idx="19">6</governor>
+            <dependent idx="20">倍</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="24">幾歲</governor>
+            <dependent idx="21">，</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="24">幾歲</governor>
+            <dependent idx="22">爸爸</dependent>
+          </dep>
+          <dep type="nmod:tmod">
+            <governor idx="24">幾歲</governor>
+            <dependent idx="23">今年</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="24">幾歲</governor>
+            <dependent idx="25">？</dependent>
+          </dep>
+        </dependencies>
+        <dependencies type="collapsed-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="24">幾歲</dependent>
+          </dep>
+          <dep type="nmod:tmod">
+            <governor idx="2">建</governor>
+            <dependent idx="1">今年</dependent>
+          </dep>
+          <dep type="acl">
+            <governor idx="15">年紀</governor>
+            <dependent idx="2">建</dependent>
+          </dep>
+          <dep type="conj">
+            <governor idx="2">建</governor>
+            <dependent idx="3">華與</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="3">華與</governor>
+            <dependent idx="4">爸爸</dependent>
+          </dep>
+          <dep type="mark">
+            <governor idx="2">建</governor>
+            <dependent idx="5">的</dependent>
+          </dep>
+          <dep type="acl">
+            <governor idx="15">年紀</governor>
+            <dependent idx="6">年紀相加</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="8">49</governor>
+            <dependent idx="7">共</dependent>
+          </dep>
+          <dep type="nmod:range">
+            <governor idx="6">年紀相加</governor>
+            <dependent idx="8">49</dependent>
+          </dep>
+          <dep type="mark:clf">
+            <governor idx="8">49</governor>
+            <dependent idx="9">歲</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="6">年紀相加</governor>
+            <dependent idx="10">，</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="12">知</governor>
+            <dependent idx="11">已</dependent>
+          </dep>
+          <dep type="conj">
+            <governor idx="6">年紀相加</governor>
+            <dependent idx="12">知</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="12">知</governor>
+            <dependent idx="13">爸爸</dependent>
+          </dep>
+          <dep type="mark">
+            <governor idx="6">年紀相加</governor>
+            <dependent idx="14">的</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="24">幾歲</governor>
+            <dependent idx="15">年紀</dependent>
+          </dep>
+          <dep type="cop">
+            <governor idx="24">幾歲</governor>
+            <dependent idx="16">是</dependent>
+          </dep>
+          <dep type="nmod:assmod">
+            <governor idx="19">6</governor>
+            <dependent idx="17">建華</dependent>
+          </dep>
+          <dep type="case">
+            <governor idx="17">建華</governor>
+            <dependent idx="18">的</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="16">是</governor>
+            <dependent idx="19">6</dependent>
+          </dep>
+          <dep type="mark:clf">
+            <governor idx="19">6</governor>
+            <dependent idx="20">倍</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="24">幾歲</governor>
+            <dependent idx="21">，</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="24">幾歲</governor>
+            <dependent idx="22">爸爸</dependent>
+          </dep>
+          <dep type="nmod:tmod">
+            <governor idx="24">幾歲</governor>
+            <dependent idx="23">今年</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="24">幾歲</governor>
+            <dependent idx="25">？</dependent>
+          </dep>
+        </dependencies>
+        <dependencies type="collapsed-ccprocessed-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="24">幾歲</dependent>
+          </dep>
+          <dep type="nmod:tmod">
+            <governor idx="2">建</governor>
+            <dependent idx="1">今年</dependent>
+          </dep>
+          <dep type="acl">
+            <governor idx="15">年紀</governor>
+            <dependent idx="2">建</dependent>
+          </dep>
+          <dep type="conj">
+            <governor idx="2">建</governor>
+            <dependent idx="3">華與</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="3">華與</governor>
+            <dependent idx="4">爸爸</dependent>
+          </dep>
+          <dep type="mark">
+            <governor idx="2">建</governor>
+            <dependent idx="5">的</dependent>
+          </dep>
+          <dep type="acl">
+            <governor idx="15">年紀</governor>
+            <dependent idx="6">年紀相加</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="8">49</governor>
+            <dependent idx="7">共</dependent>
+          </dep>
+          <dep type="nmod:range">
+            <governor idx="6">年紀相加</governor>
+            <dependent idx="8">49</dependent>
+          </dep>
+          <dep type="mark:clf">
+            <governor idx="8">49</governor>
+            <dependent idx="9">歲</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="6">年紀相加</governor>
+            <dependent idx="10">，</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="12">知</governor>
+            <dependent idx="11">已</dependent>
+          </dep>
+          <dep type="conj">
+            <governor idx="6">年紀相加</governor>
+            <dependent idx="12">知</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="12">知</governor>
+            <dependent idx="13">爸爸</dependent>
+          </dep>
+          <dep type="mark">
+            <governor idx="6">年紀相加</governor>
+            <dependent idx="14">的</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="24">幾歲</governor>
+            <dependent idx="15">年紀</dependent>
+          </dep>
+          <dep type="cop">
+            <governor idx="24">幾歲</governor>
+            <dependent idx="16">是</dependent>
+          </dep>
+          <dep type="nmod:assmod">
+            <governor idx="19">6</governor>
+            <dependent idx="17">建華</dependent>
+          </dep>
+          <dep type="case">
+            <governor idx="17">建華</governor>
+            <dependent idx="18">的</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="16">是</governor>
+            <dependent idx="19">6</dependent>
+          </dep>
+          <dep type="mark:clf">
+            <governor idx="19">6</governor>
+            <dependent idx="20">倍</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="24">幾歲</governor>
+            <dependent idx="21">，</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="24">幾歲</governor>
+            <dependent idx="22">爸爸</dependent>
+          </dep>
+          <dep type="nmod:tmod">
+            <governor idx="24">幾歲</governor>
+            <dependent idx="23">今年</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="24">幾歲</governor>
+            <dependent idx="25">？</dependent>
+          </dep>
+        </dependencies>
+        <dependencies type="enhanced-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="24">幾歲</dependent>
+          </dep>
+          <dep type="nmod:tmod">
+            <governor idx="2">建</governor>
+            <dependent idx="1">今年</dependent>
+          </dep>
+          <dep type="acl">
+            <governor idx="15">年紀</governor>
+            <dependent idx="2">建</dependent>
+          </dep>
+          <dep type="conj">
+            <governor idx="2">建</governor>
+            <dependent idx="3">華與</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="3">華與</governor>
+            <dependent idx="4">爸爸</dependent>
+          </dep>
+          <dep type="mark">
+            <governor idx="2">建</governor>
+            <dependent idx="5">的</dependent>
+          </dep>
+          <dep type="acl">
+            <governor idx="15">年紀</governor>
+            <dependent idx="6">年紀相加</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="8">49</governor>
+            <dependent idx="7">共</dependent>
+          </dep>
+          <dep type="nmod:range">
+            <governor idx="6">年紀相加</governor>
+            <dependent idx="8">49</dependent>
+          </dep>
+          <dep type="mark:clf">
+            <governor idx="8">49</governor>
+            <dependent idx="9">歲</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="6">年紀相加</governor>
+            <dependent idx="10">，</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="12">知</governor>
+            <dependent idx="11">已</dependent>
+          </dep>
+          <dep type="conj">
+            <governor idx="6">年紀相加</governor>
+            <dependent idx="12">知</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="12">知</governor>
+            <dependent idx="13">爸爸</dependent>
+          </dep>
+          <dep type="mark">
+            <governor idx="6">年紀相加</governor>
+            <dependent idx="14">的</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="24">幾歲</governor>
+            <dependent idx="15">年紀</dependent>
+          </dep>
+          <dep type="cop">
+            <governor idx="24">幾歲</governor>
+            <dependent idx="16">是</dependent>
+          </dep>
+          <dep type="nmod:assmod">
+            <governor idx="19">6</governor>
+            <dependent idx="17">建華</dependent>
+          </dep>
+          <dep type="case">
+            <governor idx="17">建華</governor>
+            <dependent idx="18">的</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="16">是</governor>
+            <dependent idx="19">6</dependent>
+          </dep>
+          <dep type="mark:clf">
+            <governor idx="19">6</governor>
+            <dependent idx="20">倍</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="24">幾歲</governor>
+            <dependent idx="21">，</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="24">幾歲</governor>
+            <dependent idx="22">爸爸</dependent>
+          </dep>
+          <dep type="nmod:tmod">
+            <governor idx="24">幾歲</governor>
+            <dependent idx="23">今年</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="24">幾歲</governor>
+            <dependent idx="25">？</dependent>
+          </dep>
+        </dependencies>
+        <dependencies type="enhanced-plus-plus-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="24">幾歲</dependent>
+          </dep>
+          <dep type="nmod:tmod">
+            <governor idx="2">建</governor>
+            <dependent idx="1">今年</dependent>
+          </dep>
+          <dep type="acl">
+            <governor idx="15">年紀</governor>
+            <dependent idx="2">建</dependent>
+          </dep>
+          <dep type="conj">
+            <governor idx="2">建</governor>
+            <dependent idx="3">華與</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="3">華與</governor>
+            <dependent idx="4">爸爸</dependent>
+          </dep>
+          <dep type="mark">
+            <governor idx="2">建</governor>
+            <dependent idx="5">的</dependent>
+          </dep>
+          <dep type="acl">
+            <governor idx="15">年紀</governor>
+            <dependent idx="6">年紀相加</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="8">49</governor>
+            <dependent idx="7">共</dependent>
+          </dep>
+          <dep type="nmod:range">
+            <governor idx="6">年紀相加</governor>
+            <dependent idx="8">49</dependent>
+          </dep>
+          <dep type="mark:clf">
+            <governor idx="8">49</governor>
+            <dependent idx="9">歲</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="6">年紀相加</governor>
+            <dependent idx="10">，</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="12">知</governor>
+            <dependent idx="11">已</dependent>
+          </dep>
+          <dep type="conj">
+            <governor idx="6">年紀相加</governor>
+            <dependent idx="12">知</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="12">知</governor>
+            <dependent idx="13">爸爸</dependent>
+          </dep>
+          <dep type="mark">
+            <governor idx="6">年紀相加</governor>
+            <dependent idx="14">的</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="24">幾歲</governor>
+            <dependent idx="15">年紀</dependent>
+          </dep>
+          <dep type="cop">
+            <governor idx="24">幾歲</governor>
+            <dependent idx="16">是</dependent>
+          </dep>
+          <dep type="nmod:assmod">
+            <governor idx="19">6</governor>
+            <dependent idx="17">建華</dependent>
+          </dep>
+          <dep type="case">
+            <governor idx="17">建華</governor>
+            <dependent idx="18">的</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="16">是</governor>
+            <dependent idx="19">6</dependent>
+          </dep>
+          <dep type="mark:clf">
+            <governor idx="19">6</governor>
+            <dependent idx="20">倍</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="24">幾歲</governor>
+            <dependent idx="21">，</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="24">幾歲</governor>
+            <dependent idx="22">爸爸</dependent>
+          </dep>
+          <dep type="nmod:tmod">
+            <governor idx="24">幾歲</governor>
+            <dependent idx="23">今年</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="24">幾歲</governor>
+            <dependent idx="25">？</dependent>
+          </dep>
+        </dependencies>
+      </sentence>
+    </sentences>
+  </document>
+</root>

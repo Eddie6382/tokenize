@@ -1,0 +1,898 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="CoreNLP-to-HTML.xsl" type="text/xsl"?>
+<root>
+  <document>
+    <sentences>
+      <sentence id="1">
+        <tokens>
+          <token id="1">
+            <word>角</word>
+            <lemma>角</lemma>
+            <CharacterOffsetBegin>0</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="2">
+            <word>1</word>
+            <lemma>1</lemma>
+            <CharacterOffsetBegin>1</CharacterOffsetBegin>
+            <CharacterOffsetEnd>2</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>MISC</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="3">
+            <word>和</word>
+            <lemma>和</lemma>
+            <CharacterOffsetBegin>2</CharacterOffsetBegin>
+            <CharacterOffsetEnd>3</CharacterOffsetEnd>
+            <POS>CC</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="4">
+            <word>角</word>
+            <lemma>角</lemma>
+            <CharacterOffsetBegin>3</CharacterOffsetBegin>
+            <CharacterOffsetEnd>4</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="5">
+            <word>2</word>
+            <lemma>2</lemma>
+            <CharacterOffsetBegin>4</CharacterOffsetBegin>
+            <CharacterOffsetEnd>5</CharacterOffsetEnd>
+            <POS>CD</POS>
+            <NER>NUMBER</NER>
+            <NormalizedNER>2</NormalizedNER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="6">
+            <word>合</word>
+            <lemma>合</lemma>
+            <CharacterOffsetBegin>5</CharacterOffsetBegin>
+            <CharacterOffsetEnd>6</CharacterOffsetEnd>
+            <POS>VV</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="7">
+            <word>起來</word>
+            <lemma>起來</lemma>
+            <CharacterOffsetBegin>6</CharacterOffsetBegin>
+            <CharacterOffsetEnd>8</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="8">
+            <word>是</word>
+            <lemma>是</lemma>
+            <CharacterOffsetBegin>8</CharacterOffsetBegin>
+            <CharacterOffsetEnd>9</CharacterOffsetEnd>
+            <POS>VC</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="9">
+            <word>一</word>
+            <lemma>一</lemma>
+            <CharacterOffsetBegin>9</CharacterOffsetBegin>
+            <CharacterOffsetEnd>10</CharacterOffsetEnd>
+            <POS>CD</POS>
+            <NER>NUMBER</NER>
+            <NormalizedNER>1</NormalizedNER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="10">
+            <word>個</word>
+            <lemma>個</lemma>
+            <CharacterOffsetBegin>10</CharacterOffsetBegin>
+            <CharacterOffsetEnd>11</CharacterOffsetEnd>
+            <POS>M</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="11">
+            <word>平角</word>
+            <lemma>平角</lemma>
+            <CharacterOffsetBegin>11</CharacterOffsetBegin>
+            <CharacterOffsetEnd>13</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="12">
+            <word>，</word>
+            <lemma>，</lemma>
+            <CharacterOffsetBegin>13</CharacterOffsetBegin>
+            <CharacterOffsetEnd>14</CharacterOffsetEnd>
+            <POS>PU</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="13">
+            <word>而且</word>
+            <lemma>而且</lemma>
+            <CharacterOffsetBegin>14</CharacterOffsetBegin>
+            <CharacterOffsetEnd>16</CharacterOffsetEnd>
+            <POS>AD</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="14">
+            <word>角</word>
+            <lemma>角</lemma>
+            <CharacterOffsetBegin>16</CharacterOffsetBegin>
+            <CharacterOffsetEnd>17</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="15">
+            <word>1</word>
+            <lemma>1</lemma>
+            <CharacterOffsetBegin>17</CharacterOffsetBegin>
+            <CharacterOffsetEnd>18</CharacterOffsetEnd>
+            <POS>CD</POS>
+            <NER>NUMBER</NER>
+            <NormalizedNER>1</NormalizedNER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="16">
+            <word>是</word>
+            <lemma>是</lemma>
+            <CharacterOffsetBegin>18</CharacterOffsetBegin>
+            <CharacterOffsetEnd>19</CharacterOffsetEnd>
+            <POS>VC</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="17">
+            <word>角2</word>
+            <lemma>角2</lemma>
+            <CharacterOffsetBegin>19</CharacterOffsetBegin>
+            <CharacterOffsetEnd>21</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="18">
+            <word>的</word>
+            <lemma>的</lemma>
+            <CharacterOffsetBegin>21</CharacterOffsetBegin>
+            <CharacterOffsetEnd>22</CharacterOffsetEnd>
+            <POS>DEG</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="19">
+            <word>3</word>
+            <lemma>3</lemma>
+            <CharacterOffsetBegin>22</CharacterOffsetBegin>
+            <CharacterOffsetEnd>23</CharacterOffsetEnd>
+            <POS>CD</POS>
+            <NER>NUMBER</NER>
+            <NormalizedNER>3</NormalizedNER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="20">
+            <word>倍</word>
+            <lemma>倍</lemma>
+            <CharacterOffsetBegin>23</CharacterOffsetBegin>
+            <CharacterOffsetEnd>24</CharacterOffsetEnd>
+            <POS>M</POS>
+            <NER>MISC</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="21">
+            <word>，</word>
+            <lemma>，</lemma>
+            <CharacterOffsetBegin>24</CharacterOffsetBegin>
+            <CharacterOffsetEnd>25</CharacterOffsetEnd>
+            <POS>PU</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="22">
+            <word>角</word>
+            <lemma>角</lemma>
+            <CharacterOffsetBegin>25</CharacterOffsetBegin>
+            <CharacterOffsetEnd>26</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="23">
+            <word>1</word>
+            <lemma>1</lemma>
+            <CharacterOffsetBegin>26</CharacterOffsetBegin>
+            <CharacterOffsetEnd>27</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>MISC</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="24">
+            <word>和</word>
+            <lemma>和</lemma>
+            <CharacterOffsetBegin>27</CharacterOffsetBegin>
+            <CharacterOffsetEnd>28</CharacterOffsetEnd>
+            <POS>CC</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="25">
+            <word>角</word>
+            <lemma>角</lemma>
+            <CharacterOffsetBegin>28</CharacterOffsetBegin>
+            <CharacterOffsetEnd>29</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="26">
+            <word>2</word>
+            <lemma>2</lemma>
+            <CharacterOffsetBegin>29</CharacterOffsetBegin>
+            <CharacterOffsetEnd>30</CharacterOffsetEnd>
+            <POS>CD</POS>
+            <NER>NUMBER</NER>
+            <NormalizedNER>2</NormalizedNER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="27">
+            <word>各</word>
+            <lemma>各</lemma>
+            <CharacterOffsetBegin>30</CharacterOffsetBegin>
+            <CharacterOffsetEnd>31</CharacterOffsetEnd>
+            <POS>AD</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="28">
+            <word>是</word>
+            <lemma>是</lemma>
+            <CharacterOffsetBegin>31</CharacterOffsetBegin>
+            <CharacterOffsetEnd>32</CharacterOffsetEnd>
+            <POS>VC</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="29">
+            <word>幾度</word>
+            <lemma>幾度</lemma>
+            <CharacterOffsetBegin>32</CharacterOffsetBegin>
+            <CharacterOffsetEnd>34</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="30">
+            <word>？</word>
+            <lemma>？</lemma>
+            <CharacterOffsetBegin>34</CharacterOffsetBegin>
+            <CharacterOffsetEnd>35</CharacterOffsetEnd>
+            <POS>PU</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+        </tokens>
+        <parse>(ROOT (IP (IP (IP (NP (NN 角) (NN 1) (CC 和) (NN 角)) (VP (QP (CD 2)) (VP (VV 合) (NP (NN 起來))))) (VP (VP (VC 是) (NP (QP (CD 一) (CLP (M 個))) (NP (NN 平角)))) (PU ，) (IP (ADVP (AD 而且)) (NP (NN 角)) (QP (CD 1)) (VP (VC 是) (QP (DNP (NP (NN 角2)) (DEG 的)) (QP (CD 3) (CLP (M 倍)))))))) (PU ，) (IP (NP (NN 角) (NN 1) (CC 和) (NN 角)) (QP (CD 2)) (VP (ADVP (AD 各)) (VP (VC 是) (NP (NN 幾度))))) (PU ？))) </parse>
+        <dependencies type="basic-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="11">平角</dependent>
+          </dep>
+          <dep type="compound:nn">
+            <governor idx="4">角</governor>
+            <dependent idx="1">角</dependent>
+          </dep>
+          <dep type="conj">
+            <governor idx="4">角</governor>
+            <dependent idx="2">1</dependent>
+          </dep>
+          <dep type="cc">
+            <governor idx="4">角</governor>
+            <dependent idx="3">和</dependent>
+          </dep>
+          <dep type="nmod:topic">
+            <governor idx="6">合</governor>
+            <dependent idx="4">角</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="6">合</governor>
+            <dependent idx="5">2</dependent>
+          </dep>
+          <dep type="conj">
+            <governor idx="11">平角</governor>
+            <dependent idx="6">合</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="6">合</governor>
+            <dependent idx="7">起來</dependent>
+          </dep>
+          <dep type="cop">
+            <governor idx="11">平角</governor>
+            <dependent idx="8">是</dependent>
+          </dep>
+          <dep type="nummod">
+            <governor idx="11">平角</governor>
+            <dependent idx="9">一</dependent>
+          </dep>
+          <dep type="mark:clf">
+            <governor idx="9">一</governor>
+            <dependent idx="10">個</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="11">平角</governor>
+            <dependent idx="12">，</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="29">幾度</governor>
+            <dependent idx="13">而且</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="15">1</governor>
+            <dependent idx="14">角</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="29">幾度</governor>
+            <dependent idx="15">1</dependent>
+          </dep>
+          <dep type="cop">
+            <governor idx="29">幾度</governor>
+            <dependent idx="16">是</dependent>
+          </dep>
+          <dep type="nmod:assmod">
+            <governor idx="19">3</governor>
+            <dependent idx="17">角2</dependent>
+          </dep>
+          <dep type="case">
+            <governor idx="17">角2</governor>
+            <dependent idx="18">的</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="16">是</governor>
+            <dependent idx="19">3</dependent>
+          </dep>
+          <dep type="mark:clf">
+            <governor idx="19">3</governor>
+            <dependent idx="20">倍</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="29">幾度</governor>
+            <dependent idx="21">，</dependent>
+          </dep>
+          <dep type="compound:nn">
+            <governor idx="25">角</governor>
+            <dependent idx="22">角</dependent>
+          </dep>
+          <dep type="conj">
+            <governor idx="25">角</governor>
+            <dependent idx="23">1</dependent>
+          </dep>
+          <dep type="cc">
+            <governor idx="25">角</governor>
+            <dependent idx="24">和</dependent>
+          </dep>
+          <dep type="nmod:topic">
+            <governor idx="29">幾度</governor>
+            <dependent idx="25">角</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="29">幾度</governor>
+            <dependent idx="26">2</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="29">幾度</governor>
+            <dependent idx="27">各</dependent>
+          </dep>
+          <dep type="cop">
+            <governor idx="29">幾度</governor>
+            <dependent idx="28">是</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="11">平角</governor>
+            <dependent idx="29">幾度</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="11">平角</governor>
+            <dependent idx="30">？</dependent>
+          </dep>
+        </dependencies>
+        <dependencies type="collapsed-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="11">平角</dependent>
+          </dep>
+          <dep type="compound:nn">
+            <governor idx="4">角</governor>
+            <dependent idx="1">角</dependent>
+          </dep>
+          <dep type="conj">
+            <governor idx="4">角</governor>
+            <dependent idx="2">1</dependent>
+          </dep>
+          <dep type="cc">
+            <governor idx="4">角</governor>
+            <dependent idx="3">和</dependent>
+          </dep>
+          <dep type="nmod:topic">
+            <governor idx="6">合</governor>
+            <dependent idx="4">角</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="6">合</governor>
+            <dependent idx="5">2</dependent>
+          </dep>
+          <dep type="conj">
+            <governor idx="11">平角</governor>
+            <dependent idx="6">合</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="6">合</governor>
+            <dependent idx="7">起來</dependent>
+          </dep>
+          <dep type="cop">
+            <governor idx="11">平角</governor>
+            <dependent idx="8">是</dependent>
+          </dep>
+          <dep type="nummod">
+            <governor idx="11">平角</governor>
+            <dependent idx="9">一</dependent>
+          </dep>
+          <dep type="mark:clf">
+            <governor idx="9">一</governor>
+            <dependent idx="10">個</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="11">平角</governor>
+            <dependent idx="12">，</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="29">幾度</governor>
+            <dependent idx="13">而且</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="15">1</governor>
+            <dependent idx="14">角</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="29">幾度</governor>
+            <dependent idx="15">1</dependent>
+          </dep>
+          <dep type="cop">
+            <governor idx="29">幾度</governor>
+            <dependent idx="16">是</dependent>
+          </dep>
+          <dep type="nmod:assmod">
+            <governor idx="19">3</governor>
+            <dependent idx="17">角2</dependent>
+          </dep>
+          <dep type="case">
+            <governor idx="17">角2</governor>
+            <dependent idx="18">的</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="16">是</governor>
+            <dependent idx="19">3</dependent>
+          </dep>
+          <dep type="mark:clf">
+            <governor idx="19">3</governor>
+            <dependent idx="20">倍</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="29">幾度</governor>
+            <dependent idx="21">，</dependent>
+          </dep>
+          <dep type="compound:nn">
+            <governor idx="25">角</governor>
+            <dependent idx="22">角</dependent>
+          </dep>
+          <dep type="conj">
+            <governor idx="25">角</governor>
+            <dependent idx="23">1</dependent>
+          </dep>
+          <dep type="cc">
+            <governor idx="25">角</governor>
+            <dependent idx="24">和</dependent>
+          </dep>
+          <dep type="nmod:topic">
+            <governor idx="29">幾度</governor>
+            <dependent idx="25">角</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="29">幾度</governor>
+            <dependent idx="26">2</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="29">幾度</governor>
+            <dependent idx="27">各</dependent>
+          </dep>
+          <dep type="cop">
+            <governor idx="29">幾度</governor>
+            <dependent idx="28">是</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="11">平角</governor>
+            <dependent idx="29">幾度</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="11">平角</governor>
+            <dependent idx="30">？</dependent>
+          </dep>
+        </dependencies>
+        <dependencies type="collapsed-ccprocessed-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="11">平角</dependent>
+          </dep>
+          <dep type="compound:nn">
+            <governor idx="4">角</governor>
+            <dependent idx="1">角</dependent>
+          </dep>
+          <dep type="conj">
+            <governor idx="4">角</governor>
+            <dependent idx="2">1</dependent>
+          </dep>
+          <dep type="cc">
+            <governor idx="4">角</governor>
+            <dependent idx="3">和</dependent>
+          </dep>
+          <dep type="nmod:topic">
+            <governor idx="6">合</governor>
+            <dependent idx="4">角</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="6">合</governor>
+            <dependent idx="5">2</dependent>
+          </dep>
+          <dep type="conj">
+            <governor idx="11">平角</governor>
+            <dependent idx="6">合</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="6">合</governor>
+            <dependent idx="7">起來</dependent>
+          </dep>
+          <dep type="cop">
+            <governor idx="11">平角</governor>
+            <dependent idx="8">是</dependent>
+          </dep>
+          <dep type="nummod">
+            <governor idx="11">平角</governor>
+            <dependent idx="9">一</dependent>
+          </dep>
+          <dep type="mark:clf">
+            <governor idx="9">一</governor>
+            <dependent idx="10">個</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="11">平角</governor>
+            <dependent idx="12">，</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="29">幾度</governor>
+            <dependent idx="13">而且</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="15">1</governor>
+            <dependent idx="14">角</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="29">幾度</governor>
+            <dependent idx="15">1</dependent>
+          </dep>
+          <dep type="cop">
+            <governor idx="29">幾度</governor>
+            <dependent idx="16">是</dependent>
+          </dep>
+          <dep type="nmod:assmod">
+            <governor idx="19">3</governor>
+            <dependent idx="17">角2</dependent>
+          </dep>
+          <dep type="case">
+            <governor idx="17">角2</governor>
+            <dependent idx="18">的</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="16">是</governor>
+            <dependent idx="19">3</dependent>
+          </dep>
+          <dep type="mark:clf">
+            <governor idx="19">3</governor>
+            <dependent idx="20">倍</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="29">幾度</governor>
+            <dependent idx="21">，</dependent>
+          </dep>
+          <dep type="compound:nn">
+            <governor idx="25">角</governor>
+            <dependent idx="22">角</dependent>
+          </dep>
+          <dep type="conj">
+            <governor idx="25">角</governor>
+            <dependent idx="23">1</dependent>
+          </dep>
+          <dep type="cc">
+            <governor idx="25">角</governor>
+            <dependent idx="24">和</dependent>
+          </dep>
+          <dep type="nmod:topic">
+            <governor idx="29">幾度</governor>
+            <dependent idx="25">角</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="29">幾度</governor>
+            <dependent idx="26">2</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="29">幾度</governor>
+            <dependent idx="27">各</dependent>
+          </dep>
+          <dep type="cop">
+            <governor idx="29">幾度</governor>
+            <dependent idx="28">是</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="11">平角</governor>
+            <dependent idx="29">幾度</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="11">平角</governor>
+            <dependent idx="30">？</dependent>
+          </dep>
+        </dependencies>
+        <dependencies type="enhanced-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="11">平角</dependent>
+          </dep>
+          <dep type="compound:nn">
+            <governor idx="4">角</governor>
+            <dependent idx="1">角</dependent>
+          </dep>
+          <dep type="conj">
+            <governor idx="4">角</governor>
+            <dependent idx="2">1</dependent>
+          </dep>
+          <dep type="cc">
+            <governor idx="4">角</governor>
+            <dependent idx="3">和</dependent>
+          </dep>
+          <dep type="nmod:topic">
+            <governor idx="6">合</governor>
+            <dependent idx="4">角</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="6">合</governor>
+            <dependent idx="5">2</dependent>
+          </dep>
+          <dep type="conj">
+            <governor idx="11">平角</governor>
+            <dependent idx="6">合</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="6">合</governor>
+            <dependent idx="7">起來</dependent>
+          </dep>
+          <dep type="cop">
+            <governor idx="11">平角</governor>
+            <dependent idx="8">是</dependent>
+          </dep>
+          <dep type="nummod">
+            <governor idx="11">平角</governor>
+            <dependent idx="9">一</dependent>
+          </dep>
+          <dep type="mark:clf">
+            <governor idx="9">一</governor>
+            <dependent idx="10">個</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="11">平角</governor>
+            <dependent idx="12">，</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="29">幾度</governor>
+            <dependent idx="13">而且</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="15">1</governor>
+            <dependent idx="14">角</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="29">幾度</governor>
+            <dependent idx="15">1</dependent>
+          </dep>
+          <dep type="cop">
+            <governor idx="29">幾度</governor>
+            <dependent idx="16">是</dependent>
+          </dep>
+          <dep type="nmod:assmod">
+            <governor idx="19">3</governor>
+            <dependent idx="17">角2</dependent>
+          </dep>
+          <dep type="case">
+            <governor idx="17">角2</governor>
+            <dependent idx="18">的</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="16">是</governor>
+            <dependent idx="19">3</dependent>
+          </dep>
+          <dep type="mark:clf">
+            <governor idx="19">3</governor>
+            <dependent idx="20">倍</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="29">幾度</governor>
+            <dependent idx="21">，</dependent>
+          </dep>
+          <dep type="compound:nn">
+            <governor idx="25">角</governor>
+            <dependent idx="22">角</dependent>
+          </dep>
+          <dep type="conj">
+            <governor idx="25">角</governor>
+            <dependent idx="23">1</dependent>
+          </dep>
+          <dep type="cc">
+            <governor idx="25">角</governor>
+            <dependent idx="24">和</dependent>
+          </dep>
+          <dep type="nmod:topic">
+            <governor idx="29">幾度</governor>
+            <dependent idx="25">角</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="29">幾度</governor>
+            <dependent idx="26">2</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="29">幾度</governor>
+            <dependent idx="27">各</dependent>
+          </dep>
+          <dep type="cop">
+            <governor idx="29">幾度</governor>
+            <dependent idx="28">是</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="11">平角</governor>
+            <dependent idx="29">幾度</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="11">平角</governor>
+            <dependent idx="30">？</dependent>
+          </dep>
+        </dependencies>
+        <dependencies type="enhanced-plus-plus-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="11">平角</dependent>
+          </dep>
+          <dep type="compound:nn">
+            <governor idx="4">角</governor>
+            <dependent idx="1">角</dependent>
+          </dep>
+          <dep type="conj">
+            <governor idx="4">角</governor>
+            <dependent idx="2">1</dependent>
+          </dep>
+          <dep type="cc">
+            <governor idx="4">角</governor>
+            <dependent idx="3">和</dependent>
+          </dep>
+          <dep type="nmod:topic">
+            <governor idx="6">合</governor>
+            <dependent idx="4">角</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="6">合</governor>
+            <dependent idx="5">2</dependent>
+          </dep>
+          <dep type="conj">
+            <governor idx="11">平角</governor>
+            <dependent idx="6">合</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="6">合</governor>
+            <dependent idx="7">起來</dependent>
+          </dep>
+          <dep type="cop">
+            <governor idx="11">平角</governor>
+            <dependent idx="8">是</dependent>
+          </dep>
+          <dep type="nummod">
+            <governor idx="11">平角</governor>
+            <dependent idx="9">一</dependent>
+          </dep>
+          <dep type="mark:clf">
+            <governor idx="9">一</governor>
+            <dependent idx="10">個</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="11">平角</governor>
+            <dependent idx="12">，</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="29">幾度</governor>
+            <dependent idx="13">而且</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="15">1</governor>
+            <dependent idx="14">角</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="29">幾度</governor>
+            <dependent idx="15">1</dependent>
+          </dep>
+          <dep type="cop">
+            <governor idx="29">幾度</governor>
+            <dependent idx="16">是</dependent>
+          </dep>
+          <dep type="nmod:assmod">
+            <governor idx="19">3</governor>
+            <dependent idx="17">角2</dependent>
+          </dep>
+          <dep type="case">
+            <governor idx="17">角2</governor>
+            <dependent idx="18">的</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="16">是</governor>
+            <dependent idx="19">3</dependent>
+          </dep>
+          <dep type="mark:clf">
+            <governor idx="19">3</governor>
+            <dependent idx="20">倍</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="29">幾度</governor>
+            <dependent idx="21">，</dependent>
+          </dep>
+          <dep type="compound:nn">
+            <governor idx="25">角</governor>
+            <dependent idx="22">角</dependent>
+          </dep>
+          <dep type="conj">
+            <governor idx="25">角</governor>
+            <dependent idx="23">1</dependent>
+          </dep>
+          <dep type="cc">
+            <governor idx="25">角</governor>
+            <dependent idx="24">和</dependent>
+          </dep>
+          <dep type="nmod:topic">
+            <governor idx="29">幾度</governor>
+            <dependent idx="25">角</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="29">幾度</governor>
+            <dependent idx="26">2</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="29">幾度</governor>
+            <dependent idx="27">各</dependent>
+          </dep>
+          <dep type="cop">
+            <governor idx="29">幾度</governor>
+            <dependent idx="28">是</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="11">平角</governor>
+            <dependent idx="29">幾度</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="11">平角</governor>
+            <dependent idx="30">？</dependent>
+          </dep>
+        </dependencies>
+      </sentence>
+    </sentences>
+  </document>
+</root>

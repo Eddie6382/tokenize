@@ -1,0 +1,730 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="CoreNLP-to-HTML.xsl" type="text/xsl"?>
+<root>
+  <document>
+    <sentences>
+      <sentence id="1">
+        <tokens>
+          <token id="1">
+            <word>1</word>
+            <lemma>1</lemma>
+            <CharacterOffsetBegin>0</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1</CharacterOffsetEnd>
+            <POS>CD</POS>
+            <NER>MONEY</NER>
+            <NormalizedNER>元1</NormalizedNER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="2">
+            <word>元</word>
+            <lemma>元</lemma>
+            <CharacterOffsetBegin>1</CharacterOffsetBegin>
+            <CharacterOffsetEnd>2</CharacterOffsetEnd>
+            <POS>M</POS>
+            <NER>MONEY</NER>
+            <NormalizedNER>元1</NormalizedNER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="3">
+            <word>及</word>
+            <lemma>及</lemma>
+            <CharacterOffsetBegin>2</CharacterOffsetBegin>
+            <CharacterOffsetEnd>3</CharacterOffsetEnd>
+            <POS>CC</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="4">
+            <word>5</word>
+            <lemma>5</lemma>
+            <CharacterOffsetBegin>3</CharacterOffsetBegin>
+            <CharacterOffsetEnd>4</CharacterOffsetEnd>
+            <POS>CD</POS>
+            <NER>MONEY</NER>
+            <NormalizedNER>元5</NormalizedNER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="5">
+            <word>元</word>
+            <lemma>元</lemma>
+            <CharacterOffsetBegin>4</CharacterOffsetBegin>
+            <CharacterOffsetEnd>5</CharacterOffsetEnd>
+            <POS>M</POS>
+            <NER>MONEY</NER>
+            <NormalizedNER>元5</NormalizedNER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="6">
+            <word>硬幣共</word>
+            <lemma>硬幣共</lemma>
+            <CharacterOffsetBegin>5</CharacterOffsetBegin>
+            <CharacterOffsetEnd>8</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="7">
+            <word>有</word>
+            <lemma>有</lemma>
+            <CharacterOffsetBegin>8</CharacterOffsetBegin>
+            <CharacterOffsetEnd>9</CharacterOffsetEnd>
+            <POS>VE</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="8">
+            <word>100</word>
+            <lemma>100</lemma>
+            <CharacterOffsetBegin>9</CharacterOffsetBegin>
+            <CharacterOffsetEnd>12</CharacterOffsetEnd>
+            <POS>CD</POS>
+            <NER>NUMBER</NER>
+            <NormalizedNER>100</NormalizedNER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="9">
+            <word>個</word>
+            <lemma>個</lemma>
+            <CharacterOffsetBegin>12</CharacterOffsetBegin>
+            <CharacterOffsetEnd>13</CharacterOffsetEnd>
+            <POS>M</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="10">
+            <word>，</word>
+            <lemma>，</lemma>
+            <CharacterOffsetBegin>13</CharacterOffsetBegin>
+            <CharacterOffsetEnd>14</CharacterOffsetEnd>
+            <POS>PU</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="11">
+            <word>共</word>
+            <lemma>共</lemma>
+            <CharacterOffsetBegin>14</CharacterOffsetBegin>
+            <CharacterOffsetEnd>15</CharacterOffsetEnd>
+            <POS>AD</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="12">
+            <word>有</word>
+            <lemma>有</lemma>
+            <CharacterOffsetBegin>15</CharacterOffsetBegin>
+            <CharacterOffsetEnd>16</CharacterOffsetEnd>
+            <POS>VE</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="13">
+            <word>260</word>
+            <lemma>260</lemma>
+            <CharacterOffsetBegin>16</CharacterOffsetBegin>
+            <CharacterOffsetEnd>19</CharacterOffsetEnd>
+            <POS>CD</POS>
+            <NER>MONEY</NER>
+            <NormalizedNER>元260</NormalizedNER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="14">
+            <word>元</word>
+            <lemma>元</lemma>
+            <CharacterOffsetBegin>19</CharacterOffsetBegin>
+            <CharacterOffsetEnd>20</CharacterOffsetEnd>
+            <POS>M</POS>
+            <NER>MONEY</NER>
+            <NormalizedNER>元260</NormalizedNER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="15">
+            <word>，</word>
+            <lemma>，</lemma>
+            <CharacterOffsetBegin>20</CharacterOffsetBegin>
+            <CharacterOffsetEnd>21</CharacterOffsetEnd>
+            <POS>PU</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="16">
+            <word>1</word>
+            <lemma>1</lemma>
+            <CharacterOffsetBegin>21</CharacterOffsetBegin>
+            <CharacterOffsetEnd>22</CharacterOffsetEnd>
+            <POS>CD</POS>
+            <NER>MONEY</NER>
+            <NormalizedNER>元1</NormalizedNER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="17">
+            <word>元</word>
+            <lemma>元</lemma>
+            <CharacterOffsetBegin>22</CharacterOffsetBegin>
+            <CharacterOffsetEnd>23</CharacterOffsetEnd>
+            <POS>M</POS>
+            <NER>MONEY</NER>
+            <NormalizedNER>元1</NormalizedNER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="18">
+            <word>及</word>
+            <lemma>及</lemma>
+            <CharacterOffsetBegin>23</CharacterOffsetBegin>
+            <CharacterOffsetEnd>24</CharacterOffsetEnd>
+            <POS>CC</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="19">
+            <word>5</word>
+            <lemma>5</lemma>
+            <CharacterOffsetBegin>24</CharacterOffsetBegin>
+            <CharacterOffsetEnd>25</CharacterOffsetEnd>
+            <POS>CD</POS>
+            <NER>MONEY</NER>
+            <NormalizedNER>元5</NormalizedNER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="20">
+            <word>元</word>
+            <lemma>元</lemma>
+            <CharacterOffsetBegin>25</CharacterOffsetBegin>
+            <CharacterOffsetEnd>26</CharacterOffsetEnd>
+            <POS>M</POS>
+            <NER>MONEY</NER>
+            <NormalizedNER>元5</NormalizedNER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="21">
+            <word>各</word>
+            <lemma>各</lemma>
+            <CharacterOffsetBegin>26</CharacterOffsetBegin>
+            <CharacterOffsetEnd>27</CharacterOffsetEnd>
+            <POS>AD</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="22">
+            <word>有</word>
+            <lemma>有</lemma>
+            <CharacterOffsetBegin>27</CharacterOffsetBegin>
+            <CharacterOffsetEnd>28</CharacterOffsetEnd>
+            <POS>VE</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="23">
+            <word>幾個</word>
+            <lemma>幾個</lemma>
+            <CharacterOffsetBegin>28</CharacterOffsetBegin>
+            <CharacterOffsetEnd>30</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="24">
+            <word>？</word>
+            <lemma>？</lemma>
+            <CharacterOffsetBegin>30</CharacterOffsetBegin>
+            <CharacterOffsetEnd>31</CharacterOffsetEnd>
+            <POS>PU</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+        </tokens>
+        <parse>(ROOT (IP (IP (NP (QP (CD 1) (CLP (M 元))) (CC 及) (NP (QP (CD 5) (CLP (M 元))) (NP (NN 硬幣共)))) (VP (VP (VE 有) (QP (CD 100) (CLP (M 個)))) (PU ，) (VP (ADVP (AD 共)) (VP (VE 有) (QP (CD 260) (CLP (M 元))))))) (PU ，) (IP (QP (QP (CD 1) (CLP (M 元))) (CC 及) (QP (CD 5) (CLP (M 元)))) (VP (ADVP (AD 各)) (VP (VE 有) (NP (NN 幾個))))) (PU ？))) </parse>
+        <dependencies type="basic-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="7">有</dependent>
+          </dep>
+          <dep type="nummod">
+            <governor idx="4">5</governor>
+            <dependent idx="1">1</dependent>
+          </dep>
+          <dep type="mark:clf">
+            <governor idx="1">1</governor>
+            <dependent idx="2">元</dependent>
+          </dep>
+          <dep type="cc">
+            <governor idx="4">5</governor>
+            <dependent idx="3">及</dependent>
+          </dep>
+          <dep type="nummod">
+            <governor idx="6">硬幣共</governor>
+            <dependent idx="4">5</dependent>
+          </dep>
+          <dep type="mark:clf">
+            <governor idx="4">5</governor>
+            <dependent idx="5">元</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="7">有</governor>
+            <dependent idx="6">硬幣共</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="7">有</governor>
+            <dependent idx="8">100</dependent>
+          </dep>
+          <dep type="mark:clf">
+            <governor idx="8">100</governor>
+            <dependent idx="9">個</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="7">有</governor>
+            <dependent idx="10">，</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="12">有</governor>
+            <dependent idx="11">共</dependent>
+          </dep>
+          <dep type="conj">
+            <governor idx="7">有</governor>
+            <dependent idx="12">有</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="12">有</governor>
+            <dependent idx="13">260</dependent>
+          </dep>
+          <dep type="mark:clf">
+            <governor idx="13">260</governor>
+            <dependent idx="14">元</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="7">有</governor>
+            <dependent idx="15">，</dependent>
+          </dep>
+          <dep type="nummod">
+            <governor idx="19">5</governor>
+            <dependent idx="16">1</dependent>
+          </dep>
+          <dep type="mark:clf">
+            <governor idx="16">1</governor>
+            <dependent idx="17">元</dependent>
+          </dep>
+          <dep type="cc">
+            <governor idx="19">5</governor>
+            <dependent idx="18">及</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="22">有</governor>
+            <dependent idx="19">5</dependent>
+          </dep>
+          <dep type="mark:clf">
+            <governor idx="19">5</governor>
+            <dependent idx="20">元</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="22">有</governor>
+            <dependent idx="21">各</dependent>
+          </dep>
+          <dep type="conj">
+            <governor idx="7">有</governor>
+            <dependent idx="22">有</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="22">有</governor>
+            <dependent idx="23">幾個</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="7">有</governor>
+            <dependent idx="24">？</dependent>
+          </dep>
+        </dependencies>
+        <dependencies type="collapsed-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="7">有</dependent>
+          </dep>
+          <dep type="nummod">
+            <governor idx="4">5</governor>
+            <dependent idx="1">1</dependent>
+          </dep>
+          <dep type="mark:clf">
+            <governor idx="1">1</governor>
+            <dependent idx="2">元</dependent>
+          </dep>
+          <dep type="cc">
+            <governor idx="4">5</governor>
+            <dependent idx="3">及</dependent>
+          </dep>
+          <dep type="nummod">
+            <governor idx="6">硬幣共</governor>
+            <dependent idx="4">5</dependent>
+          </dep>
+          <dep type="mark:clf">
+            <governor idx="4">5</governor>
+            <dependent idx="5">元</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="7">有</governor>
+            <dependent idx="6">硬幣共</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="7">有</governor>
+            <dependent idx="8">100</dependent>
+          </dep>
+          <dep type="mark:clf">
+            <governor idx="8">100</governor>
+            <dependent idx="9">個</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="7">有</governor>
+            <dependent idx="10">，</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="12">有</governor>
+            <dependent idx="11">共</dependent>
+          </dep>
+          <dep type="conj">
+            <governor idx="7">有</governor>
+            <dependent idx="12">有</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="12">有</governor>
+            <dependent idx="13">260</dependent>
+          </dep>
+          <dep type="mark:clf">
+            <governor idx="13">260</governor>
+            <dependent idx="14">元</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="7">有</governor>
+            <dependent idx="15">，</dependent>
+          </dep>
+          <dep type="nummod">
+            <governor idx="19">5</governor>
+            <dependent idx="16">1</dependent>
+          </dep>
+          <dep type="mark:clf">
+            <governor idx="16">1</governor>
+            <dependent idx="17">元</dependent>
+          </dep>
+          <dep type="cc">
+            <governor idx="19">5</governor>
+            <dependent idx="18">及</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="22">有</governor>
+            <dependent idx="19">5</dependent>
+          </dep>
+          <dep type="mark:clf">
+            <governor idx="19">5</governor>
+            <dependent idx="20">元</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="22">有</governor>
+            <dependent idx="21">各</dependent>
+          </dep>
+          <dep type="conj">
+            <governor idx="7">有</governor>
+            <dependent idx="22">有</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="22">有</governor>
+            <dependent idx="23">幾個</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="7">有</governor>
+            <dependent idx="24">？</dependent>
+          </dep>
+        </dependencies>
+        <dependencies type="collapsed-ccprocessed-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="7">有</dependent>
+          </dep>
+          <dep type="nummod">
+            <governor idx="4">5</governor>
+            <dependent idx="1">1</dependent>
+          </dep>
+          <dep type="mark:clf">
+            <governor idx="1">1</governor>
+            <dependent idx="2">元</dependent>
+          </dep>
+          <dep type="cc">
+            <governor idx="4">5</governor>
+            <dependent idx="3">及</dependent>
+          </dep>
+          <dep type="nummod">
+            <governor idx="6">硬幣共</governor>
+            <dependent idx="4">5</dependent>
+          </dep>
+          <dep type="mark:clf">
+            <governor idx="4">5</governor>
+            <dependent idx="5">元</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="7">有</governor>
+            <dependent idx="6">硬幣共</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="7">有</governor>
+            <dependent idx="8">100</dependent>
+          </dep>
+          <dep type="mark:clf">
+            <governor idx="8">100</governor>
+            <dependent idx="9">個</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="7">有</governor>
+            <dependent idx="10">，</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="12">有</governor>
+            <dependent idx="11">共</dependent>
+          </dep>
+          <dep type="conj">
+            <governor idx="7">有</governor>
+            <dependent idx="12">有</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="12">有</governor>
+            <dependent idx="13">260</dependent>
+          </dep>
+          <dep type="mark:clf">
+            <governor idx="13">260</governor>
+            <dependent idx="14">元</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="7">有</governor>
+            <dependent idx="15">，</dependent>
+          </dep>
+          <dep type="nummod">
+            <governor idx="19">5</governor>
+            <dependent idx="16">1</dependent>
+          </dep>
+          <dep type="mark:clf">
+            <governor idx="16">1</governor>
+            <dependent idx="17">元</dependent>
+          </dep>
+          <dep type="cc">
+            <governor idx="19">5</governor>
+            <dependent idx="18">及</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="22">有</governor>
+            <dependent idx="19">5</dependent>
+          </dep>
+          <dep type="mark:clf">
+            <governor idx="19">5</governor>
+            <dependent idx="20">元</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="22">有</governor>
+            <dependent idx="21">各</dependent>
+          </dep>
+          <dep type="conj">
+            <governor idx="7">有</governor>
+            <dependent idx="22">有</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="22">有</governor>
+            <dependent idx="23">幾個</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="7">有</governor>
+            <dependent idx="24">？</dependent>
+          </dep>
+        </dependencies>
+        <dependencies type="enhanced-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="7">有</dependent>
+          </dep>
+          <dep type="nummod">
+            <governor idx="4">5</governor>
+            <dependent idx="1">1</dependent>
+          </dep>
+          <dep type="mark:clf">
+            <governor idx="1">1</governor>
+            <dependent idx="2">元</dependent>
+          </dep>
+          <dep type="cc">
+            <governor idx="4">5</governor>
+            <dependent idx="3">及</dependent>
+          </dep>
+          <dep type="nummod">
+            <governor idx="6">硬幣共</governor>
+            <dependent idx="4">5</dependent>
+          </dep>
+          <dep type="mark:clf">
+            <governor idx="4">5</governor>
+            <dependent idx="5">元</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="7">有</governor>
+            <dependent idx="6">硬幣共</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="7">有</governor>
+            <dependent idx="8">100</dependent>
+          </dep>
+          <dep type="mark:clf">
+            <governor idx="8">100</governor>
+            <dependent idx="9">個</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="7">有</governor>
+            <dependent idx="10">，</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="12">有</governor>
+            <dependent idx="11">共</dependent>
+          </dep>
+          <dep type="conj">
+            <governor idx="7">有</governor>
+            <dependent idx="12">有</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="12">有</governor>
+            <dependent idx="13">260</dependent>
+          </dep>
+          <dep type="mark:clf">
+            <governor idx="13">260</governor>
+            <dependent idx="14">元</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="7">有</governor>
+            <dependent idx="15">，</dependent>
+          </dep>
+          <dep type="nummod">
+            <governor idx="19">5</governor>
+            <dependent idx="16">1</dependent>
+          </dep>
+          <dep type="mark:clf">
+            <governor idx="16">1</governor>
+            <dependent idx="17">元</dependent>
+          </dep>
+          <dep type="cc">
+            <governor idx="19">5</governor>
+            <dependent idx="18">及</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="22">有</governor>
+            <dependent idx="19">5</dependent>
+          </dep>
+          <dep type="mark:clf">
+            <governor idx="19">5</governor>
+            <dependent idx="20">元</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="22">有</governor>
+            <dependent idx="21">各</dependent>
+          </dep>
+          <dep type="conj">
+            <governor idx="7">有</governor>
+            <dependent idx="22">有</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="22">有</governor>
+            <dependent idx="23">幾個</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="7">有</governor>
+            <dependent idx="24">？</dependent>
+          </dep>
+        </dependencies>
+        <dependencies type="enhanced-plus-plus-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="7">有</dependent>
+          </dep>
+          <dep type="nummod">
+            <governor idx="4">5</governor>
+            <dependent idx="1">1</dependent>
+          </dep>
+          <dep type="mark:clf">
+            <governor idx="1">1</governor>
+            <dependent idx="2">元</dependent>
+          </dep>
+          <dep type="cc">
+            <governor idx="4">5</governor>
+            <dependent idx="3">及</dependent>
+          </dep>
+          <dep type="nummod">
+            <governor idx="6">硬幣共</governor>
+            <dependent idx="4">5</dependent>
+          </dep>
+          <dep type="mark:clf">
+            <governor idx="4">5</governor>
+            <dependent idx="5">元</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="7">有</governor>
+            <dependent idx="6">硬幣共</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="7">有</governor>
+            <dependent idx="8">100</dependent>
+          </dep>
+          <dep type="mark:clf">
+            <governor idx="8">100</governor>
+            <dependent idx="9">個</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="7">有</governor>
+            <dependent idx="10">，</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="12">有</governor>
+            <dependent idx="11">共</dependent>
+          </dep>
+          <dep type="conj">
+            <governor idx="7">有</governor>
+            <dependent idx="12">有</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="12">有</governor>
+            <dependent idx="13">260</dependent>
+          </dep>
+          <dep type="mark:clf">
+            <governor idx="13">260</governor>
+            <dependent idx="14">元</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="7">有</governor>
+            <dependent idx="15">，</dependent>
+          </dep>
+          <dep type="nummod">
+            <governor idx="19">5</governor>
+            <dependent idx="16">1</dependent>
+          </dep>
+          <dep type="mark:clf">
+            <governor idx="16">1</governor>
+            <dependent idx="17">元</dependent>
+          </dep>
+          <dep type="cc">
+            <governor idx="19">5</governor>
+            <dependent idx="18">及</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="22">有</governor>
+            <dependent idx="19">5</dependent>
+          </dep>
+          <dep type="mark:clf">
+            <governor idx="19">5</governor>
+            <dependent idx="20">元</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="22">有</governor>
+            <dependent idx="21">各</dependent>
+          </dep>
+          <dep type="conj">
+            <governor idx="7">有</governor>
+            <dependent idx="22">有</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="22">有</governor>
+            <dependent idx="23">幾個</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="7">有</governor>
+            <dependent idx="24">？</dependent>
+          </dep>
+        </dependencies>
+      </sentence>
+    </sentences>
+  </document>
+</root>
